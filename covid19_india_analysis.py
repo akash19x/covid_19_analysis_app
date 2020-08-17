@@ -10,7 +10,8 @@ url="https://api.covid19india.org/csv/latest/states.csv"
 s=requests.get(url).content
 c=pd.read_csv(io.StringIO(s.decode('utf-8')),parse_dates = ["Date"],index_col="Date",dayfirst = True)
 df1 = c
-df = df1["2020-06-01":]
+df1["2020-06-20":].to_csv("states.csv")
+df = pd.read_csv("states.csv",index_col='Date')
 df['Tested'].fillna(0,inplace=True)
 conv_dict = {
     'Recovered' : int,
@@ -27,9 +28,10 @@ plot_types = ['plot','bar']
 city_url="https://api.covid19india.org/csv/latest/districts.csv"
 city_req=requests.get(city_url).content
 city_data=pd.read_csv(io.StringIO(city_req.decode('utf-8')),parse_dates = ["Date"],index_col="Date",dayfirst = True)
-city_df =city_data["2020-06-01":]
+city_data.loc["2020-06-20":].to_csv("cities.csv")
+city_df = pd.read_csv("cities.csv",index_col='Date')
 city_df['Tested'].fillna(0,inplace=True)
-city_df = city_df.astype(conv_dict)
+city_df.astype(conv_dict)
 city_df['Active'] = city_df['Confirmed']-city_df['Recovered']-city_df['Deceased']
 all_cities = city_df['District'].unique()
 
@@ -159,11 +161,11 @@ html.Div(
      Input('input2','value')])
 def update_figure(sta1,input2):
     state = df[df['State'] == sta1]
-    state['Dates'] = df.index.unique()
-    fig = px.line(state, x='Dates', y=['Confirmed', 'Active', 'Recovered', 'Deceased'])
+    #state['Dates'] = df.index.unique()
+    fig = px.line(state, x=df.index.unique(), y=['Confirmed', 'Active', 'Recovered', 'Deceased'])
 
     if input2=='bar':
-        fig = px.bar(state, x='Dates', y=['Confirmed','Active','Recovered','Deceased'])
+        fig = px.bar(state, x=df.index.unique(), y=['Confirmed','Active','Recovered','Deceased'])
 
     fig.update_layout(transition_duration=500)
     return fig
@@ -173,16 +175,14 @@ def update_figure(sta1,input2):
      Input('input4','value'),
      Input('input5','value')])
 def update2(input3,input4,input5):
-    input3 = str(input3)
-    input4 = str(input4)
-    input5 = str(input5)
     state1 = df[df['State'] == input3]
     state2 = df[df['State'] == input4]
     dfresult = state1
     dfresult[input3] = state1[input5]
     dfresult[input4] = state2[input5]
-    dfresult['Dates'] = df.index.unique()
-    fig = px.line(dfresult,x='Dates',y=[input3,input4])
+    #dfresult['Dates'] = df.index.unique()
+    print(dfresult)
+    fig = px.line(dfresult,x=df.index.unique(),y=[input3,input4])
     fig.update_layout(transition_duration=500)
     return fig
 
@@ -192,16 +192,13 @@ def update2(input3,input4,input5):
      Input('input7','value'),
      Input('input8','value')])
 def update3(input6,input7,input8):
-    input6 = str(input6)
-    input7 = str(input7)
-    input8 = str(input8)
     city1 = city_df[city_df['District'] == input6]
     city2 = city_df[city_df['District'] == input7]
     dfresult = city1
     dfresult[input6] = city1[input8]
     dfresult[input7] = city2[input8]
-    dfresult['Dates'] = df.index.unique()
-    fig = px.line(dfresult,x='Dates',y=[input6,input7])
+    #dfresult['Dates'] = df.index.unique()
+    fig = px.line(dfresult,x=df.index.unique(),y=[input6,input7])
     fig.update_layout(transition_duration=500)
     return fig
 
