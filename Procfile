@@ -1,0 +1,1 @@
+web: gunicorn covid19_india_analysis:server
