@@ -1,0 +1,8 @@
+[
+  "test_covid_analysis.py::test_get_Dates",
+  "test_covid_analysis.py::test_get_city_data",
+  "test_covid_analysis.py::test_get_given_State_data",
+  "test_covid_analysis.py::test_get_given_city_data",
+  "test_covid_analysis.py::test_get_given_city_dataw",
+  "test_covid_analysis.py::test_get_state_data"
+]

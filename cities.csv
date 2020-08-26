@@ -46520,7 +46520,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Maharashtra,Jalna,3916,2290,122,0,29981.0
 2020-08-24,Maharashtra,Kolhapur,18200,10817,483,0,
 2020-08-24,Maharashtra,Latur,6674,3652,235,0,
-2020-08-24,Maharashtra,Mumbai,137096,111082,7442,305,709583.0
+2020-08-24,Maharashtra,Mumbai,137096,111082,7442,305,715543.0
 2020-08-24,Maharashtra,Nagpur,20324,11032,522,1,143679.0
 2020-08-24,Maharashtra,Nanded,5342,2570,161,0,25305.0
 2020-08-24,Maharashtra,Nandurbar,1838,1008,60,0,7631.0
@@ -47232,16 +47232,16 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Maharashtra,Jalna,3948,2327,123,0,29981.0
 2020-08-25,Maharashtra,Kolhapur,18690,12198,520,0,
 2020-08-25,Maharashtra,Latur,6840,3835,243,0,
-2020-08-25,Maharashtra,Mumbai,137683,111962,7477,306,709583.0
-2020-08-25,Maharashtra,Nagpur,21113,11507,546,1,143679.0
+2020-08-25,Maharashtra,Mumbai,137683,111962,7477,306,715543.0
+2020-08-25,Maharashtra,Nagpur,21113,11507,546,1,147641.0
 2020-08-25,Maharashtra,Nanded,5485,2789,162,0,25305.0
 2020-08-25,Maharashtra,Nandurbar,1945,1034,60,0,7631.0
-2020-08-25,Maharashtra,Nashik,33628,22488,764,0,117549.0
+2020-08-25,Maharashtra,Nashik,33628,22488,764,0,118880.0
 2020-08-25,Maharashtra,Osmanabad,5273,3034,136,0,31955.0
 2020-08-25,Maharashtra,Other State,660,0,66,0,
 2020-08-25,Maharashtra,Palghar,23800,16727,559,0,127114.0
 2020-08-25,Maharashtra,Parbhani,2193,835,69,0,11301.0
-2020-08-25,Maharashtra,Pune,155039,109039,3823,0,643303.0
+2020-08-25,Maharashtra,Pune,155039,109039,3823,0,657583.0
 2020-08-25,Maharashtra,Raigad,27029,21432,723,2,85264.0
 2020-08-25,Maharashtra,Ratnagiri,3524,1897,125,0,
 2020-08-25,Maharashtra,Sangli,9666,5595,319,0,
@@ -47251,7 +47251,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Maharashtra,Thane,124261,101715,3624,1,457622.0
 2020-08-25,Maharashtra,Wardha,634,365,13,1,14367.0
 2020-08-25,Maharashtra,Washim,1467,1133,24,1,
-2020-08-25,Maharashtra,Yavatmal,2639,1849,64,0,42138.0
+2020-08-25,Maharashtra,Yavatmal,2639,1849,64,0,43873.0
 2020-08-25,Meghalaya,East Garo Hills,4,1,0,0,
 2020-08-25,Meghalaya,East Jaintia Hills,32,20,0,0,
 2020-08-25,Meghalaya,East Khasi Hills,1375,574,4,0,
@@ -47284,7 +47284,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Madhya Pradesh,Agar Malwa,174,128,5,0,
 2020-08-25,Madhya Pradesh,Alirajpur,416,261,3,0,
 2020-08-25,Madhya Pradesh,Anuppur,306,136,1,0,8726.0
-2020-08-25,Madhya Pradesh,Ashoknagar,164,134,5,0,6524.0
+2020-08-25,Madhya Pradesh,Ashoknagar,164,134,5,0,6732.0
 2020-08-25,Madhya Pradesh,Balaghat,249,190,1,0,9654.0
 2020-08-25,Madhya Pradesh,Barwani,1061,940,14,0,14291.0
 2020-08-25,Madhya Pradesh,Betul,578,350,11,0,9685.0
@@ -47305,13 +47305,13 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Madhya Pradesh,Indore,11673,8088,368,0,192920.0
 2020-08-25,Madhya Pradesh,Jabalpur,3339,2467,67,0,56065.0
 2020-08-25,Madhya Pradesh,Jhabua,519,248,6,0,
-2020-08-25,Madhya Pradesh,Katni,417,321,8,0,9511.0
+2020-08-25,Madhya Pradesh,Katni,417,321,8,0,9923.0
 2020-08-25,Madhya Pradesh,Khandwa,864,757,21,0,17090.0
 2020-08-25,Madhya Pradesh,Khargone,1341,1114,25,0,19587.0
 2020-08-25,Madhya Pradesh,Mandla,142,81,1,0,
 2020-08-25,Madhya Pradesh,Mandsaur,714,567,12,0,19305.0
 2020-08-25,Madhya Pradesh,Morena,1997,1874,12,0,35043.0
-2020-08-25,Madhya Pradesh,Narsinghpur,332,271,2,0,11689.0
+2020-08-25,Madhya Pradesh,Narsinghpur,332,271,2,0,12015.0
 2020-08-25,Madhya Pradesh,Neemuch,1111,881,13,0,20585.0
 2020-08-25,Madhya Pradesh,Niwari,148,57,0,0,605.0
 2020-08-25,Madhya Pradesh,Panna,228,199,0,0,
@@ -47321,10 +47321,10 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Madhya Pradesh,Rewa,643,471,12,0,22690.0
 2020-08-25,Madhya Pradesh,Sagar,1015,799,46,0,38041.0
 2020-08-25,Madhya Pradesh,Satna,433,298,13,0,15401.0
-2020-08-25,Madhya Pradesh,Sehore,592,425,18,0,9201.0
+2020-08-25,Madhya Pradesh,Sehore,592,425,18,0,9823.0
 2020-08-25,Madhya Pradesh,Seoni,205,131,4,0,1237.0
 2020-08-25,Madhya Pradesh,Shahdol,380,224,2,0,8000.0
-2020-08-25,Madhya Pradesh,Shajapur,421,344,6,0,12325.0
+2020-08-25,Madhya Pradesh,Shajapur,421,344,6,0,12264.0
 2020-08-25,Madhya Pradesh,Sheopur,434,322,3,0,8807.0
 2020-08-25,Madhya Pradesh,Shivpuri,658,451,6,0,15226.0
 2020-08-25,Madhya Pradesh,Sidhi,265,173,2,0,4660.0
@@ -47943,16 +47943,16 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Maharashtra,Jalna,3948,2327,123,0,29981.0
 2020-08-26,Maharashtra,Kolhapur,18690,12198,520,0,
 2020-08-26,Maharashtra,Latur,6840,3835,243,0,
-2020-08-26,Maharashtra,Mumbai,137683,111962,7477,306,709583.0
-2020-08-26,Maharashtra,Nagpur,21113,11507,546,1,143679.0
+2020-08-26,Maharashtra,Mumbai,137683,111962,7477,306,715543.0
+2020-08-26,Maharashtra,Nagpur,21113,11507,546,1,147641.0
 2020-08-26,Maharashtra,Nanded,5485,2789,162,0,25305.0
 2020-08-26,Maharashtra,Nandurbar,1945,1034,60,0,7631.0
-2020-08-26,Maharashtra,Nashik,33628,22488,764,0,117549.0
+2020-08-26,Maharashtra,Nashik,33628,22488,764,0,118880.0
 2020-08-26,Maharashtra,Osmanabad,5273,3034,136,0,31955.0
 2020-08-26,Maharashtra,Other State,660,0,66,0,
 2020-08-26,Maharashtra,Palghar,23800,16727,559,0,127114.0
 2020-08-26,Maharashtra,Parbhani,2193,835,69,0,11301.0
-2020-08-26,Maharashtra,Pune,155039,109039,3823,0,643303.0
+2020-08-26,Maharashtra,Pune,155039,109039,3823,0,657583.0
 2020-08-26,Maharashtra,Raigad,27029,21432,723,2,85264.0
 2020-08-26,Maharashtra,Ratnagiri,3524,1897,125,0,
 2020-08-26,Maharashtra,Sangli,9666,5595,319,0,
@@ -47962,7 +47962,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Maharashtra,Thane,124261,101715,3624,1,457622.0
 2020-08-26,Maharashtra,Wardha,634,365,13,1,14367.0
 2020-08-26,Maharashtra,Washim,1467,1133,24,1,
-2020-08-26,Maharashtra,Yavatmal,2639,1849,64,0,42138.0
+2020-08-26,Maharashtra,Yavatmal,2639,1849,64,0,43873.0
 2020-08-26,Meghalaya,East Garo Hills,4,1,0,0,
 2020-08-26,Meghalaya,East Jaintia Hills,32,20,0,0,
 2020-08-26,Meghalaya,East Khasi Hills,1375,574,4,0,
@@ -47995,7 +47995,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Madhya Pradesh,Agar Malwa,174,128,5,0,
 2020-08-26,Madhya Pradesh,Alirajpur,416,261,3,0,
 2020-08-26,Madhya Pradesh,Anuppur,306,136,1,0,8726.0
-2020-08-26,Madhya Pradesh,Ashoknagar,164,134,5,0,6524.0
+2020-08-26,Madhya Pradesh,Ashoknagar,164,134,5,0,6732.0
 2020-08-26,Madhya Pradesh,Balaghat,249,190,1,0,9654.0
 2020-08-26,Madhya Pradesh,Barwani,1061,940,14,0,14291.0
 2020-08-26,Madhya Pradesh,Betul,578,350,11,0,9685.0
@@ -48016,13 +48016,13 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Madhya Pradesh,Indore,11673,8088,368,0,192920.0
 2020-08-26,Madhya Pradesh,Jabalpur,3339,2467,67,0,56065.0
 2020-08-26,Madhya Pradesh,Jhabua,519,248,6,0,
-2020-08-26,Madhya Pradesh,Katni,417,321,8,0,9511.0
+2020-08-26,Madhya Pradesh,Katni,417,321,8,0,9923.0
 2020-08-26,Madhya Pradesh,Khandwa,864,757,21,0,17090.0
 2020-08-26,Madhya Pradesh,Khargone,1341,1114,25,0,19587.0
 2020-08-26,Madhya Pradesh,Mandla,142,81,1,0,
 2020-08-26,Madhya Pradesh,Mandsaur,714,567,12,0,19305.0
 2020-08-26,Madhya Pradesh,Morena,1997,1874,12,0,35043.0
-2020-08-26,Madhya Pradesh,Narsinghpur,332,271,2,0,11689.0
+2020-08-26,Madhya Pradesh,Narsinghpur,332,271,2,0,12015.0
 2020-08-26,Madhya Pradesh,Neemuch,1111,881,13,0,20585.0
 2020-08-26,Madhya Pradesh,Niwari,148,57,0,0,605.0
 2020-08-26,Madhya Pradesh,Panna,228,199,0,0,
@@ -48032,10 +48032,10 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Madhya Pradesh,Rewa,643,471,12,0,22690.0
 2020-08-26,Madhya Pradesh,Sagar,1015,799,46,0,38041.0
 2020-08-26,Madhya Pradesh,Satna,433,298,13,0,15401.0
-2020-08-26,Madhya Pradesh,Sehore,592,425,18,0,9201.0
+2020-08-26,Madhya Pradesh,Sehore,592,425,18,0,9823.0
 2020-08-26,Madhya Pradesh,Seoni,205,131,4,0,1237.0
 2020-08-26,Madhya Pradesh,Shahdol,380,224,2,0,8000.0
-2020-08-26,Madhya Pradesh,Shajapur,421,344,6,0,12325.0
+2020-08-26,Madhya Pradesh,Shajapur,421,344,6,0,12264.0
 2020-08-26,Madhya Pradesh,Sheopur,434,322,3,0,8807.0
 2020-08-26,Madhya Pradesh,Shivpuri,658,451,6,0,15226.0
 2020-08-26,Madhya Pradesh,Sidhi,265,173,2,0,4660.0
@@ -48123,15 +48123,15 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Puducherry,Mahe,30,28,0,0,2102.0
 2020-08-26,Puducherry,Puducherry,10063,6208,145,0,53012.0
 2020-08-26,Puducherry,Yanam,622,521,16,0,4010.0
-2020-08-26,Rajasthan,Ajmer,3759,3256,66,0,82355.0
-2020-08-26,Rajasthan,Alwar,7024,5698,23,0,81925.0
+2020-08-26,Rajasthan,Ajmer,3817,3256,66,0,82355.0
+2020-08-26,Rajasthan,Alwar,7094,5698,23,0,81925.0
 2020-08-26,Rajasthan,BSF Camp,85,85,0,0,
 2020-08-26,Rajasthan,Banswara,456,358,4,0,15290.0
 2020-08-26,Rajasthan,Baran,441,271,12,0,20065.0
-2020-08-26,Rajasthan,Barmer,2137,1908,18,0,48016.0
+2020-08-26,Rajasthan,Barmer,2137,1982,18,0,48016.0
 2020-08-26,Rajasthan,Bharatpur,3553,3144,67,0,61947.0
 2020-08-26,Rajasthan,Bhilwara,1987,1176,13,0,69341.0
-2020-08-26,Rajasthan,Bikaner,4004,3254,67,0,111744.0
+2020-08-26,Rajasthan,Bikaner,4131,3386,69,0,111744.0
 2020-08-26,Rajasthan,Bundi,469,328,3,0,15599.0
 2020-08-26,Rajasthan,Chittorgarh,755,558,6,0,29033.0
 2020-08-26,Rajasthan,Churu,860,737,4,0,43670.0
@@ -48142,21 +48142,21 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Rajasthan,Ganganagar,583,353,7,0,18436.0
 2020-08-26,Rajasthan,Hanumangarh,367,282,2,0,20226.0
 2020-08-26,Rajasthan,Italians,2,2,0,0,
-2020-08-26,Rajasthan,Jaipur,9263,5929,260,0,230524.0
+2020-08-26,Rajasthan,Jaipur,9389,5929,263,0,230524.0
 2020-08-26,Rajasthan,Jaisalmer,316,271,2,0,37207.0
 2020-08-26,Rajasthan,Jalore,1324,1301,11,0,71928.0
 2020-08-26,Rajasthan,Jhalawar,1159,967,0,0,49166.0
 2020-08-26,Rajasthan,Jhunjhunu,944,877,6,0,36658.0
-2020-08-26,Rajasthan,Jodhpur,10938,8722,89,0,295296.0
+2020-08-26,Rajasthan,Jodhpur,11074,8722,89,0,295296.0
 2020-08-26,Rajasthan,Karauli,559,407,7,0,19032.0
-2020-08-26,Rajasthan,Kota,4427,2987,66,0,139854.0
+2020-08-26,Rajasthan,Kota,4455,2987,66,0,139854.0
 2020-08-26,Rajasthan,Nagaur,2226,1920,41,0,66587.0
-2020-08-26,Rajasthan,Other State,189,94,39,0,
-2020-08-26,Rajasthan,Pali,3708,3341,42,0,87583.0
+2020-08-26,Rajasthan,Other State,189,104,39,0,
+2020-08-26,Rajasthan,Pali,3748,3341,42,0,87583.0
 2020-08-26,Rajasthan,Pratapgarh,385,203,5,0,19754.0
 2020-08-26,Rajasthan,Rajsamand,1039,923,13,0,36318.0
 2020-08-26,Rajasthan,Sawai Madhopur,439,367,13,0,28044.0
-2020-08-26,Rajasthan,Sikar,2422,1985,16,0,76068.0
+2020-08-26,Rajasthan,Sikar,2447,1985,17,0,76068.0
 2020-08-26,Rajasthan,Sirohi,1165,1012,11,0,39086.0
 2020-08-26,Rajasthan,Tonk,553,467,10,0,22814.0
 2020-08-26,Rajasthan,Udaipur,2189,1963,24,0,99529.0
