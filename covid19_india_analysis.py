@@ -1,50 +1,30 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-from dash.dependencies import Input, Output, State
+from dash.dependencies import Input, Output
 import plotly.express as px
-import pandas as pd
-import io
-import requests
-url="https://api.covid19india.org/csv/latest/states.csv"
-s=requests.get(url).content
-c=pd.read_csv(io.StringIO(s.decode('utf-8')),parse_dates = ["Date"],index_col="Date",dayfirst = True)
-df1 = c
-df1["2020-06-20":].to_csv("states.csv")
-df = pd.read_csv("states.csv",index_col='Date')
-df['Tested'].fillna(0,inplace=True)
-conv_dict = {
-    'Recovered' : int,
-    'Deceased' : int,
-    'Confirmed' : int,
-    'Tested' : int
-}
-df = df.astype(conv_dict)
-df['Active'] = df['Confirmed']-df['Recovered']-df['Deceased']
-all_states = df['State'].unique()
-type_list = ['Active','Confirmed','Recovered','Deceased','Tested']
-plot_types = ['plot','bar']
+from utils import get_dates, get_state_data, get_city_data, get_given_city_data, \
+    get_given_state_data
 
-city_url="https://api.covid19india.org/csv/latest/districts.csv"
-city_req=requests.get(city_url).content
-city_data=pd.read_csv(io.StringIO(city_req.decode('utf-8')),parse_dates = ["Date"],index_col="Date",dayfirst = True)
-city_data.loc["2020-06-20":].to_csv("cities.csv")
-city_df = pd.read_csv("cities.csv",index_col='Date')
-city_df['Tested'].fillna(0,inplace=True)
-city_df.astype(conv_dict)
-city_df['Active'] = city_df['Confirmed']-city_df['Recovered']-city_df['Deceased']
-all_cities = city_df['District'].unique()
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+cases_types = ['Active', 'Confirmed', 'Recovered', 'Deceased', 'Tested']
+plot_types = ['plot', 'bar']
+bootstrap = "https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/solar/bootstrap.min.css"
+app = dash.Dash(__name__, external_stylesheets=[bootstrap])
 server = app.server
-app.layout = html.Div([
-    html.H1(children='COVID-19 Analysis Project',style={'text-align': 'center','backgroundColor':'#ECC3C3'}),
+colors = {
+    'background': '#111111',
+    'text': '#7FDBFF'
+}
+city_df = get_city_data()[0]
+state_df = get_state_data()[0]
 
+app.layout = html.Div([
+    html.H1(children='COVID-19 Analysis Project', style={'text-align': 'center'}),
     html.Div(children='''
         This is a COVID-19 analysis project made on Python Dash framework using data analysis libraries like pandas,plotly and APIs.
-        It is made for educational purposes only and we have used api.covid19india.org to grt the dataset for analysis.
-    ''',style={'text-align': 'center'}),
+        It is made for educational purposes only and we have used https://api.covid19india.org to get the dataset for analysis.
+    ''', style={'text-align': 'center'}),
     html.Br(),
     html.Div(
         [
@@ -53,7 +33,7 @@ app.layout = html.Div([
                 options=[{
                     'label': i,
                     'value': i
-                } for i in all_states],
+                } for i in get_state_data()[1]],
                 value='Uttar Pradesh'),
         ],
         style={'width': '25%',
@@ -67,12 +47,13 @@ app.layout = html.Div([
                     'label': i,
                     'value': i
                 } for i in plot_types],
-                value='plot'),
+                value='plot'
+            ),
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
     dcc.Graph(id='graph-with-slider'),
-    html.Br(),
+    html.H4(children='A comparison of cases between any two states.', style={'text-align': 'center'}),
     html.Div(
         [
             dcc.Dropdown(
@@ -80,7 +61,7 @@ app.layout = html.Div([
                 options=[{
                     'label': i,
                     'value': i
-                } for i in all_states],
+                } for i in get_state_data()[1]],
                 value='Uttar Pradesh'),
         ],
         style={'width': '25%',
@@ -92,28 +73,27 @@ app.layout = html.Div([
                 options=[{
                     'label': i,
                     'value': i
-                } for i in all_states],
+                } for i in get_state_data()[1]],
                 value='Bihar'),
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
-html.Div(
+    html.Div(
         [
             dcc.Dropdown(
                 id="input5",
                 options=[{
                     'label': i,
                     'value': i
-                } for i in type_list],
+                } for i in cases_types],
                 value='Active'),
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
     html.Br(),
-    html.Div(children=''' The comparison between two states. '''),
     html.Br(),
-    dcc.Graph(id = 'graph2'),
-    html.Br(),
+    dcc.Graph(id='graph2'),
+    html.H4(children='A comparison of cases between any two cities.', style={'text-align': 'center'}),
     html.Div(
         [
             dcc.Dropdown(
@@ -121,7 +101,7 @@ html.Div(
                 options=[{
                     'label': i,
                     'value': i
-                } for i in all_cities],
+                } for i in get_city_data()[1]],
                 value='Lucknow'),
         ],
         style={'width': '25%',
@@ -133,74 +113,117 @@ html.Div(
                 options=[{
                     'label': i,
                     'value': i
-                } for i in all_cities],
+                } for i in get_city_data()[1]],
                 value='Basti'),
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
-html.Div(
+    html.Div(
         [
             dcc.Dropdown(
                 id="input8",
                 options=[{
                     'label': i,
                     'value': i
-                } for i in type_list],
+                } for i in cases_types],
                 value='Active'),
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
     html.Br(),
-    html.Div(children=''' The comparison between two Cities. '''),
     html.Br(),
-    dcc.Graph(id = 'graph3')
+    dcc.Graph(id='graph3', style={"color": "#FFF"}),
 ])
+
+
 @app.callback(
     Output('graph-with-slider', 'figure'),
-    [Input('sta1','value'),
-     Input('input2','value')])
-def update_figure(sta1,input2):
-    state = df[df['State'] == sta1]
-    #state['Dates'] = df.index.unique()
-    fig = px.line(state, x=df.index.unique(), y=['Confirmed', 'Active', 'Recovered', 'Deceased'])
+    [Input('sta1', 'value'),
+     Input('input2', 'value')])
+def update_figure(sta1, input2):
+    fig = None
+    state = get_given_state_data(state_df, sta1)
+    if input2 == 'plot':
+        fig = px.line(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
+                      title="Covid-19 data of state.",
+                      labels={
+                "x": "Time",
+                "value": "Number of Cases"}, template="presentation")
 
-    if input2=='bar':
-        fig = px.bar(state, x=df.index.unique(), y=['Confirmed','Active','Recovered','Deceased'])
+    if input2 == 'bar':
+        fig = px.bar(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
+                     title="Covid-19 data of state.",
+                     labels={
+                        "x": "Time",
+                        "value": "Number of Cases"},
+                     template="presentation")
 
-    fig.update_layout(transition_duration=500)
+    fig.update_layout(
+        font_family="Courier New",
+        font_color="blue",
+        title_font_family="Times New Roman",
+        title_font_color="red",
+        legend_title_font_color="green",
+        transition_duration=500
+    )
     return fig
+
+
 @app.callback(
     Output('graph2', 'figure'),
-    [Input('input3','value'),
-     Input('input4','value'),
-     Input('input5','value')])
-def update2(input3,input4,input5):
-    state1 = df[df['State'] == input3]
-    state2 = df[df['State'] == input4]
+    [Input('input3', 'value'),
+     Input('input4', 'value'),
+     Input('input5', 'value')])
+def update2(input3, input4, input5):
+    state1 = get_given_state_data(state_df, input3)
+    state2 = get_given_state_data(state_df, input4)
     dfresult = state1
     dfresult[input3] = state1[input5]
     dfresult[input4] = state2[input5]
-    #dfresult['Dates'] = df.index.unique()
-    print(dfresult)
-    fig = px.line(dfresult,x=df.index.unique(),y=[input3,input4])
-    fig.update_layout(transition_duration=500)
+    fig = px.line(dfresult, x=get_dates(state_df), y=[input3, input4],
+                  title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
+                  labels={
+                      "x": "Time",
+                      "value": "Number of Cases"},
+                  template="presentation"
+                  )
+    fig.update_layout(
+        font_family="Courier New",
+        font_color="blue",
+        title_font_family="Times New Roman",
+        title_font_color="red",
+        legend_title_font_color="green",
+        transition_duration=500
+    )
     return fig
+
 
 @app.callback(
     Output('graph3', 'figure'),
-    [Input('input6','value'),
-     Input('input7','value'),
-     Input('input8','value')])
-def update3(input6,input7,input8):
-    city1 = city_df[city_df['District'] == input6]
-    city2 = city_df[city_df['District'] == input7]
+    [Input('input6', 'value'),
+     Input('input7', 'value'),
+     Input('input8', 'value')])
+def update3(input6, input7, input8):
+    city1 = get_given_city_data(city_df, input6)
+    city2 = get_given_city_data(city_df, input7)
     dfresult = city1
     dfresult[input6] = city1[input8]
     dfresult[input7] = city2[input8]
-    #dfresult['Dates'] = df.index.unique()
-    fig = px.line(dfresult,x=df.index.unique(),y=[input6,input7])
-    fig.update_layout(transition_duration=500)
+    fig = px.line(dfresult, x=get_dates(city_df), y=[input6, input7],
+                  title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
+                  labels={
+                     "x": "Time",
+                     "value": "Number of Cases"}, template="presentation")
+    fig.update_layout(
+        font_family="Courier New",
+        font_color="blue",
+        title_font_family="Times New Roman",
+        title_font_color="red",
+        legend_title_font_color="green",
+        transition_duration=500
+    )
     return fig
+
 
 if __name__ == '__main__':
     app.run_server(debug=True)
