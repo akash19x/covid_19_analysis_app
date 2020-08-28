@@ -8,7 +8,7 @@ from utils import get_dates, get_state_data, get_city_data, get_given_city_data,
 
 
 cases_types = ['Active', 'Confirmed', 'Recovered', 'Deceased', 'Tested']
-plot_types = ['plot', 'bar']
+plot_types = ['plot', 'bar','histogram']
 bootstrap = "https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/solar/bootstrap.min.css"
 app = dash.Dash(__name__, external_stylesheets=[bootstrap])
 server = app.server
@@ -90,6 +90,18 @@ app.layout = html.Div([
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
+    html.Div(
+        [
+            dcc.Dropdown(
+                id="input21",
+                options=[{
+                    'label': i,
+                    'value': i
+                } for i in plot_types],
+                value='plot'),
+        ],
+        style={'width': '25%',
+               'display': 'inline-block'}),
     html.Br(),
     html.Br(),
     dcc.Graph(id='graph2'),
@@ -114,7 +126,7 @@ app.layout = html.Div([
                     'label': i,
                     'value': i
                 } for i in get_city_data()[1]],
-                value='Basti'),
+                value='Ghaziabad'),
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
@@ -127,6 +139,18 @@ app.layout = html.Div([
                     'value': i
                 } for i in cases_types],
                 value='Active'),
+        ],
+        style={'width': '25%',
+               'display': 'inline-block'}),
+    html.Div(
+        [
+            dcc.Dropdown(
+                id="input31",
+                options=[{
+                    'label': i,
+                    'value': i
+                } for i in plot_types],
+                value='plot'),
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
@@ -157,7 +181,13 @@ def update_figure(sta1, input2):
                         "x": "Time",
                         "value": "Number of Cases"},
                      template="presentation")
-
+    if input2 == 'histogram':
+        fig = px.histogram(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
+                     title="Covid-19 data of state.",
+                     labels={
+                        "x": "Time",
+                        "value": "Number of Cases"},
+                     template="presentation")
     fig.update_layout(
         font_family="Courier New",
         font_color="blue",
@@ -173,20 +203,40 @@ def update_figure(sta1, input2):
     Output('graph2', 'figure'),
     [Input('input3', 'value'),
      Input('input4', 'value'),
-     Input('input5', 'value')])
-def update2(input3, input4, input5):
+     Input('input5', 'value'),
+     Input('input21','value')])
+def update2(input3, input4, input5, input21):
     state1 = get_given_state_data(state_df, input3)
     state2 = get_given_state_data(state_df, input4)
     dfresult = state1
     dfresult[input3] = state1[input5]
     dfresult[input4] = state2[input5]
-    fig = px.line(dfresult, x=get_dates(state_df), y=[input3, input4],
-                  title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
-                  labels={
-                      "x": "Time",
-                      "value": "Number of Cases"},
-                  template="presentation"
-                  )
+    fig = None
+    if input21 == "plot":
+        fig = px.line(dfresult, x=get_dates(state_df), y=[input3, input4],
+                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
+                     labels={
+                         "x": "Time",
+                         "value": "Number of Cases"},
+                     template="presentation"
+                     )
+    if input21 == "bar":
+        fig = px.bar(dfresult, x=get_dates(state_df), y=[input3, input4],
+                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
+                     labels={
+                         "x": "Time",
+                         "value": "Number of Cases"},
+                     template="presentation"
+                     )
+    if input21 == "histogram":
+        fig = px.histogram(dfresult, x=get_dates(state_df), y=[input3, input4],
+                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
+                     labels={
+                         "x": "Time",
+                         "value": "Number of Cases"},
+                     template="presentation"
+                     )
+
     fig.update_layout(
         font_family="Courier New",
         font_color="blue",
@@ -202,18 +252,33 @@ def update2(input3, input4, input5):
     Output('graph3', 'figure'),
     [Input('input6', 'value'),
      Input('input7', 'value'),
-     Input('input8', 'value')])
-def update3(input6, input7, input8):
+     Input('input8', 'value'),
+     Input('input31', 'value')])
+def update3(input6, input7, input8, input31):
     city1 = get_given_city_data(city_df, input6)
     city2 = get_given_city_data(city_df, input7)
     dfresult = city1
     dfresult[input6] = city1[input8]
     dfresult[input7] = city2[input8]
-    fig = px.line(dfresult, x=get_dates(city_df), y=[input6, input7],
-                  title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
-                  labels={
-                     "x": "Time",
-                     "value": "Number of Cases"}, template="presentation")
+    fig = None
+    if input31 == 'plot':
+        fig = px.line(dfresult, x=get_dates(city_df), y=[input6, input7],
+                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
+                      labels={
+                          "x": "Time",
+                          "value": "Number of Cases"}, template="presentation")
+    if input31 == 'bar':
+        fig = px.bar(dfresult, x=get_dates(city_df), y=[input6, input7],
+                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
+                      labels={
+                          "x": "Time",
+                          "value": "Number of Cases"}, template="presentation")
+    if input31 == 'histogram':
+        fig = px.histogram(dfresult, x=get_dates(city_df), y=[input6, input7],
+                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
+                      labels={
+                          "x": "Time",
+                          "value": "Number of Cases"}, template="presentation")
     fig.update_layout(
         font_family="Courier New",
         font_color="blue",

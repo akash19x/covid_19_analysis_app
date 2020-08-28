@@ -40587,7 +40587,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-16,Bihar,Aurangabad,1930,1277,6,0,10566.0
 2020-08-16,Bihar,Banka,1330,948,4,0,36000.0
 2020-08-16,Bihar,Begusarai,4009,2503,13,0,58651.0
-2020-08-16,Bihar,Bhagalpur,4151,3176,41,0,47888.0
+2020-08-16,Bihar,Bhagalpur,4151,3176,41,0,79283.0
 2020-08-16,Bihar,Bhojpur,2835,2022,20,0,51552.0
 2020-08-16,Bihar,Buxar,2426,1559,6,0,35989.0
 2020-08-16,Bihar,Darbhanga,1737,1129,13,0,9075.0
@@ -42002,7 +42002,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-18,Assam,Udalguri,758,666,2,0,19612.0
 2020-08-18,Assam,Unknown,12553,13143,0,3,
 2020-08-18,Assam,West Karbi Anglong,39,37,0,0,
-2020-08-18,Bihar,Araria,2063,1184,10,0,43765.0
+2020-08-18,Bihar,Araria,2063,1184,10,0,45609.0
 2020-08-18,Bihar,Arwal,1068,785,5,0,23142.0
 2020-08-18,Bihar,Aurangabad,2126,1403,6,0,10566.0
 2020-08-18,Bihar,Banka,1378,1057,4,0,39650.0
@@ -43742,7 +43742,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-20,Madhya Pradesh,Dhar,638,513,14,0,13142.0
 2020-08-20,Madhya Pradesh,Dindori,106,57,0,0,3557.0
 2020-08-20,Madhya Pradesh,Guna,195,92,7,0,3648.0
-2020-08-20,Madhya Pradesh,Gwalior,3719,2904,27,0,77356.0
+2020-08-20,Madhya Pradesh,Gwalior,3719,2904,27,0,78426.0
 2020-08-20,Madhya Pradesh,Harda,315,227,6,0,1355.0
 2020-08-20,Madhya Pradesh,Hoshangabad,421,283,15,0,1291.0
 2020-08-20,Madhya Pradesh,Indore,10559,7140,349,0,189675.0
@@ -43987,7 +43987,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-20,Uttar Pradesh,Jhansi,3514,2705,90,0,85660.0
 2020-08-20,Uttar Pradesh,Kannauj,1390,1196,9,0,30209.0
 2020-08-20,Uttar Pradesh,Kanpur Dehat,776,411,7,0,21615.0
-2020-08-20,Uttar Pradesh,Kanpur Nagar,11825,7666,334,0,131177.0
+2020-08-20,Uttar Pradesh,Kanpur Nagar,11825,7666,334,0,133677.0
 2020-08-20,Uttar Pradesh,Kasganj,638,453,1,0,40859.0
 2020-08-20,Uttar Pradesh,Kaushambi,680,488,8,0,34373.0
 2020-08-20,Uttar Pradesh,Kushinagar,2218,1327,12,0,32313.0
@@ -44453,7 +44453,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-21,Madhya Pradesh,Dhar,656,515,14,0,13142.0
 2020-08-21,Madhya Pradesh,Dindori,109,59,0,0,3557.0
 2020-08-21,Madhya Pradesh,Guna,208,95,7,0,3648.0
-2020-08-21,Madhya Pradesh,Gwalior,3840,2978,28,0,77356.0
+2020-08-21,Madhya Pradesh,Gwalior,3840,2978,28,0,78426.0
 2020-08-21,Madhya Pradesh,Harda,323,240,6,0,1355.0
 2020-08-21,Madhya Pradesh,Hoshangabad,434,308,15,0,1291.0
 2020-08-21,Madhya Pradesh,Indore,10786,7374,353,0,191332.0
@@ -44698,7 +44698,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-21,Uttar Pradesh,Jhansi,3570,2787,91,0,88423.0
 2020-08-21,Uttar Pradesh,Kannauj,1419,1224,9,0,30845.0
 2020-08-21,Uttar Pradesh,Kanpur Dehat,795,433,7,0,22582.0
-2020-08-21,Uttar Pradesh,Kanpur Nagar,12061,8024,343,0,131177.0
+2020-08-21,Uttar Pradesh,Kanpur Nagar,12061,8024,343,0,135808.0
 2020-08-21,Uttar Pradesh,Kasganj,662,468,1,0,41862.0
 2020-08-21,Uttar Pradesh,Kaushambi,699,504,8,0,34846.0
 2020-08-21,Uttar Pradesh,Kushinagar,2307,1424,12,0,34671.0
@@ -45164,7 +45164,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-22,Madhya Pradesh,Dhar,670,519,14,0,13142.0
 2020-08-22,Madhya Pradesh,Dindori,112,75,0,0,3557.0
 2020-08-22,Madhya Pradesh,Guna,214,105,7,0,3648.0
-2020-08-22,Madhya Pradesh,Gwalior,3999,3050,31,0,77356.0
+2020-08-22,Madhya Pradesh,Gwalior,3999,3050,31,0,78426.0
 2020-08-22,Madhya Pradesh,Harda,341,252,6,0,1355.0
 2020-08-22,Madhya Pradesh,Hoshangabad,447,317,15,0,1291.0
 2020-08-22,Madhya Pradesh,Indore,10967,7524,356,0,192920.0
@@ -45251,28 +45251,28 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-22,Odisha,Sambalpur,1900,1190,8,0,2007.0
 2020-08-22,Odisha,Subarnapur,461,198,2,0,
 2020-08-22,Odisha,Sundargarh,3738,2576,30,0,
-2020-08-22,Punjab,Amritsar,3210,2523,123,0,68816.0
-2020-08-22,Punjab,Barnala,877,387,15,0,18840.0
-2020-08-22,Punjab,Bathinda,1682,849,17,0,32992.0
-2020-08-22,Punjab,Faridkot,788,397,6,0,19736.0
-2020-08-22,Punjab,Fatehgarh Sahib,869,549,18,0,24223.0
-2020-08-22,Punjab,Fazilka,633,397,5,0,19948.0
-2020-08-22,Punjab,Ferozepur,1415,516,21,0,25620.0
-2020-08-22,Punjab,Gurdaspur,1360,928,33,0,57822.0
-2020-08-22,Punjab,Hoshiarpur,995,802,27,0,45644.0
-2020-08-22,Punjab,Jalandhar,5057,3103,125,0,67404.0
-2020-08-22,Punjab,Kapurthala,822,518,30,0,28584.0
-2020-08-22,Punjab,Ludhiana,8932,4761,304,0,110027.0
-2020-08-22,Punjab,Mansa,379,228,4,0,23584.0
-2020-08-22,Punjab,Moga,1114,604,13,0,33287.0
-2020-08-22,Punjab,Pathankot,877,651,18,0,20918.0
-2020-08-22,Punjab,Patiala,4708,2976,103,0,66364.0
-2020-08-22,Punjab,Rupnagar,654,428,10,0,32121.0
-2020-08-22,Punjab,S.A.S. Nagar,2573,1121,47,0,31935.0
-2020-08-22,Punjab,Sangrur,1866,1333,69,0,38477.0
-2020-08-22,Punjab,Shahid Bhagat Singh Nagar,556,429,15,0,22938.0
-2020-08-22,Punjab,Sri Muktsar Sahib,621,351,5,0,18357.0
-2020-08-22,Punjab,Tarn Taran,655,451,28,0,23000.0
+2020-08-22,Punjab,Amritsar,3210,2523,123,0,71548.0
+2020-08-22,Punjab,Barnala,877,387,15,0,19694.0
+2020-08-22,Punjab,Bathinda,1682,849,17,0,34330.0
+2020-08-22,Punjab,Faridkot,788,397,6,0,20192.0
+2020-08-22,Punjab,Fatehgarh Sahib,869,549,18,0,24969.0
+2020-08-22,Punjab,Fazilka,633,397,5,0,20799.0
+2020-08-22,Punjab,Ferozepur,1415,516,21,0,26674.0
+2020-08-22,Punjab,Gurdaspur,1360,928,33,0,61834.0
+2020-08-22,Punjab,Hoshiarpur,995,802,27,0,48327.0
+2020-08-22,Punjab,Jalandhar,5057,3103,125,0,70379.0
+2020-08-22,Punjab,Kapurthala,822,518,30,0,30055.0
+2020-08-22,Punjab,Ludhiana,8932,4761,304,0,116330.0
+2020-08-22,Punjab,Mansa,379,228,4,0,24277.0
+2020-08-22,Punjab,Moga,1114,604,13,0,33934.0
+2020-08-22,Punjab,Pathankot,877,651,18,0,22597.0
+2020-08-22,Punjab,Patiala,4708,2976,103,0,69885.0
+2020-08-22,Punjab,Rupnagar,654,428,10,0,33347.0
+2020-08-22,Punjab,S.A.S. Nagar,2573,1121,47,0,33875.0
+2020-08-22,Punjab,Sangrur,1866,1333,69,0,40662.0
+2020-08-22,Punjab,Shahid Bhagat Singh Nagar,556,429,15,0,23820.0
+2020-08-22,Punjab,Sri Muktsar Sahib,621,351,5,0,19206.0
+2020-08-22,Punjab,Tarn Taran,655,451,28,0,24168.0
 2020-08-22,Puducherry,Karaikal,642,436,9,0,8002.0
 2020-08-22,Puducherry,Mahe,30,28,0,0,1931.0
 2020-08-22,Puducherry,Puducherry,8842,5388,127,0,49804.0
@@ -45409,7 +45409,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-22,Uttar Pradesh,Jhansi,3683,2843,92,0,91122.0
 2020-08-22,Uttar Pradesh,Kannauj,1465,1248,10,0,30845.0
 2020-08-22,Uttar Pradesh,Kanpur Dehat,824,459,7,0,22582.0
-2020-08-22,Uttar Pradesh,Kanpur Nagar,12161,8185,346,0,131177.0
+2020-08-22,Uttar Pradesh,Kanpur Nagar,12161,8185,346,0,138074.0
 2020-08-22,Uttar Pradesh,Kasganj,680,479,1,0,41862.0
 2020-08-22,Uttar Pradesh,Kaushambi,718,521,8,0,34846.0
 2020-08-22,Uttar Pradesh,Kushinagar,2366,1535,15,0,34671.0
@@ -45745,7 +45745,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-23,Jammu and Kashmir,Shopiyan,1625,1493,27,0,
 2020-08-23,Jammu and Kashmir,Srinagar,8075,6514,195,0,
 2020-08-23,Jammu and Kashmir,Udhampur,712,618,2,0,
-2020-08-23,Karnataka,Bagalkote,5199,4291,58,0,10663.0
+2020-08-23,Karnataka,Bagalkote,5199,4291,58,0,49851.0
 2020-08-23,Karnataka,Ballari,17679,11302,218,0,99685.0
 2020-08-23,Karnataka,Belagavi,9929,5808,156,0,77686.0
 2020-08-23,Karnataka,Bengaluru Rural,3976,3291,21,0,23519.0
@@ -45875,7 +45875,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-23,Madhya Pradesh,Dhar,690,530,15,0,13142.0
 2020-08-23,Madhya Pradesh,Dindori,135,84,0,0,3557.0
 2020-08-23,Madhya Pradesh,Guna,229,119,7,0,3648.0
-2020-08-23,Madhya Pradesh,Gwalior,4117,3127,34,0,77356.0
+2020-08-23,Madhya Pradesh,Gwalior,4117,3127,34,0,78426.0
 2020-08-23,Madhya Pradesh,Harda,370,269,6,0,1355.0
 2020-08-23,Madhya Pradesh,Hoshangabad,456,337,15,0,1291.0
 2020-08-23,Madhya Pradesh,Indore,11161,7656,360,0,192920.0
@@ -45962,28 +45962,28 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-23,Odisha,Sambalpur,2004,1258,8,0,2007.0
 2020-08-23,Odisha,Subarnapur,501,199,2,0,
 2020-08-23,Odisha,Sundargarh,3808,2754,30,0,
-2020-08-23,Punjab,Amritsar,3279,2673,124,0,68816.0
-2020-08-23,Punjab,Barnala,877,395,15,0,18840.0
-2020-08-23,Punjab,Bathinda,1703,964,17,0,32992.0
-2020-08-23,Punjab,Faridkot,826,397,6,0,19736.0
-2020-08-23,Punjab,Fatehgarh Sahib,890,549,18,0,24223.0
-2020-08-23,Punjab,Fazilka,652,416,6,0,19948.0
-2020-08-23,Punjab,Ferozepur,1453,520,23,0,25620.0
-2020-08-23,Punjab,Gurdaspur,1380,1152,39,0,57822.0
-2020-08-23,Punjab,Hoshiarpur,1046,856,29,0,45644.0
-2020-08-23,Punjab,Jalandhar,5164,3152,132,0,67404.0
-2020-08-23,Punjab,Kapurthala,880,538,31,0,28584.0
-2020-08-23,Punjab,Ludhiana,9170,5944,313,0,110027.0
-2020-08-23,Punjab,Mansa,393,245,4,0,23584.0
-2020-08-23,Punjab,Moga,1176,609,13,0,33287.0
-2020-08-23,Punjab,Pathankot,912,672,18,0,20918.0
-2020-08-23,Punjab,Patiala,4896,3265,122,0,66364.0
-2020-08-23,Punjab,Rupnagar,670,428,10,0,32121.0
-2020-08-23,Punjab,S.A.S. Nagar,2607,1121,47,0,31935.0
-2020-08-23,Punjab,Sangrur,1917,1380,70,0,38477.0
-2020-08-23,Punjab,Shahid Bhagat Singh Nagar,593,436,15,0,22938.0
-2020-08-23,Punjab,Sri Muktsar Sahib,625,365,6,0,18357.0
-2020-08-23,Punjab,Tarn Taran,670,451,28,0,23000.0
+2020-08-23,Punjab,Amritsar,3279,2673,124,0,71548.0
+2020-08-23,Punjab,Barnala,877,395,15,0,19694.0
+2020-08-23,Punjab,Bathinda,1703,964,17,0,34330.0
+2020-08-23,Punjab,Faridkot,826,397,6,0,20192.0
+2020-08-23,Punjab,Fatehgarh Sahib,890,549,18,0,24969.0
+2020-08-23,Punjab,Fazilka,652,416,6,0,20799.0
+2020-08-23,Punjab,Ferozepur,1453,520,23,0,26674.0
+2020-08-23,Punjab,Gurdaspur,1380,1152,39,0,61834.0
+2020-08-23,Punjab,Hoshiarpur,1046,856,29,0,48327.0
+2020-08-23,Punjab,Jalandhar,5164,3152,132,0,70379.0
+2020-08-23,Punjab,Kapurthala,880,538,31,0,30055.0
+2020-08-23,Punjab,Ludhiana,9170,5944,313,0,116330.0
+2020-08-23,Punjab,Mansa,393,245,4,0,24277.0
+2020-08-23,Punjab,Moga,1176,609,13,0,33934.0
+2020-08-23,Punjab,Pathankot,912,672,18,0,22597.0
+2020-08-23,Punjab,Patiala,4896,3265,122,0,69885.0
+2020-08-23,Punjab,Rupnagar,670,428,10,0,33347.0
+2020-08-23,Punjab,S.A.S. Nagar,2607,1121,47,0,33875.0
+2020-08-23,Punjab,Sangrur,1917,1380,70,0,40662.0
+2020-08-23,Punjab,Shahid Bhagat Singh Nagar,593,436,15,0,23820.0
+2020-08-23,Punjab,Sri Muktsar Sahib,625,365,6,0,19206.0
+2020-08-23,Punjab,Tarn Taran,670,451,28,0,24168.0
 2020-08-23,Puducherry,Karaikal,644,472,9,0,8002.0
 2020-08-23,Puducherry,Mahe,30,28,0,0,1997.0
 2020-08-23,Puducherry,Puducherry,9242,5676,135,0,50794.0
@@ -46121,7 +46121,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-23,Uttar Pradesh,Jhansi,3752,2888,93,0,94031.0
 2020-08-23,Uttar Pradesh,Kannauj,1502,1263,10,0,31985.0
 2020-08-23,Uttar Pradesh,Kanpur Dehat,859,467,7,0,25606.0
-2020-08-23,Uttar Pradesh,Kanpur Nagar,12488,8482,354,0,131177.0
+2020-08-23,Uttar Pradesh,Kanpur Nagar,12488,8482,354,0,140874.0
 2020-08-23,Uttar Pradesh,Kasganj,699,481,1,0,45198.0
 2020-08-23,Uttar Pradesh,Kaushambi,737,542,8,0,34846.0
 2020-08-23,Uttar Pradesh,Kushinagar,2427,1593,15,0,37127.0
@@ -46338,9 +46338,9 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Chhattisgarh,Surguja,432,310,4,0,2008.0
 2020-08-24,Chhattisgarh,Uttar Bastar Kanker,532,300,3,0,2051.0
 2020-08-24,Delhi,Delhi,162527,146588,4313,0,1443004.0
-2020-08-24,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1017,791,1,5,31649.0
-2020-08-24,Dadra and Nagar Haveli and Daman and Diu,Daman,973,843,1,8,13853.0
-2020-08-24,Dadra and Nagar Haveli and Daman and Diu,Diu,187,149,0,11,6078.0
+2020-08-24,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1017,791,1,5,31737.0
+2020-08-24,Dadra and Nagar Haveli and Daman and Diu,Daman,973,843,1,8,13954.0
+2020-08-24,Dadra and Nagar Haveli and Daman and Diu,Diu,187,149,0,11,6152.0
 2020-08-24,Goa,North Goa,2334,937,50,0,
 2020-08-24,Goa,Other State,197,188,0,0,
 2020-08-24,Goa,South Goa,3226,1403,98,0,
@@ -46457,7 +46457,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Jammu and Kashmir,Shopiyan,1631,1506,27,0,
 2020-08-24,Jammu and Kashmir,Srinagar,8151,6601,197,0,
 2020-08-24,Jammu and Kashmir,Udhampur,731,625,2,0,
-2020-08-24,Karnataka,Bagalkote,5252,4421,61,0,10663.0
+2020-08-24,Karnataka,Bagalkote,5252,4421,61,0,49851.0
 2020-08-24,Karnataka,Ballari,17985,11744,224,0,99685.0
 2020-08-24,Karnataka,Belagavi,10248,5958,161,0,79260.0
 2020-08-24,Karnataka,Bengaluru Rural,4011,3381,21,0,23519.0
@@ -46587,7 +46587,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Madhya Pradesh,Dhar,716,537,15,0,13142.0
 2020-08-24,Madhya Pradesh,Dindori,115,86,0,0,3557.0
 2020-08-24,Madhya Pradesh,Guna,239,122,7,0,3648.0
-2020-08-24,Madhya Pradesh,Gwalior,4205,3216,35,0,21748.0
+2020-08-24,Madhya Pradesh,Gwalior,4205,3216,35,0,78426.0
 2020-08-24,Madhya Pradesh,Harda,379,282,7,0,1355.0
 2020-08-24,Madhya Pradesh,Hoshangabad,470,347,15,0,7948.0
 2020-08-24,Madhya Pradesh,Indore,11408,7874,364,0,192920.0
@@ -46654,7 +46654,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Odisha,Deogarh,153,137,0,0,682.0
 2020-08-24,Odisha,Dhenkanal,1228,907,2,0,26535.0
 2020-08-24,Odisha,Gajapati,2654,2300,18,0,715.0
-2020-08-24,Odisha,Ganjam,16528,14681,187,0,176037.0
+2020-08-24,Odisha,Ganjam,16528,14681,187,0,185978.0
 2020-08-24,Odisha,Jagatsinghpur,1384,1028,2,0,30741.0
 2020-08-24,Odisha,Jajpur,2915,2039,5,0,53956.0
 2020-08-24,Odisha,Jharsuguda,831,538,1,0,1663.0
@@ -46674,69 +46674,69 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Odisha,Sambalpur,2108,1317,8,0,2007.0
 2020-08-24,Odisha,Subarnapur,527,199,2,0,
 2020-08-24,Odisha,Sundargarh,3889,2892,32,0,
-2020-08-24,Punjab,Amritsar,3390,2695,125,0,68816.0
-2020-08-24,Punjab,Barnala,909,413,15,0,18840.0
-2020-08-24,Punjab,Bathinda,1830,1129,17,0,32992.0
-2020-08-24,Punjab,Faridkot,852,490,6,0,19736.0
-2020-08-24,Punjab,Fatehgarh Sahib,932,613,19,0,24223.0
-2020-08-24,Punjab,Fazilka,702,424,7,0,19948.0
-2020-08-24,Punjab,Ferozepur,1465,541,23,0,25620.0
-2020-08-24,Punjab,Gurdaspur,1523,1187,43,0,57822.0
-2020-08-24,Punjab,Hoshiarpur,1085,867,29,0,45644.0
-2020-08-24,Punjab,Jalandhar,5365,3384,138,0,67404.0
-2020-08-24,Punjab,Kapurthala,927,579,34,0,28584.0
-2020-08-24,Punjab,Ludhiana,9147,6451,324,0,110027.0
-2020-08-24,Punjab,Mansa,413,247,7,0,23584.0
-2020-08-24,Punjab,Moga,1220,673,13,0,33287.0
-2020-08-24,Punjab,Pathankot,953,697,18,0,20918.0
-2020-08-24,Punjab,Patiala,5043,3559,125,0,66364.0
-2020-08-24,Punjab,Rupnagar,714,428,10,0,32121.0
-2020-08-24,Punjab,S.A.S. Nagar,2860,1288,55,0,31935.0
-2020-08-24,Punjab,Sangrur,1973,1380,71,0,38477.0
-2020-08-24,Punjab,Shahid Bhagat Singh Nagar,616,453,16,0,22938.0
-2020-08-24,Punjab,Sri Muktsar Sahib,687,390,6,0,18357.0
-2020-08-24,Punjab,Tarn Taran,678,469,28,0,23000.0
+2020-08-24,Punjab,Amritsar,3390,2695,125,0,75233.0
+2020-08-24,Punjab,Barnala,909,413,15,0,20091.0
+2020-08-24,Punjab,Bathinda,1830,1129,17,0,34970.0
+2020-08-24,Punjab,Faridkot,852,490,6,0,21075.0
+2020-08-24,Punjab,Fatehgarh Sahib,932,613,19,0,25446.0
+2020-08-24,Punjab,Fazilka,702,424,7,0,21206.0
+2020-08-24,Punjab,Ferozepur,1465,541,23,0,27461.0
+2020-08-24,Punjab,Gurdaspur,1523,1187,43,0,65582.0
+2020-08-24,Punjab,Hoshiarpur,1085,867,29,0,51096.0
+2020-08-24,Punjab,Jalandhar,5365,3384,138,0,71662.0
+2020-08-24,Punjab,Kapurthala,927,579,34,0,31786.0
+2020-08-24,Punjab,Ludhiana,9147,6451,324,0,121270.0
+2020-08-24,Punjab,Mansa,413,247,7,0,24792.0
+2020-08-24,Punjab,Moga,1220,673,13,0,34624.0
+2020-08-24,Punjab,Pathankot,953,697,18,0,23421.0
+2020-08-24,Punjab,Patiala,5043,3559,125,0,72719.0
+2020-08-24,Punjab,Rupnagar,714,428,10,0,34710.0
+2020-08-24,Punjab,S.A.S. Nagar,2860,1288,55,0,34874.0
+2020-08-24,Punjab,Sangrur,1973,1380,71,0,42353.0
+2020-08-24,Punjab,Shahid Bhagat Singh Nagar,616,453,16,0,24501.0
+2020-08-24,Punjab,Sri Muktsar Sahib,687,390,6,0,19760.0
+2020-08-24,Punjab,Tarn Taran,678,469,28,0,26107.0
 2020-08-24,Puducherry,Karaikal,675,515,9,0,8002.0
 2020-08-24,Puducherry,Mahe,30,28,0,0,2054.0
 2020-08-24,Puducherry,Puducherry,9538,5894,140,0,51736.0
 2020-08-24,Puducherry,Yanam,616,505,15,0,3977.0
-2020-08-24,Rajasthan,Ajmer,3729,3126,65,0,82355.0
-2020-08-24,Rajasthan,Alwar,6887,5502,23,0,81925.0
+2020-08-24,Rajasthan,Ajmer,3729,3126,65,0,83075.0
+2020-08-24,Rajasthan,Alwar,6887,5502,23,0,82968.0
 2020-08-24,Rajasthan,BSF Camp,85,85,0,0,
-2020-08-24,Rajasthan,Banswara,442,351,4,0,15290.0
-2020-08-24,Rajasthan,Baran,429,271,12,0,20065.0
-2020-08-24,Rajasthan,Barmer,2134,1908,18,0,48016.0
-2020-08-24,Rajasthan,Bharatpur,3540,3114,67,0,61947.0
-2020-08-24,Rajasthan,Bhilwara,1854,1176,13,0,69341.0
-2020-08-24,Rajasthan,Bikaner,3858,3184,67,0,111744.0
-2020-08-24,Rajasthan,Bundi,465,328,1,0,15599.0
-2020-08-24,Rajasthan,Chittorgarh,744,509,6,0,29033.0
-2020-08-24,Rajasthan,Churu,852,737,4,0,43670.0
-2020-08-24,Rajasthan,Dausa,479,431,5,0,23857.0
-2020-08-24,Rajasthan,Dholpur,2154,1655,19,0,62453.0
-2020-08-24,Rajasthan,Dungarpur,880,772,8,0,57177.0
+2020-08-24,Rajasthan,Banswara,442,351,4,0,15317.0
+2020-08-24,Rajasthan,Baran,429,271,12,0,20453.0
+2020-08-24,Rajasthan,Barmer,2134,1908,18,0,48379.0
+2020-08-24,Rajasthan,Bharatpur,3540,3114,67,0,62180.0
+2020-08-24,Rajasthan,Bhilwara,1854,1176,13,0,69572.0
+2020-08-24,Rajasthan,Bikaner,3858,3184,67,0,112407.0
+2020-08-24,Rajasthan,Bundi,465,328,1,0,15657.0
+2020-08-24,Rajasthan,Chittorgarh,744,509,6,0,29152.0
+2020-08-24,Rajasthan,Churu,852,737,4,0,43966.0
+2020-08-24,Rajasthan,Dausa,479,431,5,0,24085.0
+2020-08-24,Rajasthan,Dholpur,2154,1655,19,0,62751.0
+2020-08-24,Rajasthan,Dungarpur,880,772,8,0,57235.0
 2020-08-24,Rajasthan,Evacuees,61,61,0,0,
-2020-08-24,Rajasthan,Ganganagar,573,322,7,0,18436.0
-2020-08-24,Rajasthan,Hanumangarh,364,282,2,0,20226.0
+2020-08-24,Rajasthan,Ganganagar,573,322,7,0,18553.0
+2020-08-24,Rajasthan,Hanumangarh,364,282,2,0,20358.0
 2020-08-24,Rajasthan,Italians,2,2,0,0,
-2020-08-24,Rajasthan,Jaipur,9018,5880,257,0,230524.0
-2020-08-24,Rajasthan,Jaisalmer,314,269,2,0,37207.0
-2020-08-24,Rajasthan,Jalore,1320,1301,11,0,71928.0
-2020-08-24,Rajasthan,Jhalawar,1150,947,0,0,49166.0
-2020-08-24,Rajasthan,Jhunjhunu,937,853,6,0,36658.0
-2020-08-24,Rajasthan,Jodhpur,10695,8455,87,0,295296.0
-2020-08-24,Rajasthan,Karauli,543,407,7,0,19032.0
-2020-08-24,Rajasthan,Kota,4250,2873,63,0,139854.0
-2020-08-24,Rajasthan,Nagaur,2213,1887,41,0,66587.0
+2020-08-24,Rajasthan,Jaipur,9018,5880,257,0,232144.0
+2020-08-24,Rajasthan,Jaisalmer,314,269,2,0,37243.0
+2020-08-24,Rajasthan,Jalore,1320,1301,11,0,72068.0
+2020-08-24,Rajasthan,Jhalawar,1150,947,0,0,49502.0
+2020-08-24,Rajasthan,Jhunjhunu,937,853,6,0,37246.0
+2020-08-24,Rajasthan,Jodhpur,10695,8455,87,0,296423.0
+2020-08-24,Rajasthan,Karauli,543,407,7,0,19143.0
+2020-08-24,Rajasthan,Kota,4250,2873,63,0,141225.0
+2020-08-24,Rajasthan,Nagaur,2213,1887,41,0,69212.0
 2020-08-24,Rajasthan,Other State,189,94,39,0,
-2020-08-24,Rajasthan,Pali,3691,3293,42,0,87583.0
-2020-08-24,Rajasthan,Pratapgarh,381,203,5,0,19754.0
-2020-08-24,Rajasthan,Rajsamand,1034,868,13,0,36318.0
-2020-08-24,Rajasthan,Sawai Madhopur,432,304,13,0,28044.0
-2020-08-24,Rajasthan,Sikar,2382,1914,16,0,76068.0
-2020-08-24,Rajasthan,Sirohi,1156,1010,11,0,39086.0
-2020-08-24,Rajasthan,Tonk,548,467,10,0,22814.0
-2020-08-24,Rajasthan,Udaipur,2170,1759,23,0,99529.0
+2020-08-24,Rajasthan,Pali,3691,3293,42,0,87841.0
+2020-08-24,Rajasthan,Pratapgarh,381,203,5,0,19769.0
+2020-08-24,Rajasthan,Rajsamand,1034,868,13,0,36659.0
+2020-08-24,Rajasthan,Sawai Madhopur,432,304,13,0,28116.0
+2020-08-24,Rajasthan,Sikar,2382,1914,16,0,76305.0
+2020-08-24,Rajasthan,Sirohi,1156,1010,11,0,39170.0
+2020-08-24,Rajasthan,Tonk,548,467,10,0,22893.0
+2020-08-24,Rajasthan,Udaipur,2170,1759,23,0,100250.0
 2020-08-24,Sikkim,East Sikkim,1259,845,3,0,
 2020-08-24,Sikkim,North Sikkim,1,1,0,0,
 2020-08-24,Sikkim,South Sikkim,144,73,0,0,
@@ -46833,7 +46833,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Uttar Pradesh,Jhansi,3810,2952,93,0,97325.0
 2020-08-24,Uttar Pradesh,Kannauj,1536,1278,10,0,32522.0
 2020-08-24,Uttar Pradesh,Kanpur Dehat,875,486,9,0,28310.0
-2020-08-24,Uttar Pradesh,Kanpur Nagar,12756,8798,367,0,131177.0
+2020-08-24,Uttar Pradesh,Kanpur Nagar,12756,8798,367,0,143949.0
 2020-08-24,Uttar Pradesh,Kasganj,711,482,1,0,45324.0
 2020-08-24,Uttar Pradesh,Kaushambi,763,592,9,0,37217.0
 2020-08-24,Uttar Pradesh,Kushinagar,2505,1683,15,0,37435.0
@@ -46847,7 +46847,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,Uttar Pradesh,Mau,1163,897,8,0,43324.0
 2020-08-24,Uttar Pradesh,Meerut,3506,2575,128,0,146316.0
 2020-08-24,Uttar Pradesh,Mirzapur,1456,1164,23,0,53558.0
-2020-08-24,Uttar Pradesh,Moradabad,3951,2827,94,0,58817.0
+2020-08-24,Uttar Pradesh,Moradabad,3951,2827,94,0,89533.0
 2020-08-24,Uttar Pradesh,Muzaffarnagar,1607,1124,27,0,22910.0
 2020-08-24,Uttar Pradesh,Pilibhit,1957,1476,25,0,54251.0
 2020-08-24,Uttar Pradesh,Pratapgarh,1459,953,23,0,26100.0
@@ -46903,7 +46903,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-24,West Bengal,Purulia,905,557,1,0,
 2020-08-24,West Bengal,South 24 Parganas,10109,8216,172,0,
 2020-08-24,West Bengal,Uttar Dinajpur,2040,1661,18,0,
-2020-08-25,Andaman and Nicobar Islands,Unknown,2945,2231,37,0,30513.0
+2020-08-25,Andaman and Nicobar Islands,Unknown,2945,2231,37,0,31082.0
 2020-08-25,Andhra Pradesh,Anantapur,36220,30021,293,0,251668.0
 2020-08-25,Andhra Pradesh,Chittoor,31292,22126,352,0,269713.0
 2020-08-25,Andhra Pradesh,East Godavari,52039,33946,343,0,328546.0
@@ -46919,32 +46919,32 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Andhra Pradesh,Vizianagaram,16907,9546,144,0,149819.0
 2020-08-25,Andhra Pradesh,West Godavari,31179,25741,264,0,233923.0
 2020-08-25,Andhra Pradesh,Y.S.R. Kadapa,21683,16189,177,0,222364.0
-2020-08-25,Arunachal Pradesh,Anjaw,41,28,0,0,790.0
-2020-08-25,Arunachal Pradesh,Changlang,399,303,0,0,14723.0
-2020-08-25,Arunachal Pradesh,Dibang Valley,0,0,0,0,858.0
-2020-08-25,Arunachal Pradesh,East Kameng,179,151,0,0,3083.0
-2020-08-25,Arunachal Pradesh,East Siang,240,129,1,0,9776.0
-2020-08-25,Arunachal Pradesh,Kamle,3,1,0,0,861.0
-2020-08-25,Arunachal Pradesh,Kra-Daadi,0,0,0,0,1671.0
-2020-08-25,Arunachal Pradesh,Kurung Kumey,0,0,0,0,1576.0
-2020-08-25,Arunachal Pradesh,Lepa Rada,25,21,0,0,870.0
-2020-08-25,Arunachal Pradesh,Lohit,130,114,0,0,4656.0
-2020-08-25,Arunachal Pradesh,Longding,21,16,0,0,3098.0
-2020-08-25,Arunachal Pradesh,Lower Dibang Valley,38,32,0,0,4570.0
-2020-08-25,Arunachal Pradesh,Lower Siang,89,69,0,0,4696.0
-2020-08-25,Arunachal Pradesh,Lower Subansiri,42,40,0,0,1752.0
-2020-08-25,Arunachal Pradesh,Namsai,194,176,1,0,9883.0
-2020-08-25,Arunachal Pradesh,Pakke Kessang,14,1,0,0,1230.0
-2020-08-25,Arunachal Pradesh,Papum Pare,1192,1024,1,0,57762.0
-2020-08-25,Arunachal Pradesh,Shi Yomi,9,4,0,0,616.0
-2020-08-25,Arunachal Pradesh,Siang,5,3,0,0,1424.0
-2020-08-25,Arunachal Pradesh,Tawang,123,68,0,0,3238.0
-2020-08-25,Arunachal Pradesh,Tirap,97,78,0,0,5507.0
+2020-08-25,Arunachal Pradesh,Anjaw,41,28,0,0,796.0
+2020-08-25,Arunachal Pradesh,Changlang,399,303,0,0,14969.0
+2020-08-25,Arunachal Pradesh,Dibang Valley,0,0,0,0,884.0
+2020-08-25,Arunachal Pradesh,East Kameng,179,151,0,0,3187.0
+2020-08-25,Arunachal Pradesh,East Siang,240,129,1,0,9966.0
+2020-08-25,Arunachal Pradesh,Kamle,3,1,0,0,873.0
+2020-08-25,Arunachal Pradesh,Kra-Daadi,0,0,0,0,1868.0
+2020-08-25,Arunachal Pradesh,Kurung Kumey,0,0,0,0,1679.0
+2020-08-25,Arunachal Pradesh,Lepa Rada,25,21,0,0,917.0
+2020-08-25,Arunachal Pradesh,Lohit,130,114,0,0,4750.0
+2020-08-25,Arunachal Pradesh,Longding,21,16,0,0,3239.0
+2020-08-25,Arunachal Pradesh,Lower Dibang Valley,38,32,0,0,4639.0
+2020-08-25,Arunachal Pradesh,Lower Siang,89,69,0,0,4988.0
+2020-08-25,Arunachal Pradesh,Lower Subansiri,42,40,0,0,1760.0
+2020-08-25,Arunachal Pradesh,Namsai,194,176,1,0,10110.0
+2020-08-25,Arunachal Pradesh,Pakke Kessang,14,1,0,0,1454.0
+2020-08-25,Arunachal Pradesh,Papum Pare,1192,1024,1,0,58611.0
+2020-08-25,Arunachal Pradesh,Shi Yomi,9,4,0,0,646.0
+2020-08-25,Arunachal Pradesh,Siang,5,3,0,0,1432.0
+2020-08-25,Arunachal Pradesh,Tawang,123,68,0,0,3269.0
+2020-08-25,Arunachal Pradesh,Tirap,97,78,0,0,5606.0
 2020-08-25,Arunachal Pradesh,Upper Dibang Valley,1,0,0,0,
-2020-08-25,Arunachal Pradesh,Upper Siang,35,32,0,0,1550.0
-2020-08-25,Arunachal Pradesh,Upper Subansiri,126,18,0,0,2611.0
-2020-08-25,Arunachal Pradesh,West Kameng,294,147,2,0,6143.0
-2020-08-25,Arunachal Pradesh,West Siang,115,53,0,0,3068.0
+2020-08-25,Arunachal Pradesh,Upper Siang,35,32,0,0,1554.0
+2020-08-25,Arunachal Pradesh,Upper Subansiri,126,18,0,0,2633.0
+2020-08-25,Arunachal Pradesh,West Kameng,294,147,2,0,6263.0
+2020-08-25,Arunachal Pradesh,West Siang,115,53,0,0,3180.0
 2020-08-25,Assam,Airport Quarantine,13,13,0,0,
 2020-08-25,Assam,Baksa,487,447,4,0,
 2020-08-25,Assam,Barpeta,1121,1024,3,0,
@@ -46978,47 +46978,47 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Assam,Sonitpur,2351,1727,4,0,
 2020-08-25,Assam,South Salmara Mankachar,51,47,0,0,
 2020-08-25,Assam,Tinsukia,3366,1798,18,0,
-2020-08-25,Assam,Udalguri,758,666,2,0,20898.0
+2020-08-25,Assam,Udalguri,758,666,2,0,21287.0
 2020-08-25,Assam,Unknown,20377,29663,0,3,
 2020-08-25,Assam,West Karbi Anglong,39,37,0,0,
-2020-08-25,Bihar,Araria,2477,1917,10,0,52653.0
+2020-08-25,Bihar,Araria,2477,1917,10,0,53936.0
 2020-08-25,Bihar,Arwal,1212,1005,5,0,27703.0
-2020-08-25,Bihar,Aurangabad,2442,2001,7,0,76723.0
-2020-08-25,Bihar,Banka,1510,1303,5,0,46560.0
-2020-08-25,Bihar,Begusarai,4891,4143,17,0,83426.0
-2020-08-25,Bihar,Bhagalpur,4914,4217,47,0,60662.0
-2020-08-25,Bihar,Bhojpur,3291,2799,24,0,69322.0
-2020-08-25,Bihar,Buxar,2753,2444,7,0,74895.0
-2020-08-25,Bihar,Darbhanga,2113,1693,15,0,62699.0
-2020-08-25,Bihar,East Champaran,4548,3519,23,0,104791.0
+2020-08-25,Bihar,Aurangabad,2442,2001,7,0,78798.0
+2020-08-25,Bihar,Banka,1510,1303,5,0,47760.0
+2020-08-25,Bihar,Begusarai,4891,4143,17,0,87851.0
+2020-08-25,Bihar,Bhagalpur,4914,4217,47,0,63062.0
+2020-08-25,Bihar,Bhojpur,3291,2799,24,0,71618.0
+2020-08-25,Bihar,Buxar,2753,2444,7,0,77648.0
+2020-08-25,Bihar,Darbhanga,2113,1693,15,0,63000.0
+2020-08-25,Bihar,East Champaran,4548,3519,23,0,113924.0
 2020-08-25,Bihar,Gaya,4279,3820,42,0,124000.0
-2020-08-25,Bihar,Gopalganj,2364,1953,2,0,45700.0
-2020-08-25,Bihar,Jamui,1428,1283,6,0,43552.0
-2020-08-25,Bihar,Jehanabad,2190,1850,7,0,60980.0
-2020-08-25,Bihar,Kaimur,1206,1068,9,0,52563.0
-2020-08-25,Bihar,Katihar,4244,3583,8,0,101351.0
-2020-08-25,Bihar,Khagaria,2167,1954,8,0,44954.0
+2020-08-25,Bihar,Gopalganj,2364,1953,2,0,46500.0
+2020-08-25,Bihar,Jamui,1428,1283,6,0,45183.0
+2020-08-25,Bihar,Jehanabad,2190,1850,7,0,62530.0
+2020-08-25,Bihar,Kaimur,1206,1068,9,0,52763.0
+2020-08-25,Bihar,Katihar,4244,3583,8,0,109686.0
+2020-08-25,Bihar,Khagaria,2167,1954,8,0,48434.0
 2020-08-25,Bihar,Kishanganj,1838,1389,6,0,31860.0
-2020-08-25,Bihar,Lakhisarai,1658,1331,4,0,28321.0
+2020-08-25,Bihar,Lakhisarai,1658,1331,4,0,29070.0
 2020-08-25,Bihar,Madhepura,1882,1454,6,0,56505.0
-2020-08-25,Bihar,Madhubani,3998,2926,4,0,79012.0
-2020-08-25,Bihar,Munger,2255,1942,28,0,35234.0
-2020-08-25,Bihar,Muzaffarpur,5378,4321,25,0,64594.0
-2020-08-25,Bihar,Nalanda,4364,3711,28,0,75723.0
-2020-08-25,Bihar,Nawada,2050,1806,13,0,61972.0
-2020-08-25,Bihar,Patna,19381,16508,135,0,117461.0
-2020-08-25,Bihar,Purnia,3533,2908,5,0,103146.0
-2020-08-25,Bihar,Rohtas,4161,3594,31,0,15216.0
-2020-08-25,Bihar,Saharsa,2952,2274,1,0,65213.0
-2020-08-25,Bihar,Samastipur,3047,2629,21,0,42375.0
-2020-08-25,Bihar,Saran,3963,3261,22,0,33790.0
-2020-08-25,Bihar,Sheikhpura,1617,1431,3,0,28542.0
-2020-08-25,Bihar,Sheohar,680,549,1,0,8970.0
-2020-08-25,Bihar,Sitamarhi,2473,1979,8,0,68256.0
-2020-08-25,Bihar,Siwan,2853,2437,15,0,73653.0
-2020-08-25,Bihar,Supaul,2186,1859,7,0,51163.0
+2020-08-25,Bihar,Madhubani,3998,2926,4,0,81012.0
+2020-08-25,Bihar,Munger,2255,1942,28,0,36135.0
+2020-08-25,Bihar,Muzaffarpur,5378,4321,25,0,71480.0
+2020-08-25,Bihar,Nalanda,4364,3711,28,0,78835.0
+2020-08-25,Bihar,Nawada,2050,1806,13,0,66216.0
+2020-08-25,Bihar,Patna,19381,16508,135,0,119014.0
+2020-08-25,Bihar,Purnia,3533,2908,5,0,108124.0
+2020-08-25,Bihar,Rohtas,4161,3594,31,0,15889.0
+2020-08-25,Bihar,Saharsa,2952,2274,1,0,67648.0
+2020-08-25,Bihar,Samastipur,3047,2629,21,0,42550.0
+2020-08-25,Bihar,Saran,3963,3261,22,0,33830.0
+2020-08-25,Bihar,Sheikhpura,1617,1431,3,0,30294.0
+2020-08-25,Bihar,Sheohar,680,549,1,0,25032.0
+2020-08-25,Bihar,Sitamarhi,2473,1979,8,0,70453.0
+2020-08-25,Bihar,Siwan,2853,2437,15,0,75678.0
+2020-08-25,Bihar,Supaul,2186,1859,7,0,52171.0
 2020-08-25,Bihar,Vaishali,3263,2928,24,1,63441.0
-2020-08-25,Bihar,West Champaran,3266,2742,15,0,62471.0
+2020-08-25,Bihar,West Champaran,3266,2742,15,0,64388.0
 2020-08-25,Chandigarh,Chandigarh,3209,1713,40,2,26348.0
 2020-08-25,Chhattisgarh,Balod,298,180,0,0,2749.0
 2020-08-25,Chhattisgarh,Baloda Bazar,675,476,3,0,3816.0
@@ -47050,9 +47050,9 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Chhattisgarh,Surguja,472,311,4,0,2008.0
 2020-08-25,Chhattisgarh,Uttar Bastar Kanker,570,302,3,0,2051.0
 2020-08-25,Delhi,Delhi,164071,147743,4330,0,1462845.0
-2020-08-25,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1031,807,1,5,31649.0
-2020-08-25,Dadra and Nagar Haveli and Daman and Diu,Daman,980,860,1,8,13853.0
-2020-08-25,Dadra and Nagar Haveli and Daman and Diu,Diu,187,149,0,11,6078.0
+2020-08-25,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1031,807,1,5,31966.0
+2020-08-25,Dadra and Nagar Haveli and Daman and Diu,Daman,980,860,1,8,14001.0
+2020-08-25,Dadra and Nagar Haveli and Daman and Diu,Diu,187,149,0,11,6193.0
 2020-08-25,Goa,North Goa,2334,951,54,0,
 2020-08-25,Goa,Other State,197,188,0,0,
 2020-08-25,Goa,South Goa,3317,1403,103,0,
@@ -47092,23 +47092,23 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Gujarat,Vadodara,7438,5643,119,0,106000.0
 2020-08-25,Gujarat,Valsad,930,838,9,0,21519.0
 2020-08-25,Himachal Pradesh,Bilaspur,269,161,0,0,9375.0
-2020-08-25,Himachal Pradesh,Chamba,361,269,3,2,11292.0
+2020-08-25,Himachal Pradesh,Chamba,361,269,3,2,11362.0
 2020-08-25,Himachal Pradesh,Hamirpur,468,405,4,0,19913.0
-2020-08-25,Himachal Pradesh,Kangra,717,563,6,2,42271.0
+2020-08-25,Himachal Pradesh,Kangra,717,563,6,2,43113.0
 2020-08-25,Himachal Pradesh,Kinnaur,76,54,0,0,9455.0
-2020-08-25,Himachal Pradesh,Kullu,258,172,0,1,9455.0
+2020-08-25,Himachal Pradesh,Kullu,258,172,0,1,9515.0
 2020-08-25,Himachal Pradesh,Lahaul and Spiti,7,5,0,0,520.0
-2020-08-25,Himachal Pradesh,Mandi,391,285,7,0,15625.0
-2020-08-25,Himachal Pradesh,Shimla,272,213,2,1,15580.0
-2020-08-25,Himachal Pradesh,Sirmaur,659,496,1,7,17487.0
+2020-08-25,Himachal Pradesh,Mandi,391,285,7,0,15634.0
+2020-08-25,Himachal Pradesh,Shimla,272,213,2,1,15693.0
+2020-08-25,Himachal Pradesh,Sirmaur,659,496,1,7,17845.0
 2020-08-25,Himachal Pradesh,Solan,1283,832,6,36,30568.0
-2020-08-25,Himachal Pradesh,Una,393,293,0,2,18949.0
+2020-08-25,Himachal Pradesh,Una,393,293,0,2,19184.0
 2020-08-25,Haryana,Ambala,3299,2815,28,0,22379.0
 2020-08-25,Haryana,Bhiwani,1186,959,9,0,12740.0
 2020-08-25,Haryana,Charkhi Dadri,266,185,1,0,5992.0
 2020-08-25,Haryana,Faridabad,11982,11042,164,0,110695.0
 2020-08-25,Haryana,Fatehabad,725,530,6,0,9565.0
-2020-08-25,Haryana,Gurugram,11176,10188,131,0,151390.0
+2020-08-25,Haryana,Gurugram,11176,10188,131,0,153914.0
 2020-08-25,Haryana,Hisar,1782,1287,13,0,18493.0
 2020-08-25,Haryana,Jhajjar,1104,975,15,0,14083.0
 2020-08-25,Haryana,Jind,497,371,8,0,11157.0
@@ -47169,34 +47169,34 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Jammu and Kashmir,Shopiyan,1637,1519,27,0,
 2020-08-25,Jammu and Kashmir,Srinagar,8357,6703,200,0,
 2020-08-25,Jammu and Kashmir,Udhampur,737,625,2,0,
-2020-08-25,Karnataka,Bagalkote,5335,4498,61,0,10663.0
+2020-08-25,Karnataka,Bagalkote,5335,4498,61,0,49851.0
 2020-08-25,Karnataka,Ballari,18536,12748,230,0,99685.0
-2020-08-25,Karnataka,Belagavi,10546,6139,163,0,79260.0
-2020-08-25,Karnataka,Bengaluru Rural,4074,3479,22,0,23519.0
-2020-08-25,Karnataka,Bengaluru Urban,112087,74901,1755,1,687860.0
+2020-08-25,Karnataka,Belagavi,10546,6139,163,0,81392.0
+2020-08-25,Karnataka,Bengaluru Rural,4074,3479,22,0,24880.0
+2020-08-25,Karnataka,Bengaluru Urban,112087,74901,1755,1,711817.0
 2020-08-25,Karnataka,Bidar,4213,3382,128,4,60322.0
 2020-08-25,Karnataka,Chamarajanagara,2092,1547,28,11,5156.0
 2020-08-25,Karnataka,Chikkaballapura,3558,2895,57,1,15089.0
 2020-08-25,Karnataka,Chikkamagaluru,3157,2047,60,0,5467.0
 2020-08-25,Karnataka,Chitradurga,2067,1469,20,0,4393.0
-2020-08-25,Karnataka,Dakshina Kannada,10778,8127,317,2,83598.0
+2020-08-25,Karnataka,Dakshina Kannada,10778,8127,317,2,85881.0
 2020-08-25,Karnataka,Davanagere,7535,5630,167,0,17483.0
-2020-08-25,Karnataka,Dharwad,9670,6971,281,0,64565.0
+2020-08-25,Karnataka,Dharwad,9670,6971,281,0,65109.0
 2020-08-25,Karnataka,Gadag,4392,3122,67,0,8904.0
 2020-08-25,Karnataka,Hassan,6397,4227,160,0,10800.0
 2020-08-25,Karnataka,Haveri,3625,2256,84,0,11714.0
-2020-08-25,Karnataka,Kalaburagi,10545,8542,195,0,109122.0
-2020-08-25,Karnataka,Kodagu,1224,942,16,0,25425.0
+2020-08-25,Karnataka,Kalaburagi,10545,8542,195,0,110142.0
+2020-08-25,Karnataka,Kodagu,1224,942,16,0,25809.0
 2020-08-25,Karnataka,Kolar,2999,2352,53,0,9797.0
 2020-08-25,Karnataka,Koppal,5245,3704,108,0,8708.0
 2020-08-25,Karnataka,Mandya,4379,2784,47,0,14874.0
-2020-08-25,Karnataka,Mysuru,13929,10011,361,0,75707.0
+2020-08-25,Karnataka,Mysuru,13929,10011,361,0,78038.0
 2020-08-25,Karnataka,Other State,36,33,3,0,
 2020-08-25,Karnataka,Raichur,6138,4821,78,0,21011.0
 2020-08-25,Karnataka,Ramanagara,2710,1856,21,0,15393.0
 2020-08-25,Karnataka,Shivamogga,6729,3996,95,0,48760.0
 2020-08-25,Karnataka,Tumakuru,4439,2991,129,0,46072.0
-2020-08-25,Karnataka,Udupi,10453,7615,90,0,65306.0
+2020-08-25,Karnataka,Udupi,10453,7615,90,0,66694.0
 2020-08-25,Karnataka,Uttara Kannada,4170,3151,44,0,13833.0
 2020-08-25,Karnataka,Vijayapura,5941,5001,85,0,25108.0
 2020-08-25,Karnataka,Yadgir,4827,3202,33,0,22590.0
@@ -47214,42 +47214,42 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Kerala,Thiruvananthapuram,13263,7712,65,23,
 2020-08-25,Kerala,Thrissur,3450,2321,12,4,
 2020-08-25,Kerala,Wayanad,1364,1083,4,0,
-2020-08-25,Ladakh,Kargil,1149,821,16,0,10736.0
-2020-08-25,Ladakh,Leh,1271,728,8,0,16158.0
+2020-08-25,Ladakh,Kargil,1149,821,16,0,10955.0
+2020-08-25,Ladakh,Leh,1271,728,8,0,16780.0
 2020-08-25,Maharashtra,Ahmednagar,17292,13402,244,0,11077.0
 2020-08-25,Maharashtra,Akola,3564,2885,149,1,
 2020-08-25,Maharashtra,Amravati,4484,3386,110,0,
 2020-08-25,Maharashtra,Aurangabad,21406,15344,621,0,11800.0
 2020-08-25,Maharashtra,Beed,4291,2381,97,0,50264.0
-2020-08-25,Maharashtra,Bhandara,787,500,15,0,12133.0
+2020-08-25,Maharashtra,Bhandara,787,500,15,0,12335.0
 2020-08-25,Maharashtra,Buldhana,2857,1952,69,0,17869.0
-2020-08-25,Maharashtra,Chandrapur,1510,908,15,0,45797.0
+2020-08-25,Maharashtra,Chandrapur,1510,908,15,0,46590.0
 2020-08-25,Maharashtra,Dhule,6777,4832,189,2,20469.0
 2020-08-25,Maharashtra,Gadchiroli,614,533,1,0,11993.0
-2020-08-25,Maharashtra,Gondia,1088,760,14,0,14278.0
+2020-08-25,Maharashtra,Gondia,1088,760,14,0,14606.0
 2020-08-25,Maharashtra,Hingoli,1274,1046,29,0,6797.0
 2020-08-25,Maharashtra,Jalgaon,23317,15872,780,0,105339.0
-2020-08-25,Maharashtra,Jalna,3948,2327,123,0,29981.0
+2020-08-25,Maharashtra,Jalna,3948,2327,123,0,30176.0
 2020-08-25,Maharashtra,Kolhapur,18690,12198,520,0,
 2020-08-25,Maharashtra,Latur,6840,3835,243,0,
 2020-08-25,Maharashtra,Mumbai,137683,111962,7477,306,715543.0
 2020-08-25,Maharashtra,Nagpur,21113,11507,546,1,147641.0
 2020-08-25,Maharashtra,Nanded,5485,2789,162,0,25305.0
-2020-08-25,Maharashtra,Nandurbar,1945,1034,60,0,7631.0
+2020-08-25,Maharashtra,Nandurbar,1945,1034,60,0,7817.0
 2020-08-25,Maharashtra,Nashik,33628,22488,764,0,118880.0
-2020-08-25,Maharashtra,Osmanabad,5273,3034,136,0,31955.0
+2020-08-25,Maharashtra,Osmanabad,5273,3034,136,0,32474.0
 2020-08-25,Maharashtra,Other State,660,0,66,0,
-2020-08-25,Maharashtra,Palghar,23800,16727,559,0,127114.0
+2020-08-25,Maharashtra,Palghar,23800,16727,559,0,130677.0
 2020-08-25,Maharashtra,Parbhani,2193,835,69,0,11301.0
 2020-08-25,Maharashtra,Pune,155039,109039,3823,0,657583.0
-2020-08-25,Maharashtra,Raigad,27029,21432,723,2,85264.0
+2020-08-25,Maharashtra,Raigad,27029,21432,723,2,85641.0
 2020-08-25,Maharashtra,Ratnagiri,3524,1897,125,0,
 2020-08-25,Maharashtra,Sangli,9666,5595,319,0,
 2020-08-25,Maharashtra,Satara,10490,6298,308,2,36015.0
 2020-08-25,Maharashtra,Sindhudurg,1010,531,16,0,
 2020-08-25,Maharashtra,Solapur,17545,12399,697,1,130644.0
-2020-08-25,Maharashtra,Thane,124261,101715,3624,1,457622.0
-2020-08-25,Maharashtra,Wardha,634,365,13,1,14367.0
+2020-08-25,Maharashtra,Thane,124261,101715,3624,1,461221.0
+2020-08-25,Maharashtra,Wardha,634,365,13,1,14578.0
 2020-08-25,Maharashtra,Washim,1467,1133,24,1,
 2020-08-25,Maharashtra,Yavatmal,2639,1849,64,0,43873.0
 2020-08-25,Meghalaya,East Garo Hills,4,1,0,0,
@@ -47299,11 +47299,11 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Madhya Pradesh,Dhar,740,562,15,0,13142.0
 2020-08-25,Madhya Pradesh,Dindori,126,100,0,0,3557.0
 2020-08-25,Madhya Pradesh,Guna,244,143,8,0,3648.0
-2020-08-25,Madhya Pradesh,Gwalior,4348,3259,36,0,21748.0
+2020-08-25,Madhya Pradesh,Gwalior,4348,3259,36,0,78426.0
 2020-08-25,Madhya Pradesh,Harda,388,284,8,0,1355.0
 2020-08-25,Madhya Pradesh,Hoshangabad,483,356,16,0,7948.0
 2020-08-25,Madhya Pradesh,Indore,11673,8088,368,0,192920.0
-2020-08-25,Madhya Pradesh,Jabalpur,3339,2467,67,0,56065.0
+2020-08-25,Madhya Pradesh,Jabalpur,3339,2467,67,0,58132.0
 2020-08-25,Madhya Pradesh,Jhabua,519,248,6,0,
 2020-08-25,Madhya Pradesh,Katni,417,321,8,0,9923.0
 2020-08-25,Madhya Pradesh,Khandwa,864,757,21,0,17090.0
@@ -47315,7 +47315,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Madhya Pradesh,Neemuch,1111,881,13,0,20585.0
 2020-08-25,Madhya Pradesh,Niwari,148,57,0,0,605.0
 2020-08-25,Madhya Pradesh,Panna,228,199,0,0,
-2020-08-25,Madhya Pradesh,Raisen,609,490,13,0,15678.0
+2020-08-25,Madhya Pradesh,Raisen,609,490,13,0,16200.0
 2020-08-25,Madhya Pradesh,Rajgarh,746,481,13,0,8364.0
 2020-08-25,Madhya Pradesh,Ratlam,843,673,18,0,14974.0
 2020-08-25,Madhya Pradesh,Rewa,643,471,12,0,22690.0
@@ -47326,7 +47326,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Madhya Pradesh,Shahdol,380,224,2,0,8000.0
 2020-08-25,Madhya Pradesh,Shajapur,421,344,6,0,12264.0
 2020-08-25,Madhya Pradesh,Sheopur,434,322,3,0,8807.0
-2020-08-25,Madhya Pradesh,Shivpuri,658,451,6,0,15226.0
+2020-08-25,Madhya Pradesh,Shivpuri,658,451,6,0,15554.0
 2020-08-25,Madhya Pradesh,Sidhi,265,173,2,0,4660.0
 2020-08-25,Madhya Pradesh,Singrauli,321,202,7,0,
 2020-08-25,Madhya Pradesh,Tikamgarh,380,339,10,0,6730.0
@@ -47360,14 +47360,14 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Odisha,Balangir,1444,910,4,0,2237.0
 2020-08-25,Odisha,Balasore,3077,2126,14,0,9843.0
 2020-08-25,Odisha,Bargarh,1390,825,5,0,
-2020-08-25,Odisha,Bhadrak,2222,1417,10,0,41750.0
+2020-08-25,Odisha,Bhadrak,2222,1417,10,0,43890.0
 2020-08-25,Odisha,Boudh,539,320,0,0,496.0
 2020-08-25,Odisha,Cuttack,6168,3837,30,0,5720.0
 2020-08-25,Odisha,Deogarh,159,142,0,0,682.0
 2020-08-25,Odisha,Dhenkanal,1229,927,2,0,27803.0
 2020-08-25,Odisha,Gajapati,2714,2342,19,0,715.0
-2020-08-25,Odisha,Ganjam,16740,14947,189,0,176037.0
-2020-08-25,Odisha,Jagatsinghpur,1485,1060,2,0,30741.0
+2020-08-25,Odisha,Ganjam,16740,14947,189,0,19669.0
+2020-08-25,Odisha,Jagatsinghpur,1485,1060,2,0,32480.0
 2020-08-25,Odisha,Jajpur,3132,2079,5,0,53956.0
 2020-08-25,Odisha,Jharsuguda,846,555,1,0,1663.0
 2020-08-25,Odisha,Kalahandi,1132,748,2,0,1458.0
@@ -47381,74 +47381,74 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Odisha,Nabarangapur,854,560,3,0,38965.0
 2020-08-25,Odisha,Nayagarh,2390,1582,14,0,1104.0
 2020-08-25,Odisha,Nuapada,325,296,0,0,310.0
-2020-08-25,Odisha,Puri,2821,1779,13,0,51704.0
+2020-08-25,Odisha,Puri,2821,1779,13,0,54063.0
 2020-08-25,Odisha,Rayagada,3420,2036,21,0,578.0
 2020-08-25,Odisha,Sambalpur,2163,1349,8,0,2007.0
 2020-08-25,Odisha,Subarnapur,528,219,2,0,
 2020-08-25,Odisha,Sundargarh,3933,2965,34,0,
-2020-08-25,Punjab,Amritsar,3465,2701,130,0,68816.0
-2020-08-25,Punjab,Barnala,915,436,15,0,18840.0
-2020-08-25,Punjab,Bathinda,1912,1129,18,0,32992.0
-2020-08-25,Punjab,Faridkot,891,490,10,0,19736.0
-2020-08-25,Punjab,Fatehgarh Sahib,937,645,21,0,24223.0
-2020-08-25,Punjab,Fazilka,717,428,7,0,19948.0
-2020-08-25,Punjab,Ferozepur,1506,541,23,0,25620.0
-2020-08-25,Punjab,Gurdaspur,1672,1210,44,0,57822.0
-2020-08-25,Punjab,Hoshiarpur,1146,891,29,0,45644.0
-2020-08-25,Punjab,Jalandhar,5484,3514,142,0,67404.0
-2020-08-25,Punjab,Kapurthala,992,594,34,0,28584.0
-2020-08-25,Punjab,Ludhiana,9322,6638,335,0,110027.0
-2020-08-25,Punjab,Mansa,436,266,8,0,23584.0
-2020-08-25,Punjab,Moga,1259,684,15,0,33287.0
-2020-08-25,Punjab,Pathankot,983,710,19,0,20918.0
-2020-08-25,Punjab,Patiala,5183,3677,130,0,66364.0
-2020-08-25,Punjab,Rupnagar,725,428,10,0,32121.0
-2020-08-25,Punjab,S.A.S. Nagar,3014,1374,64,0,31935.0
-2020-08-25,Punjab,Sangrur,2005,1453,74,0,38477.0
-2020-08-25,Punjab,Shahid Bhagat Singh Nagar,621,453,16,0,22938.0
-2020-08-25,Punjab,Sri Muktsar Sahib,699,405,6,0,18357.0
-2020-08-25,Punjab,Tarn Taran,693,478,28,0,23000.0
+2020-08-25,Punjab,Amritsar,3465,2701,130,0,75233.0
+2020-08-25,Punjab,Barnala,915,436,15,0,20091.0
+2020-08-25,Punjab,Bathinda,1912,1129,18,0,34970.0
+2020-08-25,Punjab,Faridkot,891,490,10,0,21075.0
+2020-08-25,Punjab,Fatehgarh Sahib,937,645,21,0,25446.0
+2020-08-25,Punjab,Fazilka,717,428,7,0,21206.0
+2020-08-25,Punjab,Ferozepur,1506,541,23,0,27461.0
+2020-08-25,Punjab,Gurdaspur,1672,1210,44,0,65582.0
+2020-08-25,Punjab,Hoshiarpur,1146,891,29,0,51096.0
+2020-08-25,Punjab,Jalandhar,5484,3514,142,0,71662.0
+2020-08-25,Punjab,Kapurthala,992,594,34,0,31786.0
+2020-08-25,Punjab,Ludhiana,9322,6638,335,0,121270.0
+2020-08-25,Punjab,Mansa,436,266,8,0,24792.0
+2020-08-25,Punjab,Moga,1259,684,15,0,34624.0
+2020-08-25,Punjab,Pathankot,983,710,19,0,23421.0
+2020-08-25,Punjab,Patiala,5183,3677,130,0,72719.0
+2020-08-25,Punjab,Rupnagar,725,428,10,0,34710.0
+2020-08-25,Punjab,S.A.S. Nagar,3014,1374,64,0,34874.0
+2020-08-25,Punjab,Sangrur,2005,1453,74,0,42353.0
+2020-08-25,Punjab,Shahid Bhagat Singh Nagar,621,453,16,0,24501.0
+2020-08-25,Punjab,Sri Muktsar Sahib,699,405,6,0,19760.0
+2020-08-25,Punjab,Tarn Taran,693,478,28,0,26107.0
 2020-08-25,Puducherry,Karaikal,711,516,11,0,8177.0
 2020-08-25,Puducherry,Mahe,30,28,0,0,2102.0
 2020-08-25,Puducherry,Puducherry,10063,6208,145,0,53012.0
 2020-08-25,Puducherry,Yanam,622,521,16,0,4010.0
-2020-08-25,Rajasthan,Ajmer,3759,3256,66,0,82355.0
-2020-08-25,Rajasthan,Alwar,7024,5698,23,0,81925.0
+2020-08-25,Rajasthan,Ajmer,3759,3256,66,0,84342.0
+2020-08-25,Rajasthan,Alwar,7024,5698,23,0,84600.0
 2020-08-25,Rajasthan,BSF Camp,85,85,0,0,
-2020-08-25,Rajasthan,Banswara,456,358,4,0,15290.0
-2020-08-25,Rajasthan,Baran,441,271,12,0,20065.0
-2020-08-25,Rajasthan,Barmer,2137,1908,18,0,48016.0
-2020-08-25,Rajasthan,Bharatpur,3553,3144,67,0,61947.0
-2020-08-25,Rajasthan,Bhilwara,1987,1176,13,0,69341.0
-2020-08-25,Rajasthan,Bikaner,4004,3254,67,0,111744.0
-2020-08-25,Rajasthan,Bundi,469,328,3,0,15599.0
-2020-08-25,Rajasthan,Chittorgarh,755,558,6,0,29033.0
-2020-08-25,Rajasthan,Churu,860,737,4,0,43670.0
-2020-08-25,Rajasthan,Dausa,483,432,5,0,23857.0
-2020-08-25,Rajasthan,Dholpur,2162,1705,19,0,62453.0
-2020-08-25,Rajasthan,Dungarpur,892,782,9,0,57177.0
+2020-08-25,Rajasthan,Banswara,456,358,4,0,15464.0
+2020-08-25,Rajasthan,Baran,441,271,12,0,21067.0
+2020-08-25,Rajasthan,Barmer,2137,1908,18,0,48907.0
+2020-08-25,Rajasthan,Bharatpur,3553,3144,67,0,63256.0
+2020-08-25,Rajasthan,Bhilwara,1987,1176,13,0,70190.0
+2020-08-25,Rajasthan,Bikaner,4004,3254,67,0,115211.0
+2020-08-25,Rajasthan,Bundi,469,328,3,0,15876.0
+2020-08-25,Rajasthan,Chittorgarh,755,558,6,0,29826.0
+2020-08-25,Rajasthan,Churu,860,737,4,0,44802.0
+2020-08-25,Rajasthan,Dausa,483,432,5,0,24628.0
+2020-08-25,Rajasthan,Dholpur,2162,1705,19,0,63415.0
+2020-08-25,Rajasthan,Dungarpur,892,782,9,0,58017.0
 2020-08-25,Rajasthan,Evacuees,61,61,0,0,
-2020-08-25,Rajasthan,Ganganagar,583,353,7,0,18436.0
-2020-08-25,Rajasthan,Hanumangarh,367,282,2,0,20226.0
+2020-08-25,Rajasthan,Ganganagar,583,353,7,0,18975.0
+2020-08-25,Rajasthan,Hanumangarh,367,282,2,0,20775.0
 2020-08-25,Rajasthan,Italians,2,2,0,0,
-2020-08-25,Rajasthan,Jaipur,9263,5929,260,0,230524.0
-2020-08-25,Rajasthan,Jaisalmer,316,271,2,0,37207.0
-2020-08-25,Rajasthan,Jalore,1324,1301,11,0,71928.0
-2020-08-25,Rajasthan,Jhalawar,1159,967,0,0,49166.0
-2020-08-25,Rajasthan,Jhunjhunu,944,877,6,0,36658.0
-2020-08-25,Rajasthan,Jodhpur,10938,8722,89,0,295296.0
-2020-08-25,Rajasthan,Karauli,559,407,7,0,19032.0
-2020-08-25,Rajasthan,Kota,4427,2987,66,0,139854.0
-2020-08-25,Rajasthan,Nagaur,2226,1920,41,0,66587.0
+2020-08-25,Rajasthan,Jaipur,9263,5929,260,0,235211.0
+2020-08-25,Rajasthan,Jaisalmer,316,271,2,0,37559.0
+2020-08-25,Rajasthan,Jalore,1324,1301,11,0,72343.0
+2020-08-25,Rajasthan,Jhalawar,1159,967,0,0,49793.0
+2020-08-25,Rajasthan,Jhunjhunu,944,877,6,0,37894.0
+2020-08-25,Rajasthan,Jodhpur,10938,8722,89,0,299240.0
+2020-08-25,Rajasthan,Karauli,559,407,7,0,19487.0
+2020-08-25,Rajasthan,Kota,4427,2987,66,0,142919.0
+2020-08-25,Rajasthan,Nagaur,2226,1920,41,0,71390.0
 2020-08-25,Rajasthan,Other State,189,94,39,0,
-2020-08-25,Rajasthan,Pali,3708,3341,42,0,87583.0
-2020-08-25,Rajasthan,Pratapgarh,385,203,5,0,19754.0
-2020-08-25,Rajasthan,Rajsamand,1039,923,13,0,36318.0
-2020-08-25,Rajasthan,Sawai Madhopur,439,367,13,0,28044.0
-2020-08-25,Rajasthan,Sikar,2422,1985,16,0,76068.0
-2020-08-25,Rajasthan,Sirohi,1165,1012,11,0,39086.0
-2020-08-25,Rajasthan,Tonk,553,467,10,0,22814.0
-2020-08-25,Rajasthan,Udaipur,2189,1963,24,0,99529.0
+2020-08-25,Rajasthan,Pali,3708,3341,42,0,88517.0
+2020-08-25,Rajasthan,Pratapgarh,385,203,5,0,20021.0
+2020-08-25,Rajasthan,Rajsamand,1039,923,13,0,37087.0
+2020-08-25,Rajasthan,Sawai Madhopur,439,367,13,0,28878.0
+2020-08-25,Rajasthan,Sikar,2422,1985,16,0,77390.0
+2020-08-25,Rajasthan,Sirohi,1165,1012,11,0,39480.0
+2020-08-25,Rajasthan,Tonk,553,467,10,0,23046.0
+2020-08-25,Rajasthan,Udaipur,2189,1963,24,0,101310.0
 2020-08-25,Sikkim,East Sikkim,1288,965,3,0,
 2020-08-25,Sikkim,North Sikkim,1,1,0,0,
 2020-08-25,Sikkim,South Sikkim,144,73,0,0,
@@ -47457,7 +47457,7 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Tamil Nadu,Airport Quarantine,1693,1571,1,0,
 2020-08-25,Tamil Nadu,Ariyalur,2334,1802,24,0,18285.0
 2020-08-25,Tamil Nadu,Chengalpattu,24129,21181,379,0,51771.0
-2020-08-25,Tamil Nadu,Chennai,127949,111955,2620,0,875050.0
+2020-08-25,Tamil Nadu,Chennai,127949,111955,2620,0,887153.0
 2020-08-25,Tamil Nadu,Coimbatore,12467,9083,252,0,102107.0
 2020-08-25,Tamil Nadu,Cuddalore,9525,6321,105,0,36434.0
 2020-08-25,Tamil Nadu,Dharmapuri,1149,990,11,0,28355.0
@@ -47502,80 +47502,80 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,Tripura,South Tripura,567,420,4,3,26273.0
 2020-08-25,Tripura,Unokoti,390,145,0,0,13504.0
 2020-08-25,Tripura,West Tripura,2867,1639,38,8,76440.0
-2020-08-25,Uttar Pradesh,Agra,2581,2175,106,0,100012.0
-2020-08-25,Uttar Pradesh,Aligarh,3485,2306,29,0,68257.0
-2020-08-25,Uttar Pradesh,Ambedkar Nagar,719,501,17,0,30749.0
+2020-08-25,Uttar Pradesh,Agra,2581,2175,106,0,102958.0
+2020-08-25,Uttar Pradesh,Aligarh,3485,2306,29,0,69747.0
+2020-08-25,Uttar Pradesh,Ambedkar Nagar,719,501,17,0,31199.0
 2020-08-25,Uttar Pradesh,Amethi,1076,824,5,0,35284.0
-2020-08-25,Uttar Pradesh,Amroha,1414,1049,16,0,55121.0
-2020-08-25,Uttar Pradesh,Auraiya,1052,772,9,0,25943.0
-2020-08-25,Uttar Pradesh,Ayodhya,2724,1905,38,0,58571.0
-2020-08-25,Uttar Pradesh,Azamgarh,2816,1978,47,0,54981.0
-2020-08-25,Uttar Pradesh,Baghpat,835,731,16,0,76197.0
-2020-08-25,Uttar Pradesh,Bahraich,1835,1270,28,0,52400.0
-2020-08-25,Uttar Pradesh,Ballia,3710,3020,39,0,54675.0
-2020-08-25,Uttar Pradesh,Balrampur,821,563,14,0,47912.0
-2020-08-25,Uttar Pradesh,Banda,631,450,8,0,17530.0
-2020-08-25,Uttar Pradesh,Barabanki,2985,2005,21,0,74871.0
+2020-08-25,Uttar Pradesh,Amroha,1414,1049,16,0,56555.0
+2020-08-25,Uttar Pradesh,Auraiya,1052,772,9,0,26371.0
+2020-08-25,Uttar Pradesh,Ayodhya,2724,1905,38,0,60438.0
+2020-08-25,Uttar Pradesh,Azamgarh,2816,1978,47,0,60421.0
+2020-08-25,Uttar Pradesh,Baghpat,835,731,16,0,77741.0
+2020-08-25,Uttar Pradesh,Bahraich,1835,1270,28,0,53100.0
+2020-08-25,Uttar Pradesh,Ballia,3710,3020,39,0,56056.0
+2020-08-25,Uttar Pradesh,Balrampur,821,563,14,0,48301.0
+2020-08-25,Uttar Pradesh,Banda,631,450,8,0,18150.0
+2020-08-25,Uttar Pradesh,Barabanki,2985,2005,21,0,76997.0
 2020-08-25,Uttar Pradesh,Bareilly,5830,4289,106,0,84880.0
 2020-08-25,Uttar Pradesh,Basti,2164,1764,51,0,39038.0
-2020-08-25,Uttar Pradesh,Bhadohi,991,789,10,0,26110.0
-2020-08-25,Uttar Pradesh,Bijnor,1420,1072,17,0,52137.0
-2020-08-25,Uttar Pradesh,Budaun,1314,809,10,0,36442.0
-2020-08-25,Uttar Pradesh,Bulandshahr,2058,1657,44,0,50103.0
-2020-08-25,Uttar Pradesh,Chandauli,1745,1366,13,0,10993.0
+2020-08-25,Uttar Pradesh,Bhadohi,991,789,10,0,26479.0
+2020-08-25,Uttar Pradesh,Bijnor,1420,1072,17,0,54149.0
+2020-08-25,Uttar Pradesh,Budaun,1314,809,10,0,37446.0
+2020-08-25,Uttar Pradesh,Bulandshahr,2058,1657,44,0,51103.0
+2020-08-25,Uttar Pradesh,Chandauli,1745,1366,13,0,38953.0
 2020-08-25,Uttar Pradesh,Chitrakoot,507,345,2,0,18625.0
-2020-08-25,Uttar Pradesh,Deoria,3400,2438,26,0,34362.0
-2020-08-25,Uttar Pradesh,Etah,756,497,11,0,37651.0
-2020-08-25,Uttar Pradesh,Etawah,1677,1080,34,0,45140.0
-2020-08-25,Uttar Pradesh,Farrukhabad,1102,755,21,0,33241.0
-2020-08-25,Uttar Pradesh,Fatehpur,1094,820,19,0,16500.0
-2020-08-25,Uttar Pradesh,Firozabad,1271,979,44,0,54541.0
-2020-08-25,Uttar Pradesh,Gautam Buddha Nagar,7303,6344,43,0,170894.0
-2020-08-25,Uttar Pradesh,Ghaziabad,7464,6264,67,0,161315.0
-2020-08-25,Uttar Pradesh,Ghazipur,2554,2107,22,0,58126.0
+2020-08-25,Uttar Pradesh,Deoria,3400,2438,26,0,35857.0
+2020-08-25,Uttar Pradesh,Etah,756,497,11,0,38671.0
+2020-08-25,Uttar Pradesh,Etawah,1677,1080,34,0,47033.0
+2020-08-25,Uttar Pradesh,Farrukhabad,1102,755,21,0,34027.0
+2020-08-25,Uttar Pradesh,Fatehpur,1094,820,19,0,16822.0
+2020-08-25,Uttar Pradesh,Firozabad,1271,979,44,0,55995.0
+2020-08-25,Uttar Pradesh,Gautam Buddha Nagar,7303,6344,43,0,172894.0
+2020-08-25,Uttar Pradesh,Ghaziabad,7464,6264,67,0,166004.0
+2020-08-25,Uttar Pradesh,Ghazipur,2554,2107,22,0,60362.0
 2020-08-25,Uttar Pradesh,Gonda,2214,1501,25,0,21660.0
-2020-08-25,Uttar Pradesh,Gorakhpur,7562,4974,112,0,52920.0
-2020-08-25,Uttar Pradesh,Hamirpur,520,416,12,0,34423.0
+2020-08-25,Uttar Pradesh,Gorakhpur,7562,4974,112,0,55941.0
+2020-08-25,Uttar Pradesh,Hamirpur,520,416,12,0,35812.0
 2020-08-25,Uttar Pradesh,Hapur,1601,1459,25,0,16767.0
-2020-08-25,Uttar Pradesh,Hardoi,2171,1677,26,0,71360.0
-2020-08-25,Uttar Pradesh,Hathras,473,371,6,0,50270.0
-2020-08-25,Uttar Pradesh,Jalaun,1120,914,14,0,14353.0
-2020-08-25,Uttar Pradesh,Jaunpur,3411,2877,43,0,74117.0
+2020-08-25,Uttar Pradesh,Hardoi,2171,1677,26,0,72492.0
+2020-08-25,Uttar Pradesh,Hathras,473,371,6,0,51270.0
+2020-08-25,Uttar Pradesh,Jalaun,1120,914,14,0,14542.0
+2020-08-25,Uttar Pradesh,Jaunpur,3411,2877,43,0,75716.0
 2020-08-25,Uttar Pradesh,Jhansi,3873,3014,95,0,100551.0
 2020-08-25,Uttar Pradesh,Kannauj,1547,1290,10,0,32522.0
-2020-08-25,Uttar Pradesh,Kanpur Dehat,911,542,9,0,28310.0
-2020-08-25,Uttar Pradesh,Kanpur Nagar,13041,9219,385,0,131177.0
-2020-08-25,Uttar Pradesh,Kasganj,743,485,1,0,45324.0
+2020-08-25,Uttar Pradesh,Kanpur Dehat,911,542,9,0,30772.0
+2020-08-25,Uttar Pradesh,Kanpur Nagar,13041,9219,385,0,147128.0
+2020-08-25,Uttar Pradesh,Kasganj,743,485,1,0,46718.0
 2020-08-25,Uttar Pradesh,Kaushambi,792,615,10,0,37217.0
-2020-08-25,Uttar Pradesh,Kushinagar,2591,1790,15,0,37435.0
+2020-08-25,Uttar Pradesh,Kushinagar,2591,1790,15,0,38594.0
 2020-08-25,Uttar Pradesh,Lakhimpur Kheri,1954,1127,24,0,33455.0
 2020-08-25,Uttar Pradesh,Lalitpur,1060,550,12,0,21781.0
-2020-08-25,Uttar Pradesh,Lucknow,23091,16128,303,0,307453.0
-2020-08-25,Uttar Pradesh,Maharajganj,2275,1591,24,0,30618.0
-2020-08-25,Uttar Pradesh,Mahoba,425,346,5,0,37922.0
-2020-08-25,Uttar Pradesh,Mainpuri,1289,1071,24,0,46930.0
-2020-08-25,Uttar Pradesh,Mathura,2001,1325,45,0,55539.0
-2020-08-25,Uttar Pradesh,Mau,1196,910,9,0,43324.0
-2020-08-25,Uttar Pradesh,Meerut,3607,2616,128,0,146316.0
-2020-08-25,Uttar Pradesh,Mirzapur,1480,1203,23,0,53558.0
-2020-08-25,Uttar Pradesh,Moradabad,4085,2921,95,0,58817.0
-2020-08-25,Uttar Pradesh,Muzaffarnagar,1674,1153,27,0,22910.0
-2020-08-25,Uttar Pradesh,Pilibhit,1991,1519,26,0,54251.0
+2020-08-25,Uttar Pradesh,Lucknow,23091,16128,303,0,312196.0
+2020-08-25,Uttar Pradesh,Maharajganj,2275,1591,24,0,31534.0
+2020-08-25,Uttar Pradesh,Mahoba,425,346,5,0,38918.0
+2020-08-25,Uttar Pradesh,Mainpuri,1289,1071,24,0,49954.0
+2020-08-25,Uttar Pradesh,Mathura,2001,1325,45,0,56511.0
+2020-08-25,Uttar Pradesh,Mau,1196,910,9,0,44394.0
+2020-08-25,Uttar Pradesh,Meerut,3607,2616,128,0,149169.0
+2020-08-25,Uttar Pradesh,Mirzapur,1480,1203,23,0,55211.0
+2020-08-25,Uttar Pradesh,Moradabad,4085,2921,95,0,89533.0
+2020-08-25,Uttar Pradesh,Muzaffarnagar,1674,1153,27,0,23310.0
+2020-08-25,Uttar Pradesh,Pilibhit,1991,1519,26,0,55841.0
 2020-08-25,Uttar Pradesh,Pratapgarh,1502,984,24,0,26100.0
 2020-08-25,Uttar Pradesh,Prayagraj,7728,5058,134,0,100200.0
-2020-08-25,Uttar Pradesh,Rae Bareli,1230,914,28,0,27018.0
-2020-08-25,Uttar Pradesh,Rampur,2659,1937,22,0,33291.0
-2020-08-25,Uttar Pradesh,Saharanpur,3016,1923,41,0,59180.0
-2020-08-25,Uttar Pradesh,Sambhal,1410,1195,26,0,74563.0
-2020-08-25,Uttar Pradesh,Sant Kabir Nagar,1837,1543,20,0,48674.0
-2020-08-25,Uttar Pradesh,Shahjahanpur,2665,1987,30,0,49722.0
-2020-08-25,Uttar Pradesh,Shamli,829,626,10,0,33722.0
-2020-08-25,Uttar Pradesh,Shrawasti,592,418,9,0,27876.0
-2020-08-25,Uttar Pradesh,Siddharthnagar,2028,1475,20,0,55778.0
-2020-08-25,Uttar Pradesh,Sitapur,1705,1109,6,0,39341.0
-2020-08-25,Uttar Pradesh,Sonbhadra,1338,986,9,0,45102.0
-2020-08-25,Uttar Pradesh,Sultanpur,1883,1544,32,0,24775.0
-2020-08-25,Uttar Pradesh,Unnao,1790,1259,32,0,54878.0
+2020-08-25,Uttar Pradesh,Rae Bareli,1230,914,28,0,51070.0
+2020-08-25,Uttar Pradesh,Rampur,2659,1937,22,0,33536.0
+2020-08-25,Uttar Pradesh,Saharanpur,3016,1923,41,0,62160.0
+2020-08-25,Uttar Pradesh,Sambhal,1410,1195,26,0,76222.0
+2020-08-25,Uttar Pradesh,Sant Kabir Nagar,1837,1543,20,0,50051.0
+2020-08-25,Uttar Pradesh,Shahjahanpur,2665,1987,30,0,51172.0
+2020-08-25,Uttar Pradesh,Shamli,829,626,10,0,34702.0
+2020-08-25,Uttar Pradesh,Shrawasti,592,418,9,0,28830.0
+2020-08-25,Uttar Pradesh,Siddharthnagar,2028,1475,20,0,57014.0
+2020-08-25,Uttar Pradesh,Sitapur,1705,1109,6,0,39930.0
+2020-08-25,Uttar Pradesh,Sonbhadra,1338,986,9,0,46850.0
+2020-08-25,Uttar Pradesh,Sultanpur,1883,1544,32,0,26514.0
+2020-08-25,Uttar Pradesh,Unnao,1790,1259,32,0,56285.0
 2020-08-25,Uttar Pradesh,Varanasi,7144,5268,150,0,80654.0
 2020-08-25,Uttarakhand,Almora,416,374,2,1,19877.0
 2020-08-25,Uttarakhand,Bageshwar,209,180,1,0,9063.0
@@ -47614,437 +47614,438 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-25,West Bengal,Purulia,1003,577,1,0,
 2020-08-25,West Bengal,South 24 Parganas,10260,8386,178,0,
 2020-08-25,West Bengal,Uttar Dinajpur,2086,1756,20,0,
-2020-08-26,Andaman and Nicobar Islands,Unknown,2945,2231,37,0,30513.0
-2020-08-26,Andhra Pradesh,Anantapur,36220,30021,293,0,251668.0
-2020-08-26,Andhra Pradesh,Chittoor,31292,22126,352,0,269713.0
-2020-08-26,Andhra Pradesh,East Godavari,52039,33946,343,0,328546.0
+2020-08-26,Andaman and Nicobar Islands,Unknown,2985,2309,41,0,31646.0
+2020-08-26,Andhra Pradesh,Anantapur,36948,30672,299,0,251668.0
+2020-08-26,Andhra Pradesh,Chittoor,32205,23029,360,0,269713.0
+2020-08-26,Andhra Pradesh,East Godavari,53567,35564,354,0,328546.0
 2020-08-26,Andhra Pradesh,Foreign Evacuees,434,434,0,0,
-2020-08-26,Andhra Pradesh,Guntur,31776,24782,346,0,296961.0
-2020-08-26,Andhra Pradesh,Krishna,14351,12143,255,0,303328.0
-2020-08-26,Andhra Pradesh,Kurnool,40100,33270,337,0,339207.0
+2020-08-26,Andhra Pradesh,Guntur,32308,25210,350,0,296961.0
+2020-08-26,Andhra Pradesh,Krishna,14650,12397,260,0,303328.0
+2020-08-26,Andhra Pradesh,Kurnool,40845,33661,342,0,339207.0
 2020-08-26,Andhra Pradesh,Other State,2461,2461,0,0,
-2020-08-26,Andhra Pradesh,Prakasam,17875,10308,243,0,197431.0
-2020-08-26,Andhra Pradesh,S.P.S. Nellore,24275,18687,233,0,225083.0
-2020-08-26,Andhra Pradesh,Srikakulam,19486,13608,216,0,270542.0
-2020-08-26,Andhra Pradesh,Visakhapatnam,31561,24985,257,0,250015.0
-2020-08-26,Andhra Pradesh,Vizianagaram,16907,9546,144,0,149819.0
-2020-08-26,Andhra Pradesh,West Godavari,31179,25741,264,0,233923.0
-2020-08-26,Andhra Pradesh,Y.S.R. Kadapa,21683,16189,177,0,222364.0
-2020-08-26,Arunachal Pradesh,Anjaw,41,28,0,0,790.0
-2020-08-26,Arunachal Pradesh,Changlang,399,303,0,0,14723.0
-2020-08-26,Arunachal Pradesh,Dibang Valley,0,0,0,0,858.0
-2020-08-26,Arunachal Pradesh,East Kameng,179,151,0,0,3083.0
-2020-08-26,Arunachal Pradesh,East Siang,240,129,1,0,9776.0
-2020-08-26,Arunachal Pradesh,Kamle,3,1,0,0,861.0
-2020-08-26,Arunachal Pradesh,Kra-Daadi,0,0,0,0,1671.0
-2020-08-26,Arunachal Pradesh,Kurung Kumey,0,0,0,0,1576.0
-2020-08-26,Arunachal Pradesh,Lepa Rada,25,21,0,0,870.0
-2020-08-26,Arunachal Pradesh,Lohit,130,114,0,0,4656.0
-2020-08-26,Arunachal Pradesh,Longding,21,16,0,0,3098.0
-2020-08-26,Arunachal Pradesh,Lower Dibang Valley,38,32,0,0,4570.0
-2020-08-26,Arunachal Pradesh,Lower Siang,89,69,0,0,4696.0
-2020-08-26,Arunachal Pradesh,Lower Subansiri,42,40,0,0,1752.0
-2020-08-26,Arunachal Pradesh,Namsai,194,176,1,0,9883.0
-2020-08-26,Arunachal Pradesh,Pakke Kessang,14,1,0,0,1230.0
-2020-08-26,Arunachal Pradesh,Papum Pare,1192,1024,1,0,57762.0
-2020-08-26,Arunachal Pradesh,Shi Yomi,9,4,0,0,616.0
-2020-08-26,Arunachal Pradesh,Siang,5,3,0,0,1424.0
-2020-08-26,Arunachal Pradesh,Tawang,123,68,0,0,3238.0
-2020-08-26,Arunachal Pradesh,Tirap,97,78,0,0,5507.0
+2020-08-26,Andhra Pradesh,Prakasam,18661,10644,252,0,197431.0
+2020-08-26,Andhra Pradesh,S.P.S. Nellore,25443,19344,238,0,225083.0
+2020-08-26,Andhra Pradesh,Srikakulam,20104,14325,220,0,270542.0
+2020-08-26,Andhra Pradesh,Visakhapatnam,32717,25855,262,0,250015.0
+2020-08-26,Andhra Pradesh,Vizianagaram,17471,9970,149,0,149819.0
+2020-08-26,Andhra Pradesh,West Godavari,32244,26658,270,0,233923.0
+2020-08-26,Andhra Pradesh,Y.S.R. Kadapa,22411,16496,185,0,222364.0
+2020-08-26,Arunachal Pradesh,Anjaw,42,30,0,0,796.0
+2020-08-26,Arunachal Pradesh,Changlang,402,306,0,0,14969.0
+2020-08-26,Arunachal Pradesh,Dibang Valley,0,0,0,0,884.0
+2020-08-26,Arunachal Pradesh,East Kameng,195,153,0,0,3187.0
+2020-08-26,Arunachal Pradesh,East Siang,264,130,1,0,9966.0
+2020-08-26,Arunachal Pradesh,Kamle,3,1,0,0,873.0
+2020-08-26,Arunachal Pradesh,Kra Daadi,2,0,0,0,
+2020-08-26,Arunachal Pradesh,Kra-Daadi,0,0,0,0,1868.0
+2020-08-26,Arunachal Pradesh,Kurung Kumey,0,0,0,0,1679.0
+2020-08-26,Arunachal Pradesh,Lepa Rada,26,21,0,0,917.0
+2020-08-26,Arunachal Pradesh,Lohit,131,114,0,0,4750.0
+2020-08-26,Arunachal Pradesh,Longding,21,16,0,0,3239.0
+2020-08-26,Arunachal Pradesh,Lower Dibang Valley,42,37,0,0,4639.0
+2020-08-26,Arunachal Pradesh,Lower Siang,90,69,0,0,4988.0
+2020-08-26,Arunachal Pradesh,Lower Subansiri,49,40,0,0,1760.0
+2020-08-26,Arunachal Pradesh,Namsai,195,178,1,0,10110.0
+2020-08-26,Arunachal Pradesh,Pakke Kessang,21,1,0,0,1454.0
+2020-08-26,Arunachal Pradesh,Papum Pare,1230,1039,1,0,58611.0
+2020-08-26,Arunachal Pradesh,Shi Yomi,9,4,0,0,646.0
+2020-08-26,Arunachal Pradesh,Siang,5,3,0,0,1432.0
+2020-08-26,Arunachal Pradesh,Tawang,123,72,0,0,3269.0
+2020-08-26,Arunachal Pradesh,Tirap,106,83,0,0,5606.0
 2020-08-26,Arunachal Pradesh,Upper Dibang Valley,1,0,0,0,
-2020-08-26,Arunachal Pradesh,Upper Siang,35,32,0,0,1550.0
-2020-08-26,Arunachal Pradesh,Upper Subansiri,126,18,0,0,2611.0
-2020-08-26,Arunachal Pradesh,West Kameng,294,147,2,0,6143.0
-2020-08-26,Arunachal Pradesh,West Siang,115,53,0,0,3068.0
+2020-08-26,Arunachal Pradesh,Upper Siang,43,32,0,0,1554.0
+2020-08-26,Arunachal Pradesh,Upper Subansiri,133,30,0,0,2633.0
+2020-08-26,Arunachal Pradesh,West Kameng,304,151,2,0,6263.0
+2020-08-26,Arunachal Pradesh,West Siang,118,53,0,0,3180.0
 2020-08-26,Assam,Airport Quarantine,13,13,0,0,
 2020-08-26,Assam,Baksa,487,447,4,0,
 2020-08-26,Assam,Barpeta,1121,1024,3,0,
 2020-08-26,Assam,Biswanath,467,379,0,0,
 2020-08-26,Assam,Bongaigaon,1113,834,2,0,
-2020-08-26,Assam,Cachar,4990,1498,24,0,
+2020-08-26,Assam,Cachar,5126,1498,26,0,
 2020-08-26,Assam,Charaideo,113,105,2,0,
 2020-08-26,Assam,Chirang,280,219,0,0,
 2020-08-26,Assam,Darrang,1967,1730,8,0,
 2020-08-26,Assam,Dhemaji,502,440,1,0,
-2020-08-26,Assam,Dhubri,1723,1215,3,0,
-2020-08-26,Assam,Dibrugarh,5606,2409,34,0,66986.0
+2020-08-26,Assam,Dhubri,1723,1215,4,0,
+2020-08-26,Assam,Dibrugarh,5758,2409,34,0,66986.0
 2020-08-26,Assam,Dima Hasao,237,199,0,0,
 2020-08-26,Assam,Goalpara,658,568,1,0,
-2020-08-26,Assam,Golaghat,2387,1656,5,0,
+2020-08-26,Assam,Golaghat,2387,1656,6,0,
 2020-08-26,Assam,Hailakandi,1387,1116,6,0,
-2020-08-26,Assam,Hojai,1345,1160,2,0,
-2020-08-26,Assam,Jorhat,3870,1752,12,0,
-2020-08-26,Assam,Kamrup,4094,2074,19,0,
-2020-08-26,Assam,Kamrup Metropolitan,25639,14599,61,0,
+2020-08-26,Assam,Hojai,1345,1160,3,0,
+2020-08-26,Assam,Jorhat,4004,1752,12,0,
+2020-08-26,Assam,Kamrup,4216,2074,19,0,
+2020-08-26,Assam,Kamrup Metropolitan,26170,14599,62,0,
 2020-08-26,Assam,Karbi Anglong,632,552,8,0,
-2020-08-26,Assam,Karimganj,1025,955,16,0,
+2020-08-26,Assam,Karimganj,1025,955,18,0,
 2020-08-26,Assam,Kokrajhar,408,353,6,0,
-2020-08-26,Assam,Lakhimpur,1266,1135,1,0,
+2020-08-26,Assam,Lakhimpur,1266,1135,2,0,
 2020-08-26,Assam,Majuli,165,80,1,0,
 2020-08-26,Assam,Morigaon,638,557,2,0,
-2020-08-26,Assam,Nagaon,4040,2506,7,0,
-2020-08-26,Assam,Nalbari,948,828,5,0,
+2020-08-26,Assam,Nagaon,4040,2506,8,0,
+2020-08-26,Assam,Nalbari,948,828,7,0,
 2020-08-26,Assam,Other State,1,1,0,0,
-2020-08-26,Assam,Sivasagar,529,473,3,0,
+2020-08-26,Assam,Sivasagar,529,473,4,0,
 2020-08-26,Assam,Sonitpur,2351,1727,4,0,
 2020-08-26,Assam,South Salmara Mankachar,51,47,0,0,
-2020-08-26,Assam,Tinsukia,3366,1798,18,0,
-2020-08-26,Assam,Udalguri,758,666,2,0,20898.0
-2020-08-26,Assam,Unknown,20377,29663,0,3,
+2020-08-26,Assam,Tinsukia,3366,1798,19,0,
+2020-08-26,Assam,Udalguri,758,666,2,0,22023.0
+2020-08-26,Assam,Unknown,21481,31811,0,3,
 2020-08-26,Assam,West Karbi Anglong,39,37,0,0,
-2020-08-26,Bihar,Araria,2477,1917,10,0,52653.0
-2020-08-26,Bihar,Arwal,1212,1005,5,0,27703.0
-2020-08-26,Bihar,Aurangabad,2442,2001,7,0,76723.0
-2020-08-26,Bihar,Banka,1510,1303,5,0,46560.0
-2020-08-26,Bihar,Begusarai,4891,4143,17,0,83426.0
-2020-08-26,Bihar,Bhagalpur,4914,4217,47,0,60662.0
-2020-08-26,Bihar,Bhojpur,3291,2799,24,0,69322.0
-2020-08-26,Bihar,Buxar,2753,2444,7,0,74895.0
-2020-08-26,Bihar,Darbhanga,2113,1693,15,0,62699.0
-2020-08-26,Bihar,East Champaran,4548,3519,23,0,104791.0
-2020-08-26,Bihar,Gaya,4279,3820,42,0,124000.0
-2020-08-26,Bihar,Gopalganj,2364,1953,2,0,45700.0
-2020-08-26,Bihar,Jamui,1428,1283,6,0,43552.0
-2020-08-26,Bihar,Jehanabad,2190,1850,7,0,60980.0
-2020-08-26,Bihar,Kaimur,1206,1068,9,0,52563.0
-2020-08-26,Bihar,Katihar,4244,3583,8,0,101351.0
-2020-08-26,Bihar,Khagaria,2167,1954,8,0,44954.0
-2020-08-26,Bihar,Kishanganj,1838,1389,6,0,31860.0
-2020-08-26,Bihar,Lakhisarai,1658,1331,4,0,28321.0
-2020-08-26,Bihar,Madhepura,1882,1454,6,0,56505.0
-2020-08-26,Bihar,Madhubani,3998,2926,4,0,79012.0
-2020-08-26,Bihar,Munger,2255,1942,28,0,35234.0
-2020-08-26,Bihar,Muzaffarpur,5378,4321,25,0,64594.0
-2020-08-26,Bihar,Nalanda,4364,3711,28,0,75723.0
-2020-08-26,Bihar,Nawada,2050,1806,13,0,61972.0
-2020-08-26,Bihar,Patna,19381,16508,135,0,117461.0
-2020-08-26,Bihar,Purnia,3533,2908,5,0,103146.0
-2020-08-26,Bihar,Rohtas,4161,3594,31,0,15216.0
-2020-08-26,Bihar,Saharsa,2952,2274,1,0,65213.0
-2020-08-26,Bihar,Samastipur,3047,2629,21,0,42375.0
-2020-08-26,Bihar,Saran,3963,3261,22,0,33790.0
-2020-08-26,Bihar,Sheikhpura,1617,1431,3,0,28542.0
-2020-08-26,Bihar,Sheohar,680,549,1,0,8970.0
-2020-08-26,Bihar,Sitamarhi,2473,1979,8,0,68256.0
-2020-08-26,Bihar,Siwan,2853,2437,15,0,73653.0
-2020-08-26,Bihar,Supaul,2186,1859,7,0,51163.0
-2020-08-26,Bihar,Vaishali,3263,2928,24,1,63441.0
-2020-08-26,Bihar,West Champaran,3266,2742,15,0,62471.0
-2020-08-26,Chandigarh,Chandigarh,3209,1713,40,2,26348.0
-2020-08-26,Chhattisgarh,Balod,298,180,0,0,2749.0
-2020-08-26,Chhattisgarh,Baloda Bazar,675,476,3,0,3816.0
-2020-08-26,Chhattisgarh,Balrampur,263,253,0,0,2276.0
-2020-08-26,Chhattisgarh,Bametara,227,202,2,0,3113.0
-2020-08-26,Chhattisgarh,Bastar,602,304,2,0,4522.0
-2020-08-26,Chhattisgarh,Bijapur,351,102,1,0,1239.0
-2020-08-26,Chhattisgarh,Bilaspur,1407,932,9,0,9823.0
-2020-08-26,Chhattisgarh,Dakshin Bastar Dantewada,312,161,2,0,1168.0
-2020-08-26,Chhattisgarh,Dhamtari,166,83,1,0,1501.0
-2020-08-26,Chhattisgarh,Durg,2329,1277,28,0,5020.0
-2020-08-26,Chhattisgarh,Gariaband,239,136,2,0,2096.0
-2020-08-26,Chhattisgarh,Gaurela Pendra Marwahi,36,33,0,0,273.0
-2020-08-26,Chhattisgarh,Janjgir Champa,810,598,6,0,4016.0
-2020-08-26,Chhattisgarh,Jashpur,392,306,0,0,2542.0
-2020-08-26,Chhattisgarh,Kabeerdham,304,248,0,0,2829.0
-2020-08-26,Chhattisgarh,Kondagaon,316,130,0,0,1607.0
-2020-08-26,Chhattisgarh,Korba,623,451,4,0,10034.0
-2020-08-26,Chhattisgarh,Koriya,305,169,4,0,2689.0
-2020-08-26,Chhattisgarh,Mahasamund,375,229,5,0,2183.0
-2020-08-26,Chhattisgarh,Mungeli,226,186,0,0,2922.0
-2020-08-26,Chhattisgarh,Narayanpur,374,323,0,0,804.0
-2020-08-26,Chhattisgarh,Other State,42,15,5,0,
-2020-08-26,Chhattisgarh,Raigarh,1224,573,11,0,5084.0
-2020-08-26,Chhattisgarh,Raipur,8118,4227,118,0,12704.0
-2020-08-26,Chhattisgarh,Rajnandgaon,1645,1256,10,0,5571.0
-2020-08-26,Chhattisgarh,Sukma,427,147,0,0,1723.0
-2020-08-26,Chhattisgarh,Surajpur,213,122,1,0,1830.0
-2020-08-26,Chhattisgarh,Surguja,472,311,4,0,2008.0
-2020-08-26,Chhattisgarh,Uttar Bastar Kanker,570,302,3,0,2051.0
-2020-08-26,Delhi,Delhi,164071,147743,4330,0,1462845.0
-2020-08-26,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1031,807,1,5,31649.0
-2020-08-26,Dadra and Nagar Haveli and Daman and Diu,Daman,980,860,1,8,13853.0
-2020-08-26,Dadra and Nagar Haveli and Daman and Diu,Diu,187,149,0,11,6078.0
-2020-08-26,Goa,North Goa,2334,951,54,0,
+2020-08-26,Bihar,Araria,2594,1935,10,0,53936.0
+2020-08-26,Bihar,Arwal,1236,1013,5,0,29673.0
+2020-08-26,Bihar,Aurangabad,2473,2072,7,0,81463.0
+2020-08-26,Bihar,Banka,1533,1320,5,0,49985.0
+2020-08-26,Bihar,Begusarai,4967,4269,17,0,91371.0
+2020-08-26,Bihar,Bhagalpur,4987,4264,47,0,65762.0
+2020-08-26,Bihar,Bhojpur,3347,2857,24,0,73021.0
+2020-08-26,Bihar,Buxar,2788,2500,7,0,80923.0
+2020-08-26,Bihar,Darbhanga,2146,1723,15,0,65050.0
+2020-08-26,Bihar,East Champaran,4680,3584,23,0,119074.0
+2020-08-26,Bihar,Gaya,4347,3874,42,0,132000.0
+2020-08-26,Bihar,Gopalganj,2400,2004,2,0,48200.0
+2020-08-26,Bihar,Jamui,1436,1300,6,0,46753.0
+2020-08-26,Bihar,Jehanabad,2220,1889,7,0,62530.0
+2020-08-26,Bihar,Kaimur,1224,1088,9,0,55763.0
+2020-08-26,Bihar,Katihar,4306,3622,8,0,113494.0
+2020-08-26,Bihar,Khagaria,2197,1978,8,0,50398.0
+2020-08-26,Bihar,Kishanganj,1887,1406,6,0,31860.0
+2020-08-26,Bihar,Lakhisarai,1684,1353,4,0,29966.0
+2020-08-26,Bihar,Madhepura,1903,1507,6,0,56505.0
+2020-08-26,Bihar,Madhubani,4095,3095,4,0,83036.0
+2020-08-26,Bihar,Munger,2283,1956,28,0,37200.0
+2020-08-26,Bihar,Muzaffarpur,5506,4420,25,0,74520.0
+2020-08-26,Bihar,Nalanda,4400,3785,28,0,81821.0
+2020-08-26,Bihar,Nawada,2070,1822,13,0,68329.0
+2020-08-26,Bihar,Patna,19721,16974,144,0,122098.0
+2020-08-26,Bihar,Purnia,3626,2984,5,0,112016.0
+2020-08-26,Bihar,Rohtas,4198,3619,31,0,15996.0
+2020-08-26,Bihar,Saharsa,3003,2397,1,0,69648.0
+2020-08-26,Bihar,Samastipur,3093,2675,21,0,42675.0
+2020-08-26,Bihar,Saran,4060,3300,22,0,61830.0
+2020-08-26,Bihar,Sheikhpura,1642,1443,3,0,31208.0
+2020-08-26,Bihar,Sheohar,683,557,1,0,27894.0
+2020-08-26,Bihar,Sitamarhi,2529,2099,8,0,71567.0
+2020-08-26,Bihar,Siwan,2882,2443,15,0,76278.0
+2020-08-26,Bihar,Supaul,2235,1897,7,0,54252.0
+2020-08-26,Bihar,Vaishali,3311,2959,24,1,73028.0
+2020-08-26,Bihar,West Champaran,3298,2782,15,0,64988.0
+2020-08-26,Chandigarh,Chandigarh,3376,1800,41,2,27076.0
+2020-08-26,Chhattisgarh,Balod,311,185,0,0,2749.0
+2020-08-26,Chhattisgarh,Baloda Bazar,689,505,3,0,3816.0
+2020-08-26,Chhattisgarh,Balrampur,266,255,0,0,2276.0
+2020-08-26,Chhattisgarh,Bametara,247,206,3,0,3113.0
+2020-08-26,Chhattisgarh,Bastar,625,307,2,0,4522.0
+2020-08-26,Chhattisgarh,Bijapur,380,102,2,0,1239.0
+2020-08-26,Chhattisgarh,Bilaspur,1432,959,9,0,9823.0
+2020-08-26,Chhattisgarh,Dakshin Bastar Dantewada,318,163,2,0,1168.0
+2020-08-26,Chhattisgarh,Dhamtari,186,86,1,0,1501.0
+2020-08-26,Chhattisgarh,Durg,2443,1290,30,0,5020.0
+2020-08-26,Chhattisgarh,Gariaband,239,137,2,0,2096.0
+2020-08-26,Chhattisgarh,Gaurela Pendra Marwahi,37,33,0,0,273.0
+2020-08-26,Chhattisgarh,Janjgir Champa,822,618,6,0,4016.0
+2020-08-26,Chhattisgarh,Jashpur,395,321,0,0,2542.0
+2020-08-26,Chhattisgarh,Kabeerdham,313,248,1,0,2829.0
+2020-08-26,Chhattisgarh,Kondagaon,323,142,0,0,1607.0
+2020-08-26,Chhattisgarh,Korba,632,488,4,0,10034.0
+2020-08-26,Chhattisgarh,Koriya,314,172,4,0,2689.0
+2020-08-26,Chhattisgarh,Mahasamund,412,236,5,0,2183.0
+2020-08-26,Chhattisgarh,Mungeli,238,186,0,0,2922.0
+2020-08-26,Chhattisgarh,Narayanpur,395,337,0,0,804.0
+2020-08-26,Chhattisgarh,Other State,46,16,5,0,
+2020-08-26,Chhattisgarh,Raigarh,1321,604,11,0,5084.0
+2020-08-26,Chhattisgarh,Raipur,8736,4353,123,0,12704.0
+2020-08-26,Chhattisgarh,Rajnandgaon,1692,1264,10,0,5571.0
+2020-08-26,Chhattisgarh,Sukma,434,148,0,0,1723.0
+2020-08-26,Chhattisgarh,Surajpur,224,126,1,0,1830.0
+2020-08-26,Chhattisgarh,Surguja,492,332,4,0,2008.0
+2020-08-26,Chhattisgarh,Uttar Bastar Kanker,588,326,3,0,2051.0
+2020-08-26,Delhi,Delhi,165764,148897,4347,0,1482661.0
+2020-08-26,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1049,836,1,5,31966.0
+2020-08-26,Dadra and Nagar Haveli and Daman and Diu,Daman,984,872,1,8,14001.0
+2020-08-26,Dadra and Nagar Haveli and Daman and Diu,Diu,187,149,0,11,6193.0
+2020-08-26,Goa,North Goa,2486,951,55,0,
 2020-08-26,Goa,Other State,197,188,0,0,
-2020-08-26,Goa,South Goa,3317,1403,103,0,
-2020-08-26,Goa,Unknown,8682,8682,0,0,
-2020-08-26,Gujarat,Ahmedabad,30519,25441,1692,0,642662.0
-2020-08-26,Gujarat,Amreli,1119,739,16,0,29761.0
-2020-08-26,Gujarat,Anand,718,649,15,0,23593.0
-2020-08-26,Gujarat,Aravalli,386,301,24,0,17575.0
-2020-08-26,Gujarat,Banaskantha,1020,1022,17,0,36811.0
-2020-08-26,Gujarat,Bharuch,1421,1123,11,0,26975.0
-2020-08-26,Gujarat,Bhavnagar,2491,2067,41,0,58038.0
-2020-08-26,Gujarat,Botad,453,342,5,0,14456.0
-2020-08-26,Gujarat,Chhota Udaipur,260,224,2,0,17356.0
-2020-08-26,Gujarat,Dahod,1095,777,5,0,31288.0
-2020-08-26,Gujarat,Dang,41,31,0,0,5484.0
-2020-08-26,Gujarat,Devbhumi Dwarka,186,74,4,0,15556.0
-2020-08-26,Gujarat,Gandhinagar,2208,1867,50,0,32737.0
-2020-08-26,Gujarat,Gir Somnath,871,722,9,0,20546.0
-2020-08-26,Gujarat,Jamnagar,2086,1614,24,0,49579.0
-2020-08-26,Gujarat,Junagadh,1590,1260,28,0,41566.0
-2020-08-26,Gujarat,Kheda,899,808,16,0,32608.0
-2020-08-26,Gujarat,Kutch,1160,782,29,0,28019.0
-2020-08-26,Gujarat,Mahisagar,545,440,2,0,19789.0
-2020-08-26,Gujarat,Mehsana,1463,984,27,0,26461.0
-2020-08-26,Gujarat,Morbi,781,550,13,0,18542.0
-2020-08-26,Gujarat,Narmada,567,486,0,0,14615.0
-2020-08-26,Gujarat,Navsari,822,723,6,0,22407.0
-2020-08-26,Gujarat,Other State,162,124,2,0,108.0
-2020-08-26,Gujarat,Panchmahal,1250,812,17,0,25050.0
-2020-08-26,Gujarat,Patan,901,840,37,0,24911.0
-2020-08-26,Gujarat,Porbandar,283,201,4,0,14262.0
-2020-08-26,Gujarat,Rajkot,4144,2353,79,0,75265.0
-2020-08-26,Gujarat,Sabarkantha,663,550,8,0,27533.0
-2020-08-26,Gujarat,Surat,19100,15902,603,0,317426.0
-2020-08-26,Gujarat,Surendranagar,1106,829,10,0,34177.0
-2020-08-26,Gujarat,Tapi,264,243,4,0,17930.0
-2020-08-26,Gujarat,Vadodara,7438,5643,119,0,106000.0
-2020-08-26,Gujarat,Valsad,930,838,9,0,21519.0
-2020-08-26,Himachal Pradesh,Bilaspur,269,161,0,0,9375.0
-2020-08-26,Himachal Pradesh,Chamba,361,269,3,2,11292.0
+2020-08-26,Goa,South Goa,3375,1403,110,0,
+2020-08-26,Goa,Unknown,8969,8969,0,0,
+2020-08-26,Gujarat,Ahmedabad,30682,25605,1697,0,662079.0
+2020-08-26,Gujarat,Amreli,1153,779,16,0,31428.0
+2020-08-26,Gujarat,Anand,726,649,15,0,24449.0
+2020-08-26,Gujarat,Aravalli,388,302,24,0,18674.0
+2020-08-26,Gujarat,Banaskantha,1043,1037,17,0,39352.0
+2020-08-26,Gujarat,Bharuch,1450,1171,11,0,28092.0
+2020-08-26,Gujarat,Bhavnagar,2536,2104,41,0,60764.0
+2020-08-26,Gujarat,Botad,459,355,5,0,15080.0
+2020-08-26,Gujarat,Chhota Udaipur,268,227,2,0,18084.0
+2020-08-26,Gujarat,Dahod,1114,795,6,0,33416.0
+2020-08-26,Gujarat,Dang,42,31,0,0,5760.0
+2020-08-26,Gujarat,Devbhumi Dwarka,197,91,4,0,15964.0
+2020-08-26,Gujarat,Gandhinagar,2251,1901,50,0,34081.0
+2020-08-26,Gujarat,Gir Somnath,887,729,10,0,21717.0
+2020-08-26,Gujarat,Jamnagar,2174,1722,24,0,51536.0
+2020-08-26,Gujarat,Junagadh,1619,1285,28,0,42707.0
+2020-08-26,Gujarat,Kheda,913,819,16,0,34764.0
+2020-08-26,Gujarat,Kutch,1184,800,29,0,28621.0
+2020-08-26,Gujarat,Mahisagar,555,491,2,0,20574.0
+2020-08-26,Gujarat,Mehsana,1484,1025,27,0,27650.0
+2020-08-26,Gujarat,Morbi,798,588,13,0,19710.0
+2020-08-26,Gujarat,Narmada,579,494,0,0,15094.0
+2020-08-26,Gujarat,Navsari,829,733,6,0,23354.0
+2020-08-26,Gujarat,Other State,162,125,2,0,108.0
+2020-08-26,Gujarat,Panchmahal,1281,842,17,0,26814.0
+2020-08-26,Gujarat,Patan,922,849,37,0,26408.0
+2020-08-26,Gujarat,Porbandar,295,218,4,0,14991.0
+2020-08-26,Gujarat,Rajkot,4243,2394,83,0,78608.0
+2020-08-26,Gujarat,Sabarkantha,669,561,8,0,28962.0
+2020-08-26,Gujarat,Surat,19353,16076,607,0,330995.0
+2020-08-26,Gujarat,Surendranagar,1113,837,10,0,36144.0
+2020-08-26,Gujarat,Tapi,272,249,4,0,18848.0
+2020-08-26,Gujarat,Vadodara,7562,5682,121,0,111125.0
+2020-08-26,Gujarat,Valsad,936,842,9,0,22548.0
+2020-08-26,Himachal Pradesh,Bilaspur,285,163,0,0,9375.0
+2020-08-26,Himachal Pradesh,Chamba,374,273,4,1,11362.0
 2020-08-26,Himachal Pradesh,Hamirpur,468,405,4,0,19913.0
-2020-08-26,Himachal Pradesh,Kangra,717,563,6,2,42271.0
-2020-08-26,Himachal Pradesh,Kinnaur,76,54,0,0,9455.0
-2020-08-26,Himachal Pradesh,Kullu,258,172,0,1,9455.0
+2020-08-26,Himachal Pradesh,Kangra,728,563,7,2,43613.0
+2020-08-26,Himachal Pradesh,Kinnaur,77,54,0,0,9455.0
+2020-08-26,Himachal Pradesh,Kullu,270,172,0,1,9565.0
 2020-08-26,Himachal Pradesh,Lahaul and Spiti,7,5,0,0,520.0
-2020-08-26,Himachal Pradesh,Mandi,391,285,7,0,15625.0
-2020-08-26,Himachal Pradesh,Shimla,272,213,2,1,15580.0
-2020-08-26,Himachal Pradesh,Sirmaur,659,496,1,7,17487.0
-2020-08-26,Himachal Pradesh,Solan,1283,832,6,36,30568.0
-2020-08-26,Himachal Pradesh,Una,393,293,0,2,18949.0
-2020-08-26,Haryana,Ambala,3299,2815,28,0,22379.0
-2020-08-26,Haryana,Bhiwani,1186,959,9,0,12740.0
+2020-08-26,Himachal Pradesh,Mandi,391,287,7,0,15634.0
+2020-08-26,Himachal Pradesh,Shimla,287,213,2,1,15792.0
+2020-08-26,Himachal Pradesh,Sirmaur,717,512,1,7,18050.0
+2020-08-26,Himachal Pradesh,Solan,1312,863,6,36,29672.0
+2020-08-26,Himachal Pradesh,Una,405,300,0,2,19435.0
+2020-08-26,Haryana,Ambala,3359,2880,29,0,22379.0
+2020-08-26,Haryana,Bhiwani,1200,1022,10,0,12740.0
 2020-08-26,Haryana,Charkhi Dadri,266,185,1,0,5992.0
-2020-08-26,Haryana,Faridabad,11982,11042,164,0,110695.0
-2020-08-26,Haryana,Fatehabad,725,530,6,0,9565.0
-2020-08-26,Haryana,Gurugram,11176,10188,131,0,151390.0
-2020-08-26,Haryana,Hisar,1782,1287,13,0,18493.0
-2020-08-26,Haryana,Jhajjar,1104,975,15,0,14083.0
-2020-08-26,Haryana,Jind,497,371,8,0,11157.0
-2020-08-26,Haryana,Kaithal,751,475,9,0,11687.0
-2020-08-26,Haryana,Karnal,2237,1475,23,0,23486.0
-2020-08-26,Haryana,Kurukshetra,1390,825,26,0,15094.0
-2020-08-26,Haryana,Mahendragarh,1450,1162,1,0,
-2020-08-26,Haryana,Nuh,681,620,13,0,9767.0
-2020-08-26,Haryana,Palwal,1419,1309,11,0,10929.0
-2020-08-26,Haryana,Panchkula,1657,1136,13,0,26152.0
-2020-08-26,Haryana,Panipat,3057,1965,39,0,11853.0
-2020-08-26,Haryana,Rewari,3176,2536,16,0,8758.0
-2020-08-26,Haryana,Rohtak,2667,2022,28,0,25894.0
-2020-08-26,Haryana,Sirsa,1058,503,11,0,11784.0
-2020-08-26,Haryana,Sonipat,3862,3459,41,0,34165.0
-2020-08-26,Haryana,Yamunanagar,1186,657,17,0,11242.0
-2020-08-26,Jharkhand,Bokaro,1079,694,11,0,11798.0
-2020-08-26,Jharkhand,Chatra,530,413,1,0,
-2020-08-26,Jharkhand,Deoghar,1128,1007,10,0,6951.0
-2020-08-26,Jharkhand,Dhanbad,2586,1831,27,0,
-2020-08-26,Jharkhand,Dumka,346,203,2,0,5400.0
-2020-08-26,Jharkhand,East Singhbhum,5522,3218,152,0,
-2020-08-26,Jharkhand,Garhwa,905,762,6,0,
-2020-08-26,Jharkhand,Giridih,1454,1251,7,0,11132.0
-2020-08-26,Jharkhand,Godda,711,659,3,0,10980.0
-2020-08-26,Jharkhand,Gumla,677,509,2,0,
-2020-08-26,Jharkhand,Hazaribagh,1363,1033,19,0,
-2020-08-26,Jharkhand,Jamtara,292,180,0,0,2880.0
-2020-08-26,Jharkhand,Khunti,570,357,2,0,3852.0
-2020-08-26,Jharkhand,Koderma,1055,796,12,0,
-2020-08-26,Jharkhand,Latehar,763,537,0,0,
-2020-08-26,Jharkhand,Lohardaga,492,384,2,0,7526.0
-2020-08-26,Jharkhand,Pakur,435,331,0,0,6429.0
-2020-08-26,Jharkhand,Palamu,1408,1078,5,0,
-2020-08-26,Jharkhand,Ramgarh,1082,696,9,0,
-2020-08-26,Jharkhand,Ranchi,6411,3552,52,0,
-2020-08-26,Jharkhand,Sahibganj,560,301,7,0,5029.0
-2020-08-26,Jharkhand,Saraikela-Kharsawan,780,458,4,0,
-2020-08-26,Jharkhand,Simdega,891,739,4,0,
-2020-08-26,Jharkhand,West Singhbhum,1134,761,10,0,
-2020-08-26,Jammu and Kashmir,Anantnag,2146,1630,46,0,
-2020-08-26,Jammu and Kashmir,Bandipora,1952,1030,24,0,
-2020-08-26,Jammu and Kashmir,Baramulla,2678,2006,98,0,
-2020-08-26,Jammu and Kashmir,Budgam,2207,1587,54,0,
-2020-08-26,Jammu and Kashmir,Doda,377,317,2,0,
-2020-08-26,Jammu and Kashmir,Ganderbal,1238,643,18,0,
-2020-08-26,Jammu and Kashmir,Jammu,2463,1732,34,0,
-2020-08-26,Jammu and Kashmir,Kathua,755,627,2,0,
-2020-08-26,Jammu and Kashmir,Kishtwar,197,178,1,0,
-2020-08-26,Jammu and Kashmir,Kulgam,1868,1571,31,0,
-2020-08-26,Jammu and Kashmir,Kupwara,1894,1246,44,0,
-2020-08-26,Jammu and Kashmir,Pulwama,2386,1883,46,0,32515.0
-2020-08-26,Jammu and Kashmir,Punch,376,304,3,0,
-2020-08-26,Jammu and Kashmir,Rajouri,841,753,3,0,
-2020-08-26,Jammu and Kashmir,Ramban,648,620,1,0,
-2020-08-26,Jammu and Kashmir,Reasi,360,173,0,0,
-2020-08-26,Jammu and Kashmir,Samba,659,447,2,0,
-2020-08-26,Jammu and Kashmir,Shopiyan,1637,1519,27,0,
-2020-08-26,Jammu and Kashmir,Srinagar,8357,6703,200,0,
-2020-08-26,Jammu and Kashmir,Udhampur,737,625,2,0,
-2020-08-26,Karnataka,Bagalkote,5335,4498,61,0,10663.0
-2020-08-26,Karnataka,Ballari,18536,12748,230,0,99685.0
-2020-08-26,Karnataka,Belagavi,10546,6139,163,0,79260.0
-2020-08-26,Karnataka,Bengaluru Rural,4074,3479,22,0,23519.0
-2020-08-26,Karnataka,Bengaluru Urban,112087,74901,1755,1,687860.0
-2020-08-26,Karnataka,Bidar,4213,3382,128,4,60322.0
-2020-08-26,Karnataka,Chamarajanagara,2092,1547,28,11,5156.0
-2020-08-26,Karnataka,Chikkaballapura,3558,2895,57,1,15089.0
-2020-08-26,Karnataka,Chikkamagaluru,3157,2047,60,0,5467.0
-2020-08-26,Karnataka,Chitradurga,2067,1469,20,0,4393.0
-2020-08-26,Karnataka,Dakshina Kannada,10778,8127,317,2,83598.0
-2020-08-26,Karnataka,Davanagere,7535,5630,167,0,17483.0
-2020-08-26,Karnataka,Dharwad,9670,6971,281,0,64565.0
-2020-08-26,Karnataka,Gadag,4392,3122,67,0,8904.0
-2020-08-26,Karnataka,Hassan,6397,4227,160,0,10800.0
-2020-08-26,Karnataka,Haveri,3625,2256,84,0,11714.0
-2020-08-26,Karnataka,Kalaburagi,10545,8542,195,0,109122.0
-2020-08-26,Karnataka,Kodagu,1224,942,16,0,25425.0
-2020-08-26,Karnataka,Kolar,2999,2352,53,0,9797.0
-2020-08-26,Karnataka,Koppal,5245,3704,108,0,8708.0
-2020-08-26,Karnataka,Mandya,4379,2784,47,0,14874.0
-2020-08-26,Karnataka,Mysuru,13929,10011,361,0,75707.0
+2020-08-26,Haryana,Faridabad,12093,11179,166,0,110695.0
+2020-08-26,Haryana,Fatehabad,783,548,8,0,9565.0
+2020-08-26,Haryana,Gurugram,11302,10282,131,0,156422.0
+2020-08-26,Haryana,Hisar,1921,1304,13,0,18493.0
+2020-08-26,Haryana,Jhajjar,1118,989,16,0,14083.0
+2020-08-26,Haryana,Jind,512,371,8,0,11157.0
+2020-08-26,Haryana,Kaithal,829,501,9,0,11687.0
+2020-08-26,Haryana,Karnal,2336,1579,24,0,23486.0
+2020-08-26,Haryana,Kurukshetra,1451,911,27,0,15094.0
+2020-08-26,Haryana,Mahendragarh,1501,1181,1,0,
+2020-08-26,Haryana,Nuh,693,623,13,0,9767.0
+2020-08-26,Haryana,Palwal,1425,1312,11,0,10929.0
+2020-08-26,Haryana,Panchkula,1829,1158,13,0,26152.0
+2020-08-26,Haryana,Panipat,3149,2099,41,0,11853.0
+2020-08-26,Haryana,Rewari,3202,2706,16,0,8758.0
+2020-08-26,Haryana,Rohtak,2727,2073,28,0,25894.0
+2020-08-26,Haryana,Sirsa,1119,510,11,0,11784.0
+2020-08-26,Haryana,Sonipat,3953,3492,41,0,34165.0
+2020-08-26,Haryana,Yamunanagar,1237,708,17,0,11242.0
+2020-08-26,Jharkhand,Bokaro,1117,720,13,0,11798.0
+2020-08-26,Jharkhand,Chatra,537,425,1,0,
+2020-08-26,Jharkhand,Deoghar,1170,1011,11,0,6951.0
+2020-08-26,Jharkhand,Dhanbad,2719,1873,27,0,
+2020-08-26,Jharkhand,Dumka,359,203,2,0,5400.0
+2020-08-26,Jharkhand,East Singhbhum,5654,3382,158,0,
+2020-08-26,Jharkhand,Garhwa,977,777,6,0,
+2020-08-26,Jharkhand,Giridih,1535,1324,7,0,11132.0
+2020-08-26,Jharkhand,Godda,715,666,3,0,10980.0
+2020-08-26,Jharkhand,Gumla,701,530,2,0,
+2020-08-26,Jharkhand,Hazaribagh,1530,1045,19,0,
+2020-08-26,Jharkhand,Jamtara,298,193,0,0,2880.0
+2020-08-26,Jharkhand,Khunti,585,383,2,0,3852.0
+2020-08-26,Jharkhand,Koderma,1081,807,12,0,
+2020-08-26,Jharkhand,Latehar,798,550,0,0,
+2020-08-26,Jharkhand,Lohardaga,508,386,2,0,7526.0
+2020-08-26,Jharkhand,Pakur,438,358,0,0,6429.0
+2020-08-26,Jharkhand,Palamu,1422,1151,5,0,
+2020-08-26,Jharkhand,Ramgarh,1115,712,10,0,
+2020-08-26,Jharkhand,Ranchi,6584,3652,57,0,
+2020-08-26,Jharkhand,Sahibganj,591,305,7,0,5029.0
+2020-08-26,Jharkhand,Saraikela-Kharsawan,788,490,4,0,
+2020-08-26,Jharkhand,Simdega,923,747,4,0,
+2020-08-26,Jharkhand,West Singhbhum,1166,796,10,0,
+2020-08-26,Jammu and Kashmir,Anantnag,2193,1660,47,0,
+2020-08-26,Jammu and Kashmir,Bandipora,1974,1160,24,0,
+2020-08-26,Jammu and Kashmir,Baramulla,2694,2061,99,0,
+2020-08-26,Jammu and Kashmir,Budgam,2271,1617,55,0,
+2020-08-26,Jammu and Kashmir,Doda,384,329,2,0,
+2020-08-26,Jammu and Kashmir,Ganderbal,1279,674,19,0,
+2020-08-26,Jammu and Kashmir,Jammu,2561,1780,37,0,
+2020-08-26,Jammu and Kashmir,Kathua,782,641,2,0,
+2020-08-26,Jammu and Kashmir,Kishtwar,206,178,1,0,
+2020-08-26,Jammu and Kashmir,Kulgam,1877,1610,31,0,
+2020-08-26,Jammu and Kashmir,Kupwara,1943,1275,45,0,
+2020-08-26,Jammu and Kashmir,Pulwama,2442,1922,47,0,32515.0
+2020-08-26,Jammu and Kashmir,Punch,383,307,3,0,
+2020-08-26,Jammu and Kashmir,Rajouri,858,760,4,0,
+2020-08-26,Jammu and Kashmir,Ramban,651,627,1,0,
+2020-08-26,Jammu and Kashmir,Reasi,360,181,0,0,
+2020-08-26,Jammu and Kashmir,Samba,671,464,2,0,
+2020-08-26,Jammu and Kashmir,Shopiyan,1646,1519,28,0,
+2020-08-26,Jammu and Kashmir,Srinagar,8553,6793,208,0,
+2020-08-26,Jammu and Kashmir,Udhampur,752,635,2,0,
+2020-08-26,Karnataka,Bagalkote,5489,4593,66,0,49851.0
+2020-08-26,Karnataka,Ballari,19046,13264,237,0,110470.0
+2020-08-26,Karnataka,Belagavi,10835,6309,168,0,81392.0
+2020-08-26,Karnataka,Bengaluru Rural,4210,3523,24,0,25678.0
+2020-08-26,Karnataka,Bengaluru Urban,115371,77531,1786,1,739620.0
+2020-08-26,Karnataka,Bidar,4255,3487,130,4,66011.0
+2020-08-26,Karnataka,Chamarajanagara,2143,1635,30,11,5156.0
+2020-08-26,Karnataka,Chikkaballapura,3645,2963,59,1,15089.0
+2020-08-26,Karnataka,Chikkamagaluru,3254,2192,61,0,5467.0
+2020-08-26,Karnataka,Chitradurga,2145,1471,20,0,4393.0
+2020-08-26,Karnataka,Dakshina Kannada,11092,8423,328,2,87945.0
+2020-08-26,Karnataka,Davanagere,7768,5792,172,0,17483.0
+2020-08-26,Karnataka,Dharwad,9925,7106,289,0,66501.0
+2020-08-26,Karnataka,Gadag,4516,3233,69,0,8904.0
+2020-08-26,Karnataka,Hassan,6551,4368,164,0,10800.0
+2020-08-26,Karnataka,Haveri,3789,2395,86,0,11714.0
+2020-08-26,Karnataka,Kalaburagi,10725,8712,195,0,111167.0
+2020-08-26,Karnataka,Kodagu,1250,992,16,0,26248.0
+2020-08-26,Karnataka,Kolar,3087,2468,56,0,9797.0
+2020-08-26,Karnataka,Koppal,5403,3821,114,0,8708.0
+2020-08-26,Karnataka,Mandya,4534,2994,49,0,14874.0
+2020-08-26,Karnataka,Mysuru,14880,10656,381,0,78038.0
 2020-08-26,Karnataka,Other State,36,33,3,0,
-2020-08-26,Karnataka,Raichur,6138,4821,78,0,21011.0
-2020-08-26,Karnataka,Ramanagara,2710,1856,21,0,15393.0
-2020-08-26,Karnataka,Shivamogga,6729,3996,95,0,48760.0
-2020-08-26,Karnataka,Tumakuru,4439,2991,129,0,46072.0
-2020-08-26,Karnataka,Udupi,10453,7615,90,0,65306.0
-2020-08-26,Karnataka,Uttara Kannada,4170,3151,44,0,13833.0
-2020-08-26,Karnataka,Vijayapura,5941,5001,85,0,25108.0
-2020-08-26,Karnataka,Yadgir,4827,3202,33,0,22590.0
-2020-08-26,Kerala,Alappuzha,4715,2672,13,6,
-2020-08-26,Kerala,Ernakulam,5044,3155,32,7,
-2020-08-26,Kerala,Idukki,1529,1228,3,1,
-2020-08-26,Kerala,Kannur,2948,2057,19,2,
-2020-08-26,Kerala,Kasaragod,4192,2994,24,3,
-2020-08-26,Kerala,Kollam,3363,2357,17,3,
-2020-08-26,Kerala,Kottayam,3117,2048,3,0,
-2020-08-26,Kerala,Kozhikode,4377,2906,26,5,
-2020-08-26,Kerala,Malappuram,7771,4522,21,5,
-2020-08-26,Kerala,Palakkad,4051,3323,3,2,
-2020-08-26,Kerala,Pathanamthitta,2695,1961,3,2,
-2020-08-26,Kerala,Thiruvananthapuram,13263,7712,65,23,
-2020-08-26,Kerala,Thrissur,3450,2321,12,4,
-2020-08-26,Kerala,Wayanad,1364,1083,4,0,
-2020-08-26,Ladakh,Kargil,1149,821,16,0,10736.0
-2020-08-26,Ladakh,Leh,1271,728,8,0,16158.0
-2020-08-26,Maharashtra,Ahmednagar,17292,13402,244,0,11077.0
-2020-08-26,Maharashtra,Akola,3564,2885,149,1,
-2020-08-26,Maharashtra,Amravati,4484,3386,110,0,
-2020-08-26,Maharashtra,Aurangabad,21406,15344,621,0,11800.0
-2020-08-26,Maharashtra,Beed,4291,2381,97,0,50264.0
-2020-08-26,Maharashtra,Bhandara,787,500,15,0,12133.0
-2020-08-26,Maharashtra,Buldhana,2857,1952,69,0,17869.0
-2020-08-26,Maharashtra,Chandrapur,1510,908,15,0,45797.0
-2020-08-26,Maharashtra,Dhule,6777,4832,189,2,20469.0
-2020-08-26,Maharashtra,Gadchiroli,614,533,1,0,11993.0
-2020-08-26,Maharashtra,Gondia,1088,760,14,0,14278.0
-2020-08-26,Maharashtra,Hingoli,1274,1046,29,0,6797.0
-2020-08-26,Maharashtra,Jalgaon,23317,15872,780,0,105339.0
-2020-08-26,Maharashtra,Jalna,3948,2327,123,0,29981.0
-2020-08-26,Maharashtra,Kolhapur,18690,12198,520,0,
-2020-08-26,Maharashtra,Latur,6840,3835,243,0,
-2020-08-26,Maharashtra,Mumbai,137683,111962,7477,306,715543.0
-2020-08-26,Maharashtra,Nagpur,21113,11507,546,1,147641.0
-2020-08-26,Maharashtra,Nanded,5485,2789,162,0,25305.0
-2020-08-26,Maharashtra,Nandurbar,1945,1034,60,0,7631.0
-2020-08-26,Maharashtra,Nashik,33628,22488,764,0,118880.0
-2020-08-26,Maharashtra,Osmanabad,5273,3034,136,0,31955.0
-2020-08-26,Maharashtra,Other State,660,0,66,0,
-2020-08-26,Maharashtra,Palghar,23800,16727,559,0,127114.0
-2020-08-26,Maharashtra,Parbhani,2193,835,69,0,11301.0
-2020-08-26,Maharashtra,Pune,155039,109039,3823,0,657583.0
-2020-08-26,Maharashtra,Raigad,27029,21432,723,2,85264.0
-2020-08-26,Maharashtra,Ratnagiri,3524,1897,125,0,
-2020-08-26,Maharashtra,Sangli,9666,5595,319,0,
-2020-08-26,Maharashtra,Satara,10490,6298,308,2,36015.0
-2020-08-26,Maharashtra,Sindhudurg,1010,531,16,0,
-2020-08-26,Maharashtra,Solapur,17545,12399,697,1,130644.0
-2020-08-26,Maharashtra,Thane,124261,101715,3624,1,457622.0
-2020-08-26,Maharashtra,Wardha,634,365,13,1,14367.0
-2020-08-26,Maharashtra,Washim,1467,1133,24,1,
-2020-08-26,Maharashtra,Yavatmal,2639,1849,64,0,43873.0
-2020-08-26,Meghalaya,East Garo Hills,4,1,0,0,
+2020-08-26,Karnataka,Raichur,6274,4913,80,0,21011.0
+2020-08-26,Karnataka,Ramanagara,2757,1881,21,0,15393.0
+2020-08-26,Karnataka,Shivamogga,6895,4439,96,0,48760.0
+2020-08-26,Karnataka,Tumakuru,4527,3061,132,0,46072.0
+2020-08-26,Karnataka,Udupi,10704,7861,91,0,67818.0
+2020-08-26,Karnataka,Uttara Kannada,4299,3189,45,0,13833.0
+2020-08-26,Karnataka,Vijayapura,6072,5103,88,0,25108.0
+2020-08-26,Karnataka,Yadgir,4929,3280,35,0,22590.0
+2020-08-26,Kerala,Alappuzha,4908,2767,13,6,
+2020-08-26,Kerala,Ernakulam,5237,3346,32,7,
+2020-08-26,Kerala,Idukki,1592,1241,3,1,
+2020-08-26,Kerala,Kannur,3076,2106,20,2,
+2020-08-26,Kerala,Kasaragod,4293,3034,24,3,
+2020-08-26,Kerala,Kollam,3496,2415,17,3,
+2020-08-26,Kerala,Kottayam,3254,2107,3,0,
+2020-08-26,Kerala,Kozhikode,4592,3056,26,5,
+2020-08-26,Kerala,Malappuram,8123,4776,21,5,
+2020-08-26,Kerala,Palakkad,4137,3389,3,2,
+2020-08-26,Kerala,Pathanamthitta,2875,2004,3,2,
+2020-08-26,Kerala,Thiruvananthapuram,13724,7913,77,23,
+2020-08-26,Kerala,Thrissur,3654,2421,12,4,
+2020-08-26,Kerala,Wayanad,1394,1115,4,0,
+2020-08-26,Ladakh,Kargil,1162,827,17,0,11124.0
+2020-08-26,Ladakh,Leh,1289,753,8,0,17595.0
+2020-08-26,Maharashtra,Ahmednagar,17896,13731,263,0,11077.0
+2020-08-26,Maharashtra,Akola,3611,2887,149,1,
+2020-08-26,Maharashtra,Amravati,4585,3484,112,0,
+2020-08-26,Maharashtra,Aurangabad,21745,15511,635,0,11800.0
+2020-08-26,Maharashtra,Beed,4374,2455,105,0,50264.0
+2020-08-26,Maharashtra,Bhandara,819,504,17,0,13606.0
+2020-08-26,Maharashtra,Buldhana,2965,1980,69,0,18209.0
+2020-08-26,Maharashtra,Chandrapur,1559,921,15,0,47592.0
+2020-08-26,Maharashtra,Dhule,6959,4899,190,2,20469.0
+2020-08-26,Maharashtra,Gadchiroli,625,555,1,0,11993.0
+2020-08-26,Maharashtra,Gondia,1148,766,15,0,14991.0
+2020-08-26,Maharashtra,Hingoli,1292,1049,30,0,6797.0
+2020-08-26,Maharashtra,Jalgaon,23916,16323,794,0,114664.0
+2020-08-26,Maharashtra,Jalna,4009,2428,123,0,30712.0
+2020-08-26,Maharashtra,Kolhapur,19076,12592,535,0,
+2020-08-26,Maharashtra,Latur,7022,3987,244,0,
+2020-08-26,Maharashtra,Mumbai,139537,112743,7505,310,715543.0
+2020-08-26,Maharashtra,Nagpur,22378,12107,582,1,152183.0
+2020-08-26,Maharashtra,Nanded,5725,2873,165,0,25305.0
+2020-08-26,Maharashtra,Nandurbar,2075,1076,62,0,8191.0
+2020-08-26,Maharashtra,Nashik,34615,23098,781,0,120996.0
+2020-08-26,Maharashtra,Osmanabad,5328,3164,141,0,32977.0
+2020-08-26,Maharashtra,Other State,675,0,67,0,
+2020-08-26,Maharashtra,Palghar,24157,16912,559,0,130677.0
+2020-08-26,Maharashtra,Parbhani,2269,887,70,0,11301.0
+2020-08-26,Maharashtra,Pune,158269,110397,3869,0,657583.0
+2020-08-26,Maharashtra,Raigad,27622,21860,728,2,85641.0
+2020-08-26,Maharashtra,Ratnagiri,3589,2043,129,0,
+2020-08-26,Maharashtra,Sangli,10108,5741,339,0,
+2020-08-26,Maharashtra,Satara,10995,6466,311,2,36015.0
+2020-08-26,Maharashtra,Sindhudurg,1030,543,16,0,
+2020-08-26,Maharashtra,Solapur,17738,12673,717,1,135514.0
+2020-08-26,Maharashtra,Thane,126042,102374,3646,1,470430.0
+2020-08-26,Maharashtra,Wardha,686,366,13,1,14787.0
+2020-08-26,Maharashtra,Washim,1528,1183,25,1,
+2020-08-26,Maharashtra,Yavatmal,2744,1849,67,0,44851.0
+2020-08-26,Meghalaya,East Garo Hills,13,1,0,0,
 2020-08-26,Meghalaya,East Jaintia Hills,32,20,0,0,
-2020-08-26,Meghalaya,East Khasi Hills,1375,574,4,0,
+2020-08-26,Meghalaya,East Khasi Hills,1407,581,4,0,
 2020-08-26,Meghalaya,North Garo Hills,16,3,0,0,
-2020-08-26,Meghalaya,Ribhoi,199,102,3,0,
+2020-08-26,Meghalaya,Ribhoi,183,102,3,0,
 2020-08-26,Meghalaya,South Garo Hills,16,4,0,0,
-2020-08-26,Meghalaya,South West Garo Hills,12,8,0,0,
+2020-08-26,Meghalaya,South West Garo Hills,12,11,0,0,
 2020-08-26,Meghalaya,South West Khasi Hills,1,1,0,0,
-2020-08-26,Meghalaya,West Garo Hills,280,82,1,0,
+2020-08-26,Meghalaya,West Garo Hills,287,114,1,0,
 2020-08-26,Meghalaya,West Jaintia Hills,27,24,0,0,
 2020-08-26,Meghalaya,West Khasi Hills,56,13,0,0,
-2020-08-26,Manipur,Bishnupur,185,58,1,0,
-2020-08-26,Manipur,CAPF Personnel,1060,508,1,0,
+2020-08-26,Manipur,Bishnupur,189,58,1,0,
+2020-08-26,Manipur,CAPF Personnel,1085,516,1,0,
 2020-08-26,Manipur,Chandel,90,4,3,0,
-2020-08-26,Manipur,Churachandpur,362,58,1,0,11280.0
-2020-08-26,Manipur,Imphal East,423,16,3,0,
-2020-08-26,Manipur,Imphal West,1092,52,6,0,
+2020-08-26,Manipur,Churachandpur,365,58,1,0,11280.0
+2020-08-26,Manipur,Imphal East,455,16,3,0,
+2020-08-26,Manipur,Imphal West,1149,52,7,0,
 2020-08-26,Manipur,Jiribam,114,2,0,0,
-2020-08-26,Manipur,Kakching,183,27,0,0,
+2020-08-26,Manipur,Kakching,184,27,0,0,
 2020-08-26,Manipur,Kamjong,159,17,0,0,
-2020-08-26,Manipur,Kangpokpi,320,19,2,0,
-2020-08-26,Manipur,Noney,58,18,0,0,
+2020-08-26,Manipur,Kangpokpi,321,19,2,0,
+2020-08-26,Manipur,Noney,61,18,0,0,
 2020-08-26,Manipur,Pherzawl,33,15,0,0,
-2020-08-26,Manipur,Senapati,257,21,0,0,
+2020-08-26,Manipur,Senapati,258,21,0,0,
 2020-08-26,Manipur,Tamenglong,246,32,0,0,
 2020-08-26,Manipur,Tengnoupal,20,13,0,0,
-2020-08-26,Manipur,Thoubal,532,23,5,0,
+2020-08-26,Manipur,Thoubal,546,23,5,0,
 2020-08-26,Manipur,Ukhrul,281,18,0,0,
-2020-08-26,Manipur,Unknown,29,2911,2,0,
-2020-08-26,Madhya Pradesh,Agar Malwa,174,128,5,0,
-2020-08-26,Madhya Pradesh,Alirajpur,416,261,3,0,
-2020-08-26,Madhya Pradesh,Anuppur,306,136,1,0,8726.0
-2020-08-26,Madhya Pradesh,Ashoknagar,164,134,5,0,6732.0
-2020-08-26,Madhya Pradesh,Balaghat,249,190,1,0,9654.0
-2020-08-26,Madhya Pradesh,Barwani,1061,940,14,0,14291.0
-2020-08-26,Madhya Pradesh,Betul,578,350,11,0,9685.0
-2020-08-26,Madhya Pradesh,Bhind,566,525,4,0,15212.0
-2020-08-26,Madhya Pradesh,Bhopal,9541,7732,264,0,169295.0
-2020-08-26,Madhya Pradesh,Burhanpur,547,496,25,0,13040.0
-2020-08-26,Madhya Pradesh,Chhatarpur,537,448,12,0,17005.0
-2020-08-26,Madhya Pradesh,Chhindwara,399,293,5,0,3752.0
-2020-08-26,Madhya Pradesh,Damoh,549,404,10,0,9677.0
-2020-08-26,Madhya Pradesh,Datia,550,411,6,0,10667.0
-2020-08-26,Madhya Pradesh,Dewas,621,503,15,0,27116.0
-2020-08-26,Madhya Pradesh,Dhar,740,562,15,0,13142.0
+2020-08-26,Manipur,Unknown,29,2920,2,0,
+2020-08-26,Madhya Pradesh,Agar Malwa,177,131,5,0,
+2020-08-26,Madhya Pradesh,Alirajpur,417,261,3,0,
+2020-08-26,Madhya Pradesh,Anuppur,335,144,1,0,9772.0
+2020-08-26,Madhya Pradesh,Ashoknagar,165,137,5,0,9667.0
+2020-08-26,Madhya Pradesh,Balaghat,255,202,1,0,9654.0
+2020-08-26,Madhya Pradesh,Barwani,1062,953,14,0,14291.0
+2020-08-26,Madhya Pradesh,Betul,588,361,11,0,9685.0
+2020-08-26,Madhya Pradesh,Bhind,574,525,4,0,15212.0
+2020-08-26,Madhya Pradesh,Bhopal,9670,7855,266,0,169295.0
+2020-08-26,Madhya Pradesh,Burhanpur,548,496,25,0,13040.0
+2020-08-26,Madhya Pradesh,Chhatarpur,539,455,13,0,17005.0
+2020-08-26,Madhya Pradesh,Chhindwara,411,303,5,0,3752.0
+2020-08-26,Madhya Pradesh,Damoh,561,411,12,0,9677.0
+2020-08-26,Madhya Pradesh,Datia,569,432,6,0,10667.0
+2020-08-26,Madhya Pradesh,Dewas,634,503,15,0,27116.0
+2020-08-26,Madhya Pradesh,Dhar,765,577,15,0,13142.0
 2020-08-26,Madhya Pradesh,Dindori,126,100,0,0,3557.0
-2020-08-26,Madhya Pradesh,Guna,244,143,8,0,3648.0
-2020-08-26,Madhya Pradesh,Gwalior,4348,3259,36,0,21748.0
-2020-08-26,Madhya Pradesh,Harda,388,284,8,0,1355.0
-2020-08-26,Madhya Pradesh,Hoshangabad,483,356,16,0,7948.0
-2020-08-26,Madhya Pradesh,Indore,11673,8088,368,0,192920.0
-2020-08-26,Madhya Pradesh,Jabalpur,3339,2467,67,0,56065.0
-2020-08-26,Madhya Pradesh,Jhabua,519,248,6,0,
-2020-08-26,Madhya Pradesh,Katni,417,321,8,0,9923.0
-2020-08-26,Madhya Pradesh,Khandwa,864,757,21,0,17090.0
-2020-08-26,Madhya Pradesh,Khargone,1341,1114,25,0,19587.0
-2020-08-26,Madhya Pradesh,Mandla,142,81,1,0,
-2020-08-26,Madhya Pradesh,Mandsaur,714,567,12,0,19305.0
-2020-08-26,Madhya Pradesh,Morena,1997,1874,12,0,35043.0
-2020-08-26,Madhya Pradesh,Narsinghpur,332,271,2,0,12015.0
-2020-08-26,Madhya Pradesh,Neemuch,1111,881,13,0,20585.0
-2020-08-26,Madhya Pradesh,Niwari,148,57,0,0,605.0
-2020-08-26,Madhya Pradesh,Panna,228,199,0,0,
-2020-08-26,Madhya Pradesh,Raisen,609,490,13,0,15678.0
-2020-08-26,Madhya Pradesh,Rajgarh,746,481,13,0,8364.0
-2020-08-26,Madhya Pradesh,Ratlam,843,673,18,0,14974.0
-2020-08-26,Madhya Pradesh,Rewa,643,471,12,0,22690.0
-2020-08-26,Madhya Pradesh,Sagar,1015,799,46,0,38041.0
-2020-08-26,Madhya Pradesh,Satna,433,298,13,0,15401.0
-2020-08-26,Madhya Pradesh,Sehore,592,425,18,0,9823.0
-2020-08-26,Madhya Pradesh,Seoni,205,131,4,0,1237.0
-2020-08-26,Madhya Pradesh,Shahdol,380,224,2,0,8000.0
-2020-08-26,Madhya Pradesh,Shajapur,421,344,6,0,12264.0
-2020-08-26,Madhya Pradesh,Sheopur,434,322,3,0,8807.0
-2020-08-26,Madhya Pradesh,Shivpuri,658,451,6,0,15226.0
-2020-08-26,Madhya Pradesh,Sidhi,265,173,2,0,4660.0
-2020-08-26,Madhya Pradesh,Singrauli,321,202,7,0,
-2020-08-26,Madhya Pradesh,Tikamgarh,380,339,10,0,6730.0
-2020-08-26,Madhya Pradesh,Ujjain,1603,1299,78,0,60012.0
-2020-08-26,Madhya Pradesh,Umaria,105,63,2,0,1980.0
-2020-08-26,Madhya Pradesh,Vidisha,735,545,13,0,11770.0
-2020-08-26,Mizoram,Aizawl,559,243,0,0,
+2020-08-26,Madhya Pradesh,Guna,254,145,8,0,3648.0
+2020-08-26,Madhya Pradesh,Gwalior,4450,3317,37,0,85805.0
+2020-08-26,Madhya Pradesh,Harda,402,304,9,0,1355.0
+2020-08-26,Madhya Pradesh,Hoshangabad,490,368,17,0,8810.0
+2020-08-26,Madhya Pradesh,Indore,11860,8290,371,0,192920.0
+2020-08-26,Madhya Pradesh,Jabalpur,3456,2547,69,0,60302.0
+2020-08-26,Madhya Pradesh,Jhabua,521,284,6,0,
+2020-08-26,Madhya Pradesh,Katni,427,328,8,0,10346.0
+2020-08-26,Madhya Pradesh,Khandwa,867,760,21,0,17090.0
+2020-08-26,Madhya Pradesh,Khargone,1374,1145,25,0,19587.0
+2020-08-26,Madhya Pradesh,Mandla,144,87,1,0,
+2020-08-26,Madhya Pradesh,Mandsaur,719,572,12,0,19305.0
+2020-08-26,Madhya Pradesh,Morena,2009,1878,13,0,35043.0
+2020-08-26,Madhya Pradesh,Narsinghpur,338,285,2,0,12322.0
+2020-08-26,Madhya Pradesh,Neemuch,1120,902,13,0,20585.0
+2020-08-26,Madhya Pradesh,Niwari,149,57,0,0,605.0
+2020-08-26,Madhya Pradesh,Panna,229,202,0,0,
+2020-08-26,Madhya Pradesh,Raisen,616,491,13,0,16200.0
+2020-08-26,Madhya Pradesh,Rajgarh,756,484,13,0,8364.0
+2020-08-26,Madhya Pradesh,Ratlam,870,685,18,0,14974.0
+2020-08-26,Madhya Pradesh,Rewa,652,477,12,0,22690.0
+2020-08-26,Madhya Pradesh,Sagar,1050,829,47,0,38041.0
+2020-08-26,Madhya Pradesh,Satna,452,324,14,0,15401.0
+2020-08-26,Madhya Pradesh,Sehore,598,435,18,0,9823.0
+2020-08-26,Madhya Pradesh,Seoni,211,140,4,0,1237.0
+2020-08-26,Madhya Pradesh,Shahdol,409,247,2,0,8000.0
+2020-08-26,Madhya Pradesh,Shajapur,423,348,6,0,12800.0
+2020-08-26,Madhya Pradesh,Sheopur,439,339,3,0,8807.0
+2020-08-26,Madhya Pradesh,Shivpuri,702,452,6,0,16075.0
+2020-08-26,Madhya Pradesh,Sidhi,268,180,2,0,4660.0
+2020-08-26,Madhya Pradesh,Singrauli,330,209,7,0,
+2020-08-26,Madhya Pradesh,Tikamgarh,385,340,10,0,6730.0
+2020-08-26,Madhya Pradesh,Ujjain,1624,1324,78,0,60012.0
+2020-08-26,Madhya Pradesh,Umaria,110,64,2,0,1980.0
+2020-08-26,Madhya Pradesh,Vidisha,764,561,14,0,11770.0
+2020-08-26,Mizoram,Aizawl,559,252,0,0,
 2020-08-26,Mizoram,Champhai,16,13,0,0,
 2020-08-26,Mizoram,Hnahthial,2,0,0,0,
 2020-08-26,Mizoram,Khawzawl,3,3,0,0,
@@ -48055,11 +48056,11 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Mizoram,Saiha,27,26,0,0,
 2020-08-26,Mizoram,Saitual,4,4,0,0,
 2020-08-26,Mizoram,Serchhip,15,7,0,0,
-2020-08-26,Nagaland,Dimapur,1760,1169,8,5,896.0
+2020-08-26,Nagaland,Dimapur,1764,1169,8,5,896.0
 2020-08-26,Nagaland,Kiphire,5,4,0,0,18.0
-2020-08-26,Nagaland,Kohima,1035,613,0,3,485.0
+2020-08-26,Nagaland,Kohima,1055,613,0,3,485.0
 2020-08-26,Nagaland,Longleng,7,6,0,0,
-2020-08-26,Nagaland,Mokokchung,20,18,0,0,63.0
+2020-08-26,Nagaland,Mokokchung,22,18,0,0,63.0
 2020-08-26,Nagaland,Mon,298,219,0,2,45.0
 2020-08-26,Nagaland,Others,46,46,0,0,
 2020-08-26,Nagaland,Peren,347,344,0,0,11.0
@@ -48067,261 +48068,975 @@ Date,State,District,Confirmed,Recovered,Deceased,Other,Tested
 2020-08-26,Nagaland,Tuensang,57,50,0,0,1.0
 2020-08-26,Nagaland,Wokha,33,27,0,0,7.0
 2020-08-26,Nagaland,Zunheboto,112,83,0,0,
-2020-08-26,Odisha,Angul,669,455,4,0,2830.0
-2020-08-26,Odisha,Balangir,1444,910,4,0,2237.0
-2020-08-26,Odisha,Balasore,3077,2126,14,0,9843.0
-2020-08-26,Odisha,Bargarh,1390,825,5,0,
-2020-08-26,Odisha,Bhadrak,2222,1417,10,0,41750.0
-2020-08-26,Odisha,Boudh,539,320,0,0,496.0
-2020-08-26,Odisha,Cuttack,6168,3837,30,0,5720.0
-2020-08-26,Odisha,Deogarh,159,142,0,0,682.0
-2020-08-26,Odisha,Dhenkanal,1229,927,2,0,27803.0
-2020-08-26,Odisha,Gajapati,2714,2342,19,0,715.0
-2020-08-26,Odisha,Ganjam,16740,14947,189,0,176037.0
-2020-08-26,Odisha,Jagatsinghpur,1485,1060,2,0,30741.0
-2020-08-26,Odisha,Jajpur,3132,2079,5,0,53956.0
-2020-08-26,Odisha,Jharsuguda,846,555,1,0,1663.0
-2020-08-26,Odisha,Kalahandi,1132,748,2,0,1458.0
-2020-08-26,Odisha,Kandhamal,1965,1544,7,0,1516.0
-2020-08-26,Odisha,Kendrapara,1309,868,4,0,106962.0
-2020-08-26,Odisha,Kendujhar,1519,1242,7,0,
-2020-08-26,Odisha,Khordha,12791,7826,65,0,
-2020-08-26,Odisha,Koraput,2894,1871,3,0,1401.0
-2020-08-26,Odisha,Malkangiri,1959,1344,7,0,1841.0
-2020-08-26,Odisha,Mayurbhanj,2414,1299,6,0,3307.0
-2020-08-26,Odisha,Nabarangapur,854,560,3,0,38965.0
-2020-08-26,Odisha,Nayagarh,2390,1582,14,0,1104.0
-2020-08-26,Odisha,Nuapada,325,296,0,0,310.0
-2020-08-26,Odisha,Puri,2821,1779,13,0,51704.0
-2020-08-26,Odisha,Rayagada,3420,2036,21,0,578.0
-2020-08-26,Odisha,Sambalpur,2163,1349,8,0,2007.0
-2020-08-26,Odisha,Subarnapur,528,219,2,0,
-2020-08-26,Odisha,Sundargarh,3933,2965,34,0,
-2020-08-26,Punjab,Amritsar,3465,2701,130,0,68816.0
-2020-08-26,Punjab,Barnala,915,436,15,0,18840.0
-2020-08-26,Punjab,Bathinda,1912,1129,18,0,32992.0
-2020-08-26,Punjab,Faridkot,891,490,10,0,19736.0
-2020-08-26,Punjab,Fatehgarh Sahib,937,645,21,0,24223.0
-2020-08-26,Punjab,Fazilka,717,428,7,0,19948.0
-2020-08-26,Punjab,Ferozepur,1506,541,23,0,25620.0
-2020-08-26,Punjab,Gurdaspur,1672,1210,44,0,57822.0
-2020-08-26,Punjab,Hoshiarpur,1146,891,29,0,45644.0
-2020-08-26,Punjab,Jalandhar,5484,3514,142,0,67404.0
-2020-08-26,Punjab,Kapurthala,992,594,34,0,28584.0
-2020-08-26,Punjab,Ludhiana,9322,6638,335,0,110027.0
-2020-08-26,Punjab,Mansa,436,266,8,0,23584.0
-2020-08-26,Punjab,Moga,1259,684,15,0,33287.0
-2020-08-26,Punjab,Pathankot,983,710,19,0,20918.0
-2020-08-26,Punjab,Patiala,5183,3677,130,0,66364.0
-2020-08-26,Punjab,Rupnagar,725,428,10,0,32121.0
-2020-08-26,Punjab,S.A.S. Nagar,3014,1374,64,0,31935.0
-2020-08-26,Punjab,Sangrur,2005,1453,74,0,38477.0
-2020-08-26,Punjab,Shahid Bhagat Singh Nagar,621,453,16,0,22938.0
-2020-08-26,Punjab,Sri Muktsar Sahib,699,405,6,0,18357.0
-2020-08-26,Punjab,Tarn Taran,693,478,28,0,23000.0
-2020-08-26,Puducherry,Karaikal,711,516,11,0,8177.0
-2020-08-26,Puducherry,Mahe,30,28,0,0,2102.0
-2020-08-26,Puducherry,Puducherry,10063,6208,145,0,53012.0
-2020-08-26,Puducherry,Yanam,622,521,16,0,4010.0
-2020-08-26,Rajasthan,Ajmer,3817,3256,66,0,82355.0
-2020-08-26,Rajasthan,Alwar,7094,5698,23,0,81925.0
+2020-08-26,Odisha,Angul,732,477,4,0,2830.0
+2020-08-26,Odisha,Balangir,1520,975,4,0,2237.0
+2020-08-26,Odisha,Balasore,3175,2281,14,0,9843.0
+2020-08-26,Odisha,Bargarh,1488,903,5,0,
+2020-08-26,Odisha,Bhadrak,2336,1662,10,0,44609.0
+2020-08-26,Odisha,Boudh,543,404,0,0,496.0
+2020-08-26,Odisha,Cuttack,6525,4018,32,0,5720.0
+2020-08-26,Odisha,Deogarh,167,143,0,0,682.0
+2020-08-26,Odisha,Dhenkanal,1296,976,2,0,28847.0
+2020-08-26,Odisha,Gajapati,2755,2369,19,0,715.0
+2020-08-26,Odisha,Ganjam,16936,15185,191,0,19669.0
+2020-08-26,Odisha,Jagatsinghpur,1580,1076,2,0,33141.0
+2020-08-26,Odisha,Jajpur,3305,2111,5,0,53956.0
+2020-08-26,Odisha,Jharsuguda,939,575,1,0,1663.0
+2020-08-26,Odisha,Kalahandi,1160,804,2,0,1458.0
+2020-08-26,Odisha,Kandhamal,2006,1612,7,0,1516.0
+2020-08-26,Odisha,Kendrapara,1385,887,4,0,106962.0
+2020-08-26,Odisha,Kendujhar,1593,1276,8,0,
+2020-08-26,Odisha,Khordha,13338,8558,66,0,
+2020-08-26,Odisha,Koraput,2985,1990,3,0,1401.0
+2020-08-26,Odisha,Malkangiri,2093,1398,7,0,1841.0
+2020-08-26,Odisha,Mayurbhanj,2506,1411,6,0,3307.0
+2020-08-26,Odisha,Nabarangapur,919,596,3,0,40133.0
+2020-08-26,Odisha,Nayagarh,2561,1642,14,0,1104.0
+2020-08-26,Odisha,Nuapada,340,307,0,0,310.0
+2020-08-26,Odisha,Puri,2965,1900,14,0,55941.0
+2020-08-26,Odisha,Rayagada,3566,2253,21,0,578.0
+2020-08-26,Odisha,Sambalpur,2270,1476,11,0,2007.0
+2020-08-26,Odisha,Subarnapur,531,322,2,0,
+2020-08-26,Odisha,Sundargarh,4087,3226,37,0,
+2020-08-26,Punjab,Amritsar,3538,2738,130,0,75233.0
+2020-08-26,Punjab,Barnala,944,449,17,0,20091.0
+2020-08-26,Punjab,Bathinda,1933,1297,19,0,34970.0
+2020-08-26,Punjab,Faridkot,892,498,10,0,21075.0
+2020-08-26,Punjab,Fatehgarh Sahib,954,660,21,0,25446.0
+2020-08-26,Punjab,Fazilka,718,476,7,0,21206.0
+2020-08-26,Punjab,Ferozepur,1521,541,23,0,27461.0
+2020-08-26,Punjab,Gurdaspur,1803,1256,47,0,65582.0
+2020-08-26,Punjab,Hoshiarpur,1229,891,33,0,51096.0
+2020-08-26,Punjab,Jalandhar,5631,3602,143,0,71662.0
+2020-08-26,Punjab,Kapurthala,1061,610,38,0,31786.0
+2020-08-26,Punjab,Ludhiana,9794,6881,347,0,121270.0
+2020-08-26,Punjab,Mansa,455,266,10,0,24792.0
+2020-08-26,Punjab,Moga,1283,684,16,0,34624.0
+2020-08-26,Punjab,Pathankot,1027,723,20,0,23421.0
+2020-08-26,Punjab,Patiala,5420,3846,135,0,72719.0
+2020-08-26,Punjab,Rupnagar,729,481,10,0,34710.0
+2020-08-26,Punjab,S.A.S. Nagar,3068,1374,65,0,34874.0
+2020-08-26,Punjab,Sangrur,2015,1525,76,0,42353.0
+2020-08-26,Punjab,Shahid Bhagat Singh Nagar,641,483,16,0,24501.0
+2020-08-26,Punjab,Sri Muktsar Sahib,713,457,8,0,19760.0
+2020-08-26,Punjab,Tarn Taran,721,493,28,0,26107.0
+2020-08-26,Puducherry,Karaikal,739,521,12,0,8280.0
+2020-08-26,Puducherry,Mahe,35,28,0,0,2157.0
+2020-08-26,Puducherry,Puducherry,10481,6394,150,0,54336.0
+2020-08-26,Puducherry,Yanam,675,543,18,0,4115.0
+2020-08-26,Rajasthan,Ajmer,3846,3305,67,0,85744.0
+2020-08-26,Rajasthan,Alwar,7116,5771,23,0,85927.0
 2020-08-26,Rajasthan,BSF Camp,85,85,0,0,
-2020-08-26,Rajasthan,Banswara,456,358,4,0,15290.0
-2020-08-26,Rajasthan,Baran,441,271,12,0,20065.0
-2020-08-26,Rajasthan,Barmer,2137,1982,18,0,48016.0
-2020-08-26,Rajasthan,Bharatpur,3553,3144,67,0,61947.0
-2020-08-26,Rajasthan,Bhilwara,1987,1176,13,0,69341.0
-2020-08-26,Rajasthan,Bikaner,4131,3386,69,0,111744.0
-2020-08-26,Rajasthan,Bundi,469,328,3,0,15599.0
-2020-08-26,Rajasthan,Chittorgarh,755,558,6,0,29033.0
-2020-08-26,Rajasthan,Churu,860,737,4,0,43670.0
-2020-08-26,Rajasthan,Dausa,483,432,5,0,23857.0
-2020-08-26,Rajasthan,Dholpur,2162,1705,19,0,62453.0
-2020-08-26,Rajasthan,Dungarpur,892,782,9,0,57177.0
+2020-08-26,Rajasthan,Banswara,463,358,4,0,15699.0
+2020-08-26,Rajasthan,Baran,451,307,12,0,21627.0
+2020-08-26,Rajasthan,Barmer,2142,1982,18,0,49128.0
+2020-08-26,Rajasthan,Bharatpur,3567,3198,67,0,64240.0
+2020-08-26,Rajasthan,Bhilwara,2008,1184,13,0,70877.0
+2020-08-26,Rajasthan,Bikaner,4151,3386,69,0,117669.0
+2020-08-26,Rajasthan,Bundi,478,328,4,0,16217.0
+2020-08-26,Rajasthan,Chittorgarh,765,558,6,0,30288.0
+2020-08-26,Rajasthan,Churu,867,764,4,0,45698.0
+2020-08-26,Rajasthan,Dausa,494,441,5,0,25248.0
+2020-08-26,Rajasthan,Dholpur,2171,1752,19,0,64957.0
+2020-08-26,Rajasthan,Dungarpur,902,804,10,0,58948.0
 2020-08-26,Rajasthan,Evacuees,61,61,0,0,
-2020-08-26,Rajasthan,Ganganagar,583,353,7,0,18436.0
-2020-08-26,Rajasthan,Hanumangarh,367,282,2,0,20226.0
+2020-08-26,Rajasthan,Ganganagar,594,360,7,0,19182.0
+2020-08-26,Rajasthan,Hanumangarh,372,287,2,0,21244.0
 2020-08-26,Rajasthan,Italians,2,2,0,0,
-2020-08-26,Rajasthan,Jaipur,9389,5929,263,0,230524.0
-2020-08-26,Rajasthan,Jaisalmer,316,271,2,0,37207.0
-2020-08-26,Rajasthan,Jalore,1324,1301,11,0,71928.0
-2020-08-26,Rajasthan,Jhalawar,1159,967,0,0,49166.0
-2020-08-26,Rajasthan,Jhunjhunu,944,877,6,0,36658.0
-2020-08-26,Rajasthan,Jodhpur,11074,8722,89,0,295296.0
-2020-08-26,Rajasthan,Karauli,559,407,7,0,19032.0
-2020-08-26,Rajasthan,Kota,4455,2987,66,0,139854.0
-2020-08-26,Rajasthan,Nagaur,2226,1920,41,0,66587.0
+2020-08-26,Rajasthan,Jaipur,9558,6185,263,0,238560.0
+2020-08-26,Rajasthan,Jaisalmer,330,283,2,0,37876.0
+2020-08-26,Rajasthan,Jalore,1330,1305,11,0,73004.0
+2020-08-26,Rajasthan,Jhalawar,1179,1014,1,0,50140.0
+2020-08-26,Rajasthan,Jhunjhunu,954,900,6,0,38425.0
+2020-08-26,Rajasthan,Jodhpur,11242,8902,91,0,301954.0
+2020-08-26,Rajasthan,Karauli,561,438,7,0,19740.0
+2020-08-26,Rajasthan,Kota,4472,3070,66,0,144500.0
+2020-08-26,Rajasthan,Nagaur,2239,1969,41,0,72789.0
 2020-08-26,Rajasthan,Other State,189,104,39,0,
-2020-08-26,Rajasthan,Pali,3748,3341,42,0,87583.0
-2020-08-26,Rajasthan,Pratapgarh,385,203,5,0,19754.0
-2020-08-26,Rajasthan,Rajsamand,1039,923,13,0,36318.0
-2020-08-26,Rajasthan,Sawai Madhopur,439,367,13,0,28044.0
-2020-08-26,Rajasthan,Sikar,2447,1985,17,0,76068.0
-2020-08-26,Rajasthan,Sirohi,1165,1012,11,0,39086.0
-2020-08-26,Rajasthan,Tonk,553,467,10,0,22814.0
-2020-08-26,Rajasthan,Udaipur,2189,1963,24,0,99529.0
-2020-08-26,Sikkim,East Sikkim,1288,965,3,0,
+2020-08-26,Rajasthan,Pali,3775,3362,42,0,89864.0
+2020-08-26,Rajasthan,Pratapgarh,394,203,5,0,20187.0
+2020-08-26,Rajasthan,Rajsamand,1046,923,13,0,37647.0
+2020-08-26,Rajasthan,Sawai Madhopur,447,367,13,0,29605.0
+2020-08-26,Rajasthan,Sikar,2473,2090,17,0,78422.0
+2020-08-26,Rajasthan,Sirohi,1177,1031,11,0,39645.0
+2020-08-26,Rajasthan,Tonk,561,471,10,0,23309.0
+2020-08-26,Rajasthan,Udaipur,2208,2029,24,0,102158.0
+2020-08-26,Sikkim,East Sikkim,1299,987,3,0,
 2020-08-26,Sikkim,North Sikkim,1,1,0,0,
 2020-08-26,Sikkim,South Sikkim,144,73,0,0,
 2020-08-26,Sikkim,West Sikkim,42,15,0,0,
-2020-08-26,Telangana,Unknown,111688,85223,780,0,1021054.0
-2020-08-26,Tamil Nadu,Airport Quarantine,1693,1571,1,0,
-2020-08-26,Tamil Nadu,Ariyalur,2334,1802,24,0,18285.0
-2020-08-26,Tamil Nadu,Chengalpattu,24129,21181,379,0,51771.0
-2020-08-26,Tamil Nadu,Chennai,127949,111955,2620,0,875050.0
-2020-08-26,Tamil Nadu,Coimbatore,12467,9083,252,0,102107.0
-2020-08-26,Tamil Nadu,Cuddalore,9525,6321,105,0,36434.0
-2020-08-26,Tamil Nadu,Dharmapuri,1149,990,11,0,28355.0
-2020-08-26,Tamil Nadu,Dindigul,5990,4969,115,0,27800.0
-2020-08-26,Tamil Nadu,Erode,2396,1298,33,0,66240.0
-2020-08-26,Tamil Nadu,Kallakurichi,5493,4837,62,0,28314.0
-2020-08-26,Tamil Nadu,Kancheepuram,15960,13594,216,0,37505.0
-2020-08-26,Tamil Nadu,Kanyakumari,8840,7203,152,0,79600.0
-2020-08-26,Tamil Nadu,Karur,1350,959,24,0,17190.0
-2020-08-26,Tamil Nadu,Krishnagiri,1913,1556,28,0,14284.0
-2020-08-26,Tamil Nadu,Madurai,13590,12249,340,0,97279.0
-2020-08-26,Tamil Nadu,Nagapattinam,2105,1330,30,0,20984.0
-2020-08-26,Tamil Nadu,Namakkal,1672,1196,33,0,24758.0
-2020-08-26,Tamil Nadu,Nilgiris,1473,1080,9,0,45839.0
+2020-08-26,Telangana,Unknown,111688,85223,780,0,1082094.0
+2020-08-26,Tamil Nadu,Airport Quarantine,1697,1585,1,0,
+2020-08-26,Tamil Nadu,Ariyalur,2378,1837,27,0,18285.0
+2020-08-26,Tamil Nadu,Chengalpattu,24428,21500,386,0,51771.0
+2020-08-26,Tamil Nadu,Chennai,129247,113092,2635,0,900493.0
+2020-08-26,Tamil Nadu,Coimbatore,12954,9442,262,0,102107.0
+2020-08-26,Tamil Nadu,Cuddalore,9814,6654,107,0,36434.0
+2020-08-26,Tamil Nadu,Dharmapuri,1183,1000,11,0,28355.0
+2020-08-26,Tamil Nadu,Dindigul,6027,5079,117,0,27800.0
+2020-08-26,Tamil Nadu,Erode,2498,1390,38,0,66240.0
+2020-08-26,Tamil Nadu,Kallakurichi,5565,4890,62,0,28314.0
+2020-08-26,Tamil Nadu,Kancheepuram,16295,13813,225,0,37505.0
+2020-08-26,Tamil Nadu,Kanyakumari,8994,7352,157,0,79600.0
+2020-08-26,Tamil Nadu,Karur,1384,998,25,0,17190.0
+2020-08-26,Tamil Nadu,Krishnagiri,1944,1593,28,0,14284.0
+2020-08-26,Tamil Nadu,Madurai,13621,12343,341,0,97279.0
+2020-08-26,Tamil Nadu,Nagapattinam,2191,1384,30,0,20984.0
+2020-08-26,Tamil Nadu,Namakkal,1739,1224,33,0,24758.0
+2020-08-26,Tamil Nadu,Nilgiris,1472,1121,10,0,45839.0
 2020-08-26,Tamil Nadu,Other State,0,0,3,0,
-2020-08-26,Tamil Nadu,Perambalur,1203,989,16,0,7981.0
-2020-08-26,Tamil Nadu,Pudukkottai,5372,3954,79,0,20835.0
+2020-08-26,Tamil Nadu,Perambalur,1221,1020,16,0,7981.0
+2020-08-26,Tamil Nadu,Pudukkottai,5517,4135,83,0,20835.0
 2020-08-26,Tamil Nadu,Railway Quarantine,428,424,0,0,
-2020-08-26,Tamil Nadu,Ramanathapuram,4484,3897,98,0,23389.0
-2020-08-26,Tamil Nadu,Ranipet,9646,8384,109,0,20118.0
-2020-08-26,Tamil Nadu,Salem,8511,5783,115,0,79660.0
-2020-08-26,Tamil Nadu,Sivaganga,3826,3420,103,0,25824.0
-2020-08-26,Tamil Nadu,Tenkasi,4926,3916,96,0,26338.0
-2020-08-26,Tamil Nadu,Thanjavur,5871,4973,101,0,67445.0
-2020-08-26,Tamil Nadu,Theni,11864,9746,136,0,45839.0
-2020-08-26,Tamil Nadu,Thiruvallur,23062,20868,381,0,67948.0
-2020-08-26,Tamil Nadu,Thiruvarur,2955,2381,36,0,67445.0
-2020-08-26,Tamil Nadu,Thoothukkudi,10801,10028,105,0,49288.0
-2020-08-26,Tamil Nadu,Tiruchirappalli,6873,5817,111,0,92586.0
-2020-08-26,Tamil Nadu,Tirunelveli,8770,7319,158,0,54208.0
-2020-08-26,Tamil Nadu,Tirupathur,2617,1966,55,0,23998.0
-2020-08-26,Tamil Nadu,Tiruppur,2143,1431,54,0,36301.0
-2020-08-26,Tamil Nadu,Tiruvannamalai,9626,8653,147,0,76170.0
-2020-08-26,Tamil Nadu,Vellore,9850,8481,142,0,47936.0
-2020-08-26,Tamil Nadu,Viluppuram,6398,5392,63,0,52064.0
-2020-08-26,Tamil Nadu,Virudhunagar,12049,11458,179,0,28620.0
-2020-08-26,Tripura,Dhalai,911,687,2,1,20966.0
-2020-08-26,Tripura,Gomati,1385,1064,15,1,26341.0
-2020-08-26,Tripura,Khowai,782,583,8,0,10004.0
-2020-08-26,Tripura,North Tripura,902,621,2,6,54839.0
-2020-08-26,Tripura,Sipahijala,1518,1317,10,0,18932.0
-2020-08-26,Tripura,South Tripura,602,425,4,3,26273.0
-2020-08-26,Tripura,Unokoti,426,179,0,0,13504.0
-2020-08-26,Tripura,West Tripura,3013,1698,42,8,76440.0
-2020-08-26,Uttar Pradesh,Agra,2581,2175,106,0,100012.0
-2020-08-26,Uttar Pradesh,Aligarh,3485,2306,29,0,68257.0
-2020-08-26,Uttar Pradesh,Ambedkar Nagar,719,501,17,0,30749.0
-2020-08-26,Uttar Pradesh,Amethi,1076,824,5,0,35284.0
-2020-08-26,Uttar Pradesh,Amroha,1414,1049,16,0,55121.0
-2020-08-26,Uttar Pradesh,Auraiya,1052,772,9,0,25943.0
-2020-08-26,Uttar Pradesh,Ayodhya,2724,1905,38,0,58571.0
-2020-08-26,Uttar Pradesh,Azamgarh,2816,1978,47,0,54981.0
-2020-08-26,Uttar Pradesh,Baghpat,835,731,16,0,76197.0
-2020-08-26,Uttar Pradesh,Bahraich,1835,1270,28,0,52400.0
-2020-08-26,Uttar Pradesh,Ballia,3710,3020,39,0,54675.0
-2020-08-26,Uttar Pradesh,Balrampur,821,563,14,0,47912.0
-2020-08-26,Uttar Pradesh,Banda,631,450,8,0,17530.0
-2020-08-26,Uttar Pradesh,Barabanki,2985,2005,21,0,74871.0
-2020-08-26,Uttar Pradesh,Bareilly,5830,4289,106,0,84880.0
-2020-08-26,Uttar Pradesh,Basti,2164,1764,51,0,39038.0
-2020-08-26,Uttar Pradesh,Bhadohi,991,789,10,0,26110.0
-2020-08-26,Uttar Pradesh,Bijnor,1420,1072,17,0,52137.0
-2020-08-26,Uttar Pradesh,Budaun,1314,809,10,0,36442.0
-2020-08-26,Uttar Pradesh,Bulandshahr,2058,1657,44,0,50103.0
-2020-08-26,Uttar Pradesh,Chandauli,1745,1366,13,0,10993.0
-2020-08-26,Uttar Pradesh,Chitrakoot,507,345,2,0,18625.0
-2020-08-26,Uttar Pradesh,Deoria,3400,2438,26,0,34362.0
-2020-08-26,Uttar Pradesh,Etah,756,497,11,0,37651.0
-2020-08-26,Uttar Pradesh,Etawah,1677,1080,34,0,45140.0
-2020-08-26,Uttar Pradesh,Farrukhabad,1102,755,21,0,33241.0
-2020-08-26,Uttar Pradesh,Fatehpur,1094,820,19,0,16500.0
-2020-08-26,Uttar Pradesh,Firozabad,1271,979,44,0,54541.0
-2020-08-26,Uttar Pradesh,Gautam Buddha Nagar,7303,6344,43,0,170894.0
-2020-08-26,Uttar Pradesh,Ghaziabad,7464,6264,67,0,161315.0
-2020-08-26,Uttar Pradesh,Ghazipur,2554,2107,22,0,58126.0
-2020-08-26,Uttar Pradesh,Gonda,2214,1501,25,0,21660.0
-2020-08-26,Uttar Pradesh,Gorakhpur,7562,4974,112,0,52920.0
-2020-08-26,Uttar Pradesh,Hamirpur,520,416,12,0,34423.0
-2020-08-26,Uttar Pradesh,Hapur,1601,1459,25,0,16767.0
-2020-08-26,Uttar Pradesh,Hardoi,2171,1677,26,0,71360.0
-2020-08-26,Uttar Pradesh,Hathras,473,371,6,0,50270.0
-2020-08-26,Uttar Pradesh,Jalaun,1120,914,14,0,14353.0
-2020-08-26,Uttar Pradesh,Jaunpur,3411,2877,43,0,74117.0
-2020-08-26,Uttar Pradesh,Jhansi,3873,3014,95,0,100551.0
-2020-08-26,Uttar Pradesh,Kannauj,1547,1290,10,0,32522.0
-2020-08-26,Uttar Pradesh,Kanpur Dehat,911,542,9,0,28310.0
-2020-08-26,Uttar Pradesh,Kanpur Nagar,13041,9219,385,0,131177.0
-2020-08-26,Uttar Pradesh,Kasganj,743,485,1,0,45324.0
-2020-08-26,Uttar Pradesh,Kaushambi,792,615,10,0,37217.0
-2020-08-26,Uttar Pradesh,Kushinagar,2591,1790,15,0,37435.0
-2020-08-26,Uttar Pradesh,Lakhimpur Kheri,1954,1127,24,0,33455.0
-2020-08-26,Uttar Pradesh,Lalitpur,1060,550,12,0,21781.0
-2020-08-26,Uttar Pradesh,Lucknow,23091,16128,303,0,307453.0
-2020-08-26,Uttar Pradesh,Maharajganj,2275,1591,24,0,30618.0
-2020-08-26,Uttar Pradesh,Mahoba,425,346,5,0,37922.0
-2020-08-26,Uttar Pradesh,Mainpuri,1289,1071,24,0,46930.0
-2020-08-26,Uttar Pradesh,Mathura,2001,1325,45,0,55539.0
-2020-08-26,Uttar Pradesh,Mau,1196,910,9,0,43324.0
-2020-08-26,Uttar Pradesh,Meerut,3607,2616,128,0,146316.0
-2020-08-26,Uttar Pradesh,Mirzapur,1480,1203,23,0,53558.0
-2020-08-26,Uttar Pradesh,Moradabad,4085,2921,95,0,58817.0
-2020-08-26,Uttar Pradesh,Muzaffarnagar,1674,1153,27,0,22910.0
-2020-08-26,Uttar Pradesh,Pilibhit,1991,1519,26,0,54251.0
-2020-08-26,Uttar Pradesh,Pratapgarh,1502,984,24,0,26100.0
-2020-08-26,Uttar Pradesh,Prayagraj,7728,5058,134,0,100200.0
-2020-08-26,Uttar Pradesh,Rae Bareli,1230,914,28,0,27018.0
-2020-08-26,Uttar Pradesh,Rampur,2659,1937,22,0,33291.0
-2020-08-26,Uttar Pradesh,Saharanpur,3016,1923,41,0,59180.0
-2020-08-26,Uttar Pradesh,Sambhal,1410,1195,26,0,74563.0
-2020-08-26,Uttar Pradesh,Sant Kabir Nagar,1837,1543,20,0,48674.0
-2020-08-26,Uttar Pradesh,Shahjahanpur,2665,1987,30,0,49722.0
-2020-08-26,Uttar Pradesh,Shamli,829,626,10,0,33722.0
-2020-08-26,Uttar Pradesh,Shrawasti,592,418,9,0,27876.0
-2020-08-26,Uttar Pradesh,Siddharthnagar,2028,1475,20,0,55778.0
-2020-08-26,Uttar Pradesh,Sitapur,1705,1109,6,0,39341.0
-2020-08-26,Uttar Pradesh,Sonbhadra,1338,986,9,0,45102.0
-2020-08-26,Uttar Pradesh,Sultanpur,1883,1544,32,0,24775.0
-2020-08-26,Uttar Pradesh,Unnao,1790,1259,32,0,54878.0
-2020-08-26,Uttar Pradesh,Varanasi,7144,5268,150,0,80654.0
-2020-08-26,Uttarakhand,Almora,416,374,2,1,19877.0
-2020-08-26,Uttarakhand,Bageshwar,209,180,1,0,9063.0
-2020-08-26,Uttarakhand,Chamoli,244,182,0,0,12455.0
-2020-08-26,Uttarakhand,Champawat,250,185,2,0,13298.0
-2020-08-26,Uttarakhand,Dehradun,3132,2172,105,30,53413.0
-2020-08-26,Uttarakhand,Haridwar,3918,2767,33,11,54321.0
-2020-08-26,Uttarakhand,Nainital,2255,1554,44,1,27366.0
-2020-08-26,Uttarakhand,Pauri Garhwal,412,300,4,10,20736.0
-2020-08-26,Uttarakhand,Pithoragarh,229,210,2,0,13793.0
-2020-08-26,Uttarakhand,Rudraprayag,187,114,1,0,10977.0
-2020-08-26,Uttarakhand,Tehri Garhwal,896,741,2,0,22756.0
-2020-08-26,Uttarakhand,Udham Singh Nagar,3169,1912,15,1,49308.0
-2020-08-26,Uttarakhand,Uttarkashi,697,510,2,1,18021.0
-2020-08-26,West Bengal,Alipurduar,1490,1016,9,0,
-2020-08-26,West Bengal,Bankura,2135,1542,1,0,
-2020-08-26,West Bengal,Birbhum,1561,1228,12,0,
-2020-08-26,West Bengal,Cooch Behar,2254,1767,5,0,
-2020-08-26,West Bengal,Dakshin Dinajpur,3487,2506,23,0,
-2020-08-26,West Bengal,Darjeeling,4496,3557,63,0,
-2020-08-26,West Bengal,Hooghly,6938,5296,114,0,
-2020-08-26,West Bengal,Howrah,12590,10855,340,0,
-2020-08-26,West Bengal,Jalpaiguri,2982,2241,30,0,
-2020-08-26,West Bengal,Jhargram,208,156,2,0,
-2020-08-26,West Bengal,Kalimpong,429,320,3,0,
-2020-08-26,West Bengal,Kolkata,37263,30472,1203,0,
-2020-08-26,West Bengal,Malda,4628,3897,33,0,
-2020-08-26,West Bengal,Murshidabad,2911,2054,34,0,
-2020-08-26,West Bengal,Nadia,3081,2351,31,0,
-2020-08-26,West Bengal,North 24 Parganas,30605,24257,677,0,
+2020-08-26,Tamil Nadu,Ramanathapuram,4523,3955,101,0,23389.0
+2020-08-26,Tamil Nadu,Ranipet,9768,8504,111,0,20118.0
+2020-08-26,Tamil Nadu,Salem,8966,6005,123,0,79660.0
+2020-08-26,Tamil Nadu,Sivaganga,3841,3488,104,0,25824.0
+2020-08-26,Tamil Nadu,Tenkasi,5037,4006,99,0,26338.0
+2020-08-26,Tamil Nadu,Thanjavur,5986,5085,106,0,67445.0
+2020-08-26,Tamil Nadu,Theni,12048,9968,138,0,45839.0
+2020-08-26,Tamil Nadu,Thiruvallur,23331,21172,383,0,67948.0
+2020-08-26,Tamil Nadu,Thiruvarur,3062,2418,39,0,67445.0
+2020-08-26,Tamil Nadu,Thoothukkudi,10909,10050,107,0,49288.0
+2020-08-26,Tamil Nadu,Tiruchirappalli,6957,5936,111,0,92586.0
+2020-08-26,Tamil Nadu,Tirunelveli,8911,7464,164,0,54208.0
+2020-08-26,Tamil Nadu,Tirupathur,2673,2062,55,0,23998.0
+2020-08-26,Tamil Nadu,Tiruppur,2241,1613,57,0,36301.0
+2020-08-26,Tamil Nadu,Tiruvannamalai,9680,8777,150,0,76170.0
+2020-08-26,Tamil Nadu,Vellore,10008,8622,147,0,47936.0
+2020-08-26,Tamil Nadu,Viluppuram,6595,5507,64,0,52064.0
+2020-08-26,Tamil Nadu,Virudhunagar,12128,11552,183,0,28620.0
+2020-08-26,Tripura,Dhalai,911,687,2,1,21329.0
+2020-08-26,Tripura,Gomati,1385,1064,15,1,26527.0
+2020-08-26,Tripura,Khowai,782,583,8,0,10089.0
+2020-08-26,Tripura,North Tripura,902,621,2,6,56259.0
+2020-08-26,Tripura,Sipahijala,1518,1317,10,0,19257.0
+2020-08-26,Tripura,South Tripura,602,425,4,3,26614.0
+2020-08-26,Tripura,Unokoti,426,179,0,0,13801.0
+2020-08-26,Tripura,West Tripura,3013,1698,42,8,77781.0
+2020-08-26,Uttar Pradesh,Agra,2617,2204,106,0,105977.0
+2020-08-26,Uttar Pradesh,Aligarh,3586,2361,29,0,71487.0
+2020-08-26,Uttar Pradesh,Ambedkar Nagar,744,513,17,0,31606.0
+2020-08-26,Uttar Pradesh,Amethi,1114,837,5,0,37976.0
+2020-08-26,Uttar Pradesh,Amroha,1437,1065,16,0,58245.0
+2020-08-26,Uttar Pradesh,Auraiya,1068,792,9,0,26772.0
+2020-08-26,Uttar Pradesh,Ayodhya,2837,1938,39,0,62233.0
+2020-08-26,Uttar Pradesh,Azamgarh,2879,2098,47,0,63365.0
+2020-08-26,Uttar Pradesh,Baghpat,852,737,16,0,79239.0
+2020-08-26,Uttar Pradesh,Bahraich,1876,1354,28,0,54201.0
+2020-08-26,Uttar Pradesh,Ballia,3779,3080,39,0,57446.0
+2020-08-26,Uttar Pradesh,Balrampur,893,578,14,0,49682.0
+2020-08-26,Uttar Pradesh,Banda,665,453,8,0,18150.0
+2020-08-26,Uttar Pradesh,Barabanki,3078,2111,24,0,78850.0
+2020-08-26,Uttar Pradesh,Bareilly,5963,4394,109,0,84880.0
+2020-08-26,Uttar Pradesh,Basti,2196,1785,54,0,39038.0
+2020-08-26,Uttar Pradesh,Bhadohi,1001,797,10,0,26845.0
+2020-08-26,Uttar Pradesh,Bijnor,1458,1086,17,0,56126.0
+2020-08-26,Uttar Pradesh,Budaun,1354,828,11,0,38317.0
+2020-08-26,Uttar Pradesh,Bulandshahr,2101,1667,45,0,52413.0
+2020-08-26,Uttar Pradesh,Chandauli,1784,1382,13,0,39935.0
+2020-08-26,Uttar Pradesh,Chitrakoot,528,356,2,0,18625.0
+2020-08-26,Uttar Pradesh,Deoria,3477,2471,26,0,36959.0
+2020-08-26,Uttar Pradesh,Etah,789,501,11,0,38671.0
+2020-08-26,Uttar Pradesh,Etawah,1781,1148,36,0,48954.0
+2020-08-26,Uttar Pradesh,Farrukhabad,1144,772,21,0,34844.0
+2020-08-26,Uttar Pradesh,Fatehpur,1131,834,19,0,17186.0
+2020-08-26,Uttar Pradesh,Firozabad,1290,981,44,0,57721.0
+2020-08-26,Uttar Pradesh,Gautam Buddha Nagar,7376,6406,44,0,174794.0
+2020-08-26,Uttar Pradesh,Ghaziabad,7656,6352,67,0,170236.0
+2020-08-26,Uttar Pradesh,Ghazipur,2596,2136,22,0,61943.0
+2020-08-26,Uttar Pradesh,Gonda,2282,1583,26,0,21660.0
+2020-08-26,Uttar Pradesh,Gorakhpur,7949,5232,121,0,58169.0
+2020-08-26,Uttar Pradesh,Hamirpur,534,419,12,0,37195.0
+2020-08-26,Uttar Pradesh,Hapur,1618,1461,26,0,16767.0
+2020-08-26,Uttar Pradesh,Hardoi,2270,1695,27,0,73478.0
+2020-08-26,Uttar Pradesh,Hathras,493,375,6,0,52740.0
+2020-08-26,Uttar Pradesh,Jalaun,1148,918,15,0,14781.0
+2020-08-26,Uttar Pradesh,Jaunpur,3450,2934,43,0,78662.0
+2020-08-26,Uttar Pradesh,Jhansi,3981,3076,97,0,103240.0
+2020-08-26,Uttar Pradesh,Kannauj,1573,1318,10,0,34610.0
+2020-08-26,Uttar Pradesh,Kanpur Dehat,935,551,9,0,32872.0
+2020-08-26,Uttar Pradesh,Kanpur Nagar,13357,9596,389,0,147128.0
+2020-08-26,Uttar Pradesh,Kasganj,772,516,1,0,48012.0
+2020-08-26,Uttar Pradesh,Kaushambi,814,628,10,0,37217.0
+2020-08-26,Uttar Pradesh,Kushinagar,2661,1803,15,0,39614.0
+2020-08-26,Uttar Pradesh,Lakhimpur Kheri,2056,1171,24,0,33455.0
+2020-08-26,Uttar Pradesh,Lalitpur,1089,619,12,0,21781.0
+2020-08-26,Uttar Pradesh,Lucknow,23676,16597,311,0,316396.0
+2020-08-26,Uttar Pradesh,Maharajganj,2390,1651,29,0,32339.0
+2020-08-26,Uttar Pradesh,Mahoba,441,349,5,0,38918.0
+2020-08-26,Uttar Pradesh,Mainpuri,1310,1093,25,0,51347.0
+2020-08-26,Uttar Pradesh,Mathura,2041,1387,46,0,57594.0
+2020-08-26,Uttar Pradesh,Mau,1226,919,9,0,45863.0
+2020-08-26,Uttar Pradesh,Meerut,3706,2648,130,0,152612.0
+2020-08-26,Uttar Pradesh,Mirzapur,1515,1234,23,0,56941.0
+2020-08-26,Uttar Pradesh,Moradabad,4340,3012,99,0,89533.0
+2020-08-26,Uttar Pradesh,Muzaffarnagar,1720,1202,27,0,23587.0
+2020-08-26,Uttar Pradesh,Pilibhit,2053,1552,28,0,56339.0
+2020-08-26,Uttar Pradesh,Pratapgarh,1544,1009,24,0,26100.0
+2020-08-26,Uttar Pradesh,Prayagraj,8021,5224,137,0,100200.0
+2020-08-26,Uttar Pradesh,Rae Bareli,1259,931,31,0,51070.0
+2020-08-26,Uttar Pradesh,Rampur,2764,2007,23,0,33536.0
+2020-08-26,Uttar Pradesh,Saharanpur,3150,1973,47,0,65310.0
+2020-08-26,Uttar Pradesh,Sambhal,1438,1206,26,0,77564.0
+2020-08-26,Uttar Pradesh,Sant Kabir Nagar,1867,1569,21,0,51494.0
+2020-08-26,Uttar Pradesh,Shahjahanpur,2725,2074,33,0,52352.0
+2020-08-26,Uttar Pradesh,Shamli,863,644,10,0,35631.0
+2020-08-26,Uttar Pradesh,Shrawasti,609,433,10,0,29950.0
+2020-08-26,Uttar Pradesh,Siddharthnagar,2079,1512,20,0,58351.0
+2020-08-26,Uttar Pradesh,Sitapur,1790,1146,6,0,40230.0
+2020-08-26,Uttar Pradesh,Sonbhadra,1380,998,11,0,46850.0
+2020-08-26,Uttar Pradesh,Sultanpur,1908,1558,33,0,27136.0
+2020-08-26,Uttar Pradesh,Unnao,1837,1282,32,0,57989.0
+2020-08-26,Uttar Pradesh,Varanasi,7344,5440,154,0,80654.0
+2020-08-26,Uttarakhand,Almora,416,376,2,1,20482.0
+2020-08-26,Uttarakhand,Bageshwar,222,180,1,0,9345.0
+2020-08-26,Uttarakhand,Chamoli,266,185,0,2,13784.0
+2020-08-26,Uttarakhand,Champawat,270,185,2,0,13677.0
+2020-08-26,Uttarakhand,Dehradun,3302,2251,107,30,54861.0
+2020-08-26,Uttarakhand,Haridwar,3998,2851,35,11,55172.0
+2020-08-26,Uttarakhand,Nainital,2336,1629,44,1,27974.0
+2020-08-26,Uttarakhand,Pauri Garhwal,437,302,4,10,21297.0
+2020-08-26,Uttarakhand,Pithoragarh,236,210,2,0,14203.0
+2020-08-26,Uttarakhand,Rudraprayag,189,140,1,0,11360.0
+2020-08-26,Uttarakhand,Tehri Garhwal,932,743,2,0,23844.0
+2020-08-26,Uttarakhand,Udham Singh Nagar,3233,1942,17,1,50215.0
+2020-08-26,Uttarakhand,Uttarkashi,712,530,2,1,18765.0
+2020-08-26,West Bengal,Alipurduar,1550,1073,10,0,
+2020-08-26,West Bengal,Bankura,2231,1569,3,0,
+2020-08-26,West Bengal,Birbhum,1617,1278,12,0,
+2020-08-26,West Bengal,Cooch Behar,2337,1892,5,0,
+2020-08-26,West Bengal,Dakshin Dinajpur,3540,2747,23,0,
+2020-08-26,West Bengal,Darjeeling,4598,3649,67,0,
+2020-08-26,West Bengal,Hooghly,7050,5477,116,0,
+2020-08-26,West Bengal,Howrah,12772,11016,347,0,
+2020-08-26,West Bengal,Jalpaiguri,3071,2300,30,0,
+2020-08-26,West Bengal,Jhargram,209,157,2,0,
+2020-08-26,West Bengal,Kalimpong,438,334,3,0,
+2020-08-26,West Bengal,Kolkata,37817,31069,1222,0,
+2020-08-26,West Bengal,Malda,4664,4005,33,0,
+2020-08-26,West Bengal,Murshidabad,2996,2188,34,0,
+2020-08-26,West Bengal,Nadia,3250,2444,32,0,
+2020-08-26,West Bengal,North 24 Parganas,31117,24957,687,0,
 2020-08-26,West Bengal,Other State,66,63,3,0,
-2020-08-26,West Bengal,Paschim Bardhaman,3123,2239,26,0,
-2020-08-26,West Bengal,Paschim Medinipur,3563,2245,35,0,
-2020-08-26,West Bengal,Purba Bardhaman,2433,1962,17,0,
-2020-08-26,West Bengal,Purba Medinipur,5209,3800,49,0,
-2020-08-26,West Bengal,Purulia,1003,577,1,0,
-2020-08-26,West Bengal,South 24 Parganas,10260,8386,178,0,
-2020-08-26,West Bengal,Uttar Dinajpur,2086,1756,20,0,
+2020-08-26,West Bengal,Paschim Bardhaman,3271,2320,26,0,
+2020-08-26,West Bengal,Paschim Medinipur,3689,2337,37,0,
+2020-08-26,West Bengal,Purba Bardhaman,2472,2023,17,0,
+2020-08-26,West Bengal,Purba Medinipur,5378,3994,50,0,
+2020-08-26,West Bengal,Purulia,1079,591,1,0,
+2020-08-26,West Bengal,South 24 Parganas,10447,8599,184,0,
+2020-08-26,West Bengal,Uttar Dinajpur,2116,1775,20,0,
+2020-08-27,Andaman and Nicobar Islands,Unknown,3018,2374,42,0,31646.0
+2020-08-27,Andhra Pradesh,Anantapur,37763,31546,305,0,266322.0
+2020-08-27,Andhra Pradesh,Chittoor,33133,23819,369,0,287288.0
+2020-08-27,Andhra Pradesh,East Godavari,54656,36476,364,0,345125.0
+2020-08-27,Andhra Pradesh,Foreign Evacuees,434,434,0,0,
+2020-08-27,Andhra Pradesh,Guntur,33234,25620,355,0,306897.0
+2020-08-27,Andhra Pradesh,Krishna,14966,12601,264,0,311039.0
+2020-08-27,Andhra Pradesh,Kurnool,41700,34350,355,0,349917.0
+2020-08-27,Andhra Pradesh,Other State,2461,2461,0,0,
+2020-08-27,Andhra Pradesh,Prakasam,19681,11043,258,0,208364.0
+2020-08-27,Andhra Pradesh,S.P.S. Nellore,26377,20209,249,0,234408.0
+2020-08-27,Andhra Pradesh,Srikakulam,20950,14848,224,0,277950.0
+2020-08-27,Andhra Pradesh,Visakhapatnam,33310,26560,268,0,259376.0
+2020-08-27,Andhra Pradesh,Vizianagaram,18034,10473,153,0,155858.0
+2020-08-27,Andhra Pradesh,West Godavari,33136,27770,277,0,243011.0
+2020-08-27,Andhra Pradesh,Y.S.R. Kadapa,23255,17038,192,0,231540.0
+2020-08-27,Arunachal Pradesh,Anjaw,43,30,0,0,796.0
+2020-08-27,Arunachal Pradesh,Changlang,406,306,0,0,14969.0
+2020-08-27,Arunachal Pradesh,Dibang Valley,0,0,0,0,884.0
+2020-08-27,Arunachal Pradesh,East Kameng,197,155,0,0,3187.0
+2020-08-27,Arunachal Pradesh,East Siang,267,131,1,0,9966.0
+2020-08-27,Arunachal Pradesh,Kamle,3,1,0,0,873.0
+2020-08-27,Arunachal Pradesh,Kra Daadi,2,0,0,0,
+2020-08-27,Arunachal Pradesh,Kra-Daadi,0,0,0,0,1868.0
+2020-08-27,Arunachal Pradesh,Kurung Kumey,0,0,0,0,1679.0
+2020-08-27,Arunachal Pradesh,Lepa Rada,28,23,0,0,917.0
+2020-08-27,Arunachal Pradesh,Lohit,133,114,0,0,4750.0
+2020-08-27,Arunachal Pradesh,Longding,21,16,0,0,3239.0
+2020-08-27,Arunachal Pradesh,Lower Dibang Valley,42,37,0,0,4639.0
+2020-08-27,Arunachal Pradesh,Lower Siang,92,69,0,0,4988.0
+2020-08-27,Arunachal Pradesh,Lower Subansiri,49,40,0,0,1760.0
+2020-08-27,Arunachal Pradesh,Namsai,195,178,1,0,10110.0
+2020-08-27,Arunachal Pradesh,Pakke Kessang,22,1,0,0,1454.0
+2020-08-27,Arunachal Pradesh,Papum Pare,1252,1062,1,0,58611.0
+2020-08-27,Arunachal Pradesh,Shi Yomi,10,4,0,0,646.0
+2020-08-27,Arunachal Pradesh,Siang,5,3,0,0,1432.0
+2020-08-27,Arunachal Pradesh,Tawang,126,72,0,0,3269.0
+2020-08-27,Arunachal Pradesh,Tirap,111,88,0,0,5606.0
+2020-08-27,Arunachal Pradesh,Upper Dibang Valley,1,0,0,0,
+2020-08-27,Arunachal Pradesh,Upper Siang,57,33,0,0,1554.0
+2020-08-27,Arunachal Pradesh,Upper Subansiri,133,45,0,0,2633.0
+2020-08-27,Arunachal Pradesh,West Kameng,319,160,2,0,6263.0
+2020-08-27,Arunachal Pradesh,West Siang,119,53,0,0,3180.0
+2020-08-27,Assam,Airport Quarantine,13,13,0,0,
+2020-08-27,Assam,Baksa,487,447,4,0,
+2020-08-27,Assam,Barpeta,1121,1024,3,0,
+2020-08-27,Assam,Biswanath,467,379,0,0,
+2020-08-27,Assam,Bongaigaon,1113,834,2,0,
+2020-08-27,Assam,Cachar,5126,1498,26,0,
+2020-08-27,Assam,Charaideo,113,105,2,0,
+2020-08-27,Assam,Chirang,280,219,0,0,
+2020-08-27,Assam,Darrang,1967,1730,8,0,
+2020-08-27,Assam,Dhemaji,502,440,1,0,
+2020-08-27,Assam,Dhubri,1723,1215,4,0,
+2020-08-27,Assam,Dibrugarh,5887,2409,34,0,66986.0
+2020-08-27,Assam,Dima Hasao,237,199,0,0,
+2020-08-27,Assam,Goalpara,658,568,1,0,
+2020-08-27,Assam,Golaghat,2387,1656,6,0,
+2020-08-27,Assam,Hailakandi,1497,1116,6,0,
+2020-08-27,Assam,Hojai,1345,1160,3,0,
+2020-08-27,Assam,Jorhat,4150,1752,12,0,
+2020-08-27,Assam,Kamrup,4216,2074,19,0,
+2020-08-27,Assam,Kamrup Metropolitan,26651,14599,62,0,
+2020-08-27,Assam,Karbi Anglong,632,552,8,0,
+2020-08-27,Assam,Karimganj,1025,955,18,0,
+2020-08-27,Assam,Kokrajhar,408,353,6,0,
+2020-08-27,Assam,Lakhimpur,1266,1135,2,0,
+2020-08-27,Assam,Majuli,165,80,1,0,
+2020-08-27,Assam,Morigaon,638,557,2,0,
+2020-08-27,Assam,Nagaon,4040,2506,8,0,
+2020-08-27,Assam,Nalbari,948,828,7,0,
+2020-08-27,Assam,Other State,1,1,0,0,
+2020-08-27,Assam,Sivasagar,529,473,4,0,
+2020-08-27,Assam,Sonitpur,2351,1727,4,0,
+2020-08-27,Assam,South Salmara Mankachar,51,47,0,0,
+2020-08-27,Assam,Tinsukia,3366,1798,19,0,
+2020-08-27,Assam,Udalguri,758,666,2,0,22023.0
+2020-08-27,Assam,Unknown,22651,34156,4,3,
+2020-08-27,Assam,West Karbi Anglong,39,37,0,0,
+2020-08-27,Bihar,Araria,2678,2091,10,0,53936.0
+2020-08-27,Bihar,Arwal,1241,1038,5,0,29673.0
+2020-08-27,Bihar,Aurangabad,2540,2159,7,0,81463.0
+2020-08-27,Bihar,Banka,1543,1347,5,0,49985.0
+2020-08-27,Bihar,Begusarai,5090,4387,18,0,91371.0
+2020-08-27,Bihar,Bhagalpur,5116,4390,47,0,65762.0
+2020-08-27,Bihar,Bhojpur,3376,2904,24,0,73021.0
+2020-08-27,Bihar,Buxar,2814,2558,7,0,80923.0
+2020-08-27,Bihar,Darbhanga,2167,1775,15,0,65050.0
+2020-08-27,Bihar,East Champaran,4750,3721,23,0,119074.0
+2020-08-27,Bihar,Gaya,4447,3942,42,0,132000.0
+2020-08-27,Bihar,Gopalganj,2458,2072,2,0,48200.0
+2020-08-27,Bihar,Jamui,1454,1313,6,0,46753.0
+2020-08-27,Bihar,Jehanabad,2239,1948,7,0,62530.0
+2020-08-27,Bihar,Kaimur,1237,1109,9,0,55763.0
+2020-08-27,Bihar,Katihar,4371,3689,8,0,113494.0
+2020-08-27,Bihar,Khagaria,2200,2010,8,0,50398.0
+2020-08-27,Bihar,Kishanganj,1911,1446,6,0,31860.0
+2020-08-27,Bihar,Lakhisarai,1704,1397,4,0,29966.0
+2020-08-27,Bihar,Madhepura,1934,1563,7,0,56505.0
+2020-08-27,Bihar,Madhubani,4190,3243,4,0,83036.0
+2020-08-27,Bihar,Munger,2290,2001,28,0,37200.0
+2020-08-27,Bihar,Muzaffarpur,5610,4556,26,0,74520.0
+2020-08-27,Bihar,Nalanda,4430,3881,28,0,81821.0
+2020-08-27,Bihar,Nawada,2085,1832,13,0,68329.0
+2020-08-27,Bihar,Patna,20018,17492,149,0,122098.0
+2020-08-27,Bihar,Purnia,3701,3061,5,0,112016.0
+2020-08-27,Bihar,Rohtas,4252,3683,31,0,15996.0
+2020-08-27,Bihar,Saharsa,3022,2492,2,0,69648.0
+2020-08-27,Bihar,Samastipur,3124,2717,21,0,42675.0
+2020-08-27,Bihar,Saran,4097,3388,22,0,61830.0
+2020-08-27,Bihar,Sheikhpura,1653,1477,3,0,31208.0
+2020-08-27,Bihar,Sheohar,702,567,1,0,27894.0
+2020-08-27,Bihar,Sitamarhi,2556,2183,8,0,71567.0
+2020-08-27,Bihar,Siwan,2891,2528,15,0,76278.0
+2020-08-27,Bihar,Supaul,2296,1925,7,0,54252.0
+2020-08-27,Bihar,Vaishali,3335,2986,24,1,73028.0
+2020-08-27,Bihar,West Champaran,3328,2825,15,0,64988.0
+2020-08-27,Chandigarh,Chandigarh,3564,1977,43,0,27567.0
+2020-08-27,Chhattisgarh,Balod,317,186,0,0,2749.0
+2020-08-27,Chhattisgarh,Baloda Bazar,727,506,3,0,3816.0
+2020-08-27,Chhattisgarh,Balrampur,272,256,0,0,2276.0
+2020-08-27,Chhattisgarh,Bametara,285,206,3,0,3113.0
+2020-08-27,Chhattisgarh,Bastar,692,313,2,0,4522.0
+2020-08-27,Chhattisgarh,Bijapur,402,102,2,0,1239.0
+2020-08-27,Chhattisgarh,Bilaspur,1487,970,10,0,9823.0
+2020-08-27,Chhattisgarh,Dakshin Bastar Dantewada,347,166,2,0,1168.0
+2020-08-27,Chhattisgarh,Dhamtari,201,100,1,0,1501.0
+2020-08-27,Chhattisgarh,Durg,2704,1301,30,0,5020.0
+2020-08-27,Chhattisgarh,Gariaband,241,145,2,0,2096.0
+2020-08-27,Chhattisgarh,Gaurela Pendra Marwahi,40,33,0,0,273.0
+2020-08-27,Chhattisgarh,Janjgir Champa,860,631,6,0,4016.0
+2020-08-27,Chhattisgarh,Jashpur,400,341,0,0,2542.0
+2020-08-27,Chhattisgarh,Kabeerdham,328,254,1,0,2829.0
+2020-08-27,Chhattisgarh,Kondagaon,326,145,0,0,1607.0
+2020-08-27,Chhattisgarh,Korba,651,489,4,0,10034.0
+2020-08-27,Chhattisgarh,Koriya,333,181,4,0,2689.0
+2020-08-27,Chhattisgarh,Mahasamund,438,251,6,0,2183.0
+2020-08-27,Chhattisgarh,Mungeli,254,186,0,0,2922.0
+2020-08-27,Chhattisgarh,Narayanpur,400,350,0,0,804.0
+2020-08-27,Chhattisgarh,Other State,48,17,6,0,
+2020-08-27,Chhattisgarh,Raigarh,1400,617,12,0,5084.0
+2020-08-27,Chhattisgarh,Raipur,9229,4591,133,0,12704.0
+2020-08-27,Chhattisgarh,Rajnandgaon,1745,1279,10,0,5571.0
+2020-08-27,Chhattisgarh,Sukma,451,168,0,0,1723.0
+2020-08-27,Chhattisgarh,Surajpur,246,132,1,0,1830.0
+2020-08-27,Chhattisgarh,Surguja,542,350,4,0,2008.0
+2020-08-27,Chhattisgarh,Uttar Bastar Kanker,622,341,3,0,2051.0
+2020-08-27,Delhi,Delhi,167604,150027,4369,0,1503722.0
+2020-08-27,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1060,868,1,5,31966.0
+2020-08-27,Dadra and Nagar Haveli and Daman and Diu,Daman,991,889,1,8,14001.0
+2020-08-27,Dadra and Nagar Haveli and Daman and Diu,Diu,211,156,0,12,6193.0
+2020-08-27,Goa,North Goa,2486,951,55,0,
+2020-08-27,Goa,Other State,197,188,0,0,
+2020-08-27,Goa,South Goa,3375,1403,110,0,
+2020-08-27,Goa,Unknown,9425,9325,6,0,
+2020-08-27,Gujarat,Ahmedabad,30845,25757,1700,0,681108.0
+2020-08-27,Gujarat,Amreli,1183,792,17,0,32743.0
+2020-08-27,Gujarat,Anand,733,668,16,0,25392.0
+2020-08-27,Gujarat,Aravalli,392,302,24,0,19751.0
+2020-08-27,Gujarat,Banaskantha,1060,1049,17,0,40845.0
+2020-08-27,Gujarat,Bharuch,1471,1186,11,0,29445.0
+2020-08-27,Gujarat,Bhavnagar,2587,2142,41,0,63639.0
+2020-08-27,Gujarat,Botad,473,360,5,0,15721.0
+2020-08-27,Gujarat,Chhota Udaipur,279,234,2,0,18820.0
+2020-08-27,Gujarat,Dahod,1133,815,6,0,35335.0
+2020-08-27,Gujarat,Dang,49,31,0,0,6027.0
+2020-08-27,Gujarat,Devbhumi Dwarka,214,91,4,0,16648.0
+2020-08-27,Gujarat,Gandhinagar,2279,1919,50,0,35401.0
+2020-08-27,Gujarat,Gir Somnath,904,743,10,0,23145.0
+2020-08-27,Gujarat,Jamnagar,2263,1832,24,0,53459.0
+2020-08-27,Gujarat,Junagadh,1647,1314,28,0,43841.0
+2020-08-27,Gujarat,Kheda,921,830,16,0,36998.0
+2020-08-27,Gujarat,Kutch,1211,826,30,0,29655.0
+2020-08-27,Gujarat,Mahisagar,566,491,2,0,21372.0
+2020-08-27,Gujarat,Mehsana,1505,1066,27,0,28819.0
+2020-08-27,Gujarat,Morbi,822,610,13,0,20981.0
+2020-08-27,Gujarat,Narmada,593,507,0,0,15659.0
+2020-08-27,Gujarat,Navsari,841,737,6,0,24342.0
+2020-08-27,Gujarat,Other State,162,125,2,0,108.0
+2020-08-27,Gujarat,Panchmahal,1309,857,17,0,28917.0
+2020-08-27,Gujarat,Patan,938,859,38,0,27936.0
+2020-08-27,Gujarat,Porbandar,300,286,4,0,15492.0
+2020-08-27,Gujarat,Rajkot,4339,2464,86,0,81896.0
+2020-08-27,Gujarat,Sabarkantha,676,564,8,0,30385.0
+2020-08-27,Gujarat,Surat,19611,16288,612,0,343652.0
+2020-08-27,Gujarat,Surendranagar,1118,853,10,0,37659.0
+2020-08-27,Gujarat,Tapi,279,255,4,0,19756.0
+2020-08-27,Gujarat,Vadodara,7685,5895,122,0,115984.0
+2020-08-27,Gujarat,Valsad,941,853,10,0,23758.0
+2020-08-27,Himachal Pradesh,Bilaspur,293,163,0,0,9375.0
+2020-08-27,Himachal Pradesh,Chamba,384,280,4,1,11362.0
+2020-08-27,Himachal Pradesh,Hamirpur,491,412,4,0,19913.0
+2020-08-27,Himachal Pradesh,Kangra,753,597,7,0,43613.0
+2020-08-27,Himachal Pradesh,Kinnaur,79,54,0,0,9455.0
+2020-08-27,Himachal Pradesh,Kullu,270,229,0,1,9565.0
+2020-08-27,Himachal Pradesh,Lahaul and Spiti,8,5,0,0,520.0
+2020-08-27,Himachal Pradesh,Mandi,394,308,7,0,15634.0
+2020-08-27,Himachal Pradesh,Shimla,296,221,2,1,15792.0
+2020-08-27,Himachal Pradesh,Sirmaur,754,528,1,0,18050.0
+2020-08-27,Himachal Pradesh,Solan,1363,898,6,36,29672.0
+2020-08-27,Himachal Pradesh,Una,416,313,1,2,19435.0
+2020-08-27,Haryana,Ambala,3430,2955,29,0,22379.0
+2020-08-27,Haryana,Bhiwani,1246,1028,10,0,12740.0
+2020-08-27,Haryana,Charkhi Dadri,266,185,1,0,5992.0
+2020-08-27,Haryana,Faridabad,12189,11320,167,0,110695.0
+2020-08-27,Haryana,Fatehabad,830,559,8,0,9565.0
+2020-08-27,Haryana,Gurugram,11443,10375,132,0,156422.0
+2020-08-27,Haryana,Hisar,1982,1353,13,0,18493.0
+2020-08-27,Haryana,Jhajjar,1142,1008,17,0,14083.0
+2020-08-27,Haryana,Jind,533,371,8,0,11157.0
+2020-08-27,Haryana,Kaithal,891,521,9,0,11687.0
+2020-08-27,Haryana,Karnal,2373,1633,25,0,23486.0
+2020-08-27,Haryana,Kurukshetra,1496,937,29,0,15094.0
+2020-08-27,Haryana,Mahendragarh,1564,1244,1,0,
+2020-08-27,Haryana,Nuh,711,630,14,0,9767.0
+2020-08-27,Haryana,Palwal,1440,1331,11,0,10929.0
+2020-08-27,Haryana,Panchkula,1923,1178,15,0,31000.0
+2020-08-27,Haryana,Panipat,3228,2119,41,0,11853.0
+2020-08-27,Haryana,Rewari,3277,2735,18,0,8758.0
+2020-08-27,Haryana,Rohtak,2774,2140,29,0,25894.0
+2020-08-27,Haryana,Sirsa,1166,764,11,0,11784.0
+2020-08-27,Haryana,Sonipat,4076,3524,41,0,34165.0
+2020-08-27,Haryana,Yamunanagar,1318,780,17,0,11242.0
+2020-08-27,Jharkhand,Bokaro,1150,786,14,0,11798.0
+2020-08-27,Jharkhand,Chatra,563,425,2,0,
+2020-08-27,Jharkhand,Deoghar,1190,1017,11,0,6951.0
+2020-08-27,Jharkhand,Dhanbad,2755,1930,28,0,
+2020-08-27,Jharkhand,Dumka,379,230,2,0,5400.0
+2020-08-27,Jharkhand,East Singhbhum,5817,3439,165,0,
+2020-08-27,Jharkhand,Garhwa,1086,795,6,0,
+2020-08-27,Jharkhand,Giridih,1599,1324,7,0,11132.0
+2020-08-27,Jharkhand,Godda,730,680,3,0,10980.0
+2020-08-27,Jharkhand,Gumla,729,542,2,0,
+2020-08-27,Jharkhand,Hazaribagh,1577,1060,19,0,
+2020-08-27,Jharkhand,Jamtara,321,215,0,0,2880.0
+2020-08-27,Jharkhand,Khunti,603,408,2,0,3852.0
+2020-08-27,Jharkhand,Koderma,1161,810,13,0,
+2020-08-27,Jharkhand,Latehar,842,550,1,0,
+2020-08-27,Jharkhand,Lohardaga,525,403,3,0,7526.0
+2020-08-27,Jharkhand,Pakur,446,363,0,0,6429.0
+2020-08-27,Jharkhand,Palamu,1449,1199,5,0,
+2020-08-27,Jharkhand,Ramgarh,1211,746,12,0,
+2020-08-27,Jharkhand,Ranchi,6912,3713,57,0,
+2020-08-27,Jharkhand,Sahibganj,679,305,7,0,5029.0
+2020-08-27,Jharkhand,Saraikela-Kharsawan,810,553,4,0,
+2020-08-27,Jharkhand,Simdega,933,776,4,0,
+2020-08-27,Jharkhand,West Singhbhum,1209,850,10,0,
+2020-08-27,Jammu and Kashmir,Anantnag,2220,1672,48,0,
+2020-08-27,Jammu and Kashmir,Bandipora,2025,1282,24,0,
+2020-08-27,Jammu and Kashmir,Baramulla,2727,2081,99,0,
+2020-08-27,Jammu and Kashmir,Budgam,2331,1648,57,0,
+2020-08-27,Jammu and Kashmir,Doda,394,333,2,0,
+2020-08-27,Jammu and Kashmir,Ganderbal,1304,708,19,0,
+2020-08-27,Jammu and Kashmir,Jammu,2648,1824,38,0,
+2020-08-27,Jammu and Kashmir,Kathua,807,642,3,0,
+2020-08-27,Jammu and Kashmir,Kishtwar,209,184,1,0,
+2020-08-27,Jammu and Kashmir,Kulgam,1885,1632,33,0,
+2020-08-27,Jammu and Kashmir,Kupwara,1989,1325,45,0,
+2020-08-27,Jammu and Kashmir,Pulwama,2484,1966,48,0,33763.0
+2020-08-27,Jammu and Kashmir,Punch,388,315,3,0,
+2020-08-27,Jammu and Kashmir,Rajouri,865,760,5,0,
+2020-08-27,Jammu and Kashmir,Ramban,651,627,1,0,
+2020-08-27,Jammu and Kashmir,Reasi,362,182,0,0,
+2020-08-27,Jammu and Kashmir,Samba,682,489,2,0,
+2020-08-27,Jammu and Kashmir,Shopiyan,1669,1520,28,0,
+2020-08-27,Jammu and Kashmir,Srinagar,8735,6896,213,0,
+2020-08-27,Jammu and Kashmir,Udhampur,760,635,2,0,
+2020-08-27,Karnataka,Bagalkote,5610,4712,69,0,49851.0
+2020-08-27,Karnataka,Ballari,19596,13724,243,0,110470.0
+2020-08-27,Karnataka,Belagavi,11153,6545,173,0,81392.0
+2020-08-27,Karnataka,Bengaluru Rural,4269,3559,27,0,25678.0
+2020-08-27,Karnataka,Bengaluru Urban,118728,80893,1845,1,739620.0
+2020-08-27,Karnataka,Bidar,4331,3592,133,4,66011.0
+2020-08-27,Karnataka,Chamarajanagara,2179,1666,33,11,5156.0
+2020-08-27,Karnataka,Chikkaballapura,3746,3053,59,1,15089.0
+2020-08-27,Karnataka,Chikkamagaluru,3483,2257,61,0,5467.0
+2020-08-27,Karnataka,Chitradurga,2206,1510,20,0,4393.0
+2020-08-27,Karnataka,Dakshina Kannada,11389,8680,335,2,87945.0
+2020-08-27,Karnataka,Davanagere,8159,6028,172,0,17483.0
+2020-08-27,Karnataka,Dharwad,10159,7236,289,0,66501.0
+2020-08-27,Karnataka,Gadag,4626,3311,71,0,8904.0
+2020-08-27,Karnataka,Hassan,6885,4600,167,0,10800.0
+2020-08-27,Karnataka,Haveri,3906,2504,91,0,11714.0
+2020-08-27,Karnataka,Kalaburagi,10957,8917,198,0,111167.0
+2020-08-27,Karnataka,Kodagu,1275,1046,17,0,26248.0
+2020-08-27,Karnataka,Kolar,3195,2488,56,0,9797.0
+2020-08-27,Karnataka,Koppal,5558,3918,119,0,8708.0
+2020-08-27,Karnataka,Mandya,4731,3248,51,0,14874.0
+2020-08-27,Karnataka,Mysuru,15775,11105,399,0,78038.0
+2020-08-27,Karnataka,Other State,36,33,3,0,
+2020-08-27,Karnataka,Raichur,6513,4992,81,0,21011.0
+2020-08-27,Karnataka,Ramanagara,2862,1975,23,0,15393.0
+2020-08-27,Karnataka,Shivamogga,7201,4710,96,0,48760.0
+2020-08-27,Karnataka,Tumakuru,4654,3187,135,0,46072.0
+2020-08-27,Karnataka,Udupi,10913,8075,92,0,67818.0
+2020-08-27,Karnataka,Uttara Kannada,4463,3300,48,0,13833.0
+2020-08-27,Karnataka,Vijayapura,6193,5279,91,0,25108.0
+2020-08-27,Karnataka,Yadgir,5041,3411,35,0,22590.0
+2020-08-27,Kerala,Alappuzha,5080,2897,14,6,
+2020-08-27,Kerala,Ernakulam,5377,3436,32,7,
+2020-08-27,Kerala,Idukki,1619,1269,3,1,
+2020-08-27,Kerala,Kannur,3178,2225,23,2,
+2020-08-27,Kerala,Kasaragod,4524,3118,24,3,
+2020-08-27,Kerala,Kollam,3672,2474,17,3,
+2020-08-27,Kerala,Kottayam,3443,2181,3,0,
+2020-08-27,Kerala,Kozhikode,4830,3146,27,5,
+2020-08-27,Kerala,Malappuram,8353,5314,21,5,
+2020-08-27,Kerala,Palakkad,4332,3445,3,2,
+2020-08-27,Kerala,Pathanamthitta,3042,2041,3,2,
+2020-08-27,Kerala,Thiruvananthapuram,14076,8536,81,23,
+2020-08-27,Kerala,Thrissur,3816,2516,13,4,
+2020-08-27,Kerala,Wayanad,1419,1159,4,0,
+2020-08-27,Ladakh,Kargil,1176,862,18,0,11124.0
+2020-08-27,Ladakh,Leh,1316,778,9,0,17595.0
+2020-08-27,Maharashtra,Ahmednagar,18501,14378,271,0,11077.0
+2020-08-27,Maharashtra,Akola,3668,2923,151,1,
+2020-08-27,Maharashtra,Amravati,4719,3565,112,0,
+2020-08-27,Maharashtra,Aurangabad,22028,15649,641,0,11800.0
+2020-08-27,Maharashtra,Beed,4432,2600,107,0,50264.0
+2020-08-27,Maharashtra,Bhandara,861,579,21,0,13606.0
+2020-08-27,Maharashtra,Buldhana,3043,2048,71,0,18209.0
+2020-08-27,Maharashtra,Chandrapur,1688,934,15,0,47592.0
+2020-08-27,Maharashtra,Dhule,7113,5001,195,2,20469.0
+2020-08-27,Maharashtra,Gadchiroli,650,557,1,0,11993.0
+2020-08-27,Maharashtra,Gondia,1215,775,15,0,14991.0
+2020-08-27,Maharashtra,Hingoli,1352,1061,31,0,6797.0
+2020-08-27,Maharashtra,Jalgaon,24627,16819,804,0,114664.0
+2020-08-27,Maharashtra,Jalna,4052,2529,127,0,30712.0
+2020-08-27,Maharashtra,Kolhapur,19588,12826,562,0,
+2020-08-27,Maharashtra,Latur,7235,4111,247,0,
+2020-08-27,Maharashtra,Mumbai,140888,113577,7535,313,715543.0
+2020-08-27,Maharashtra,Nagpur,23622,12686,618,3,152183.0
+2020-08-27,Maharashtra,Nanded,6019,2938,196,0,25305.0
+2020-08-27,Maharashtra,Nandurbar,2218,1127,65,0,8191.0
+2020-08-27,Maharashtra,Nashik,35620,24283,813,0,120996.0
+2020-08-27,Maharashtra,Osmanabad,5377,3259,145,0,32977.0
+2020-08-27,Maharashtra,Other State,697,0,70,0,
+2020-08-27,Maharashtra,Palghar,24463,17140,561,0,130677.0
+2020-08-27,Maharashtra,Parbhani,2343,968,70,0,11301.0
+2020-08-27,Maharashtra,Pune,161945,111905,3916,0,657583.0
+2020-08-27,Maharashtra,Raigad,28143,21946,748,2,85641.0
+2020-08-27,Maharashtra,Ratnagiri,3676,2126,129,0,
+2020-08-27,Maharashtra,Sangli,10636,6126,356,0,
+2020-08-27,Maharashtra,Satara,11530,6688,313,2,36015.0
+2020-08-27,Maharashtra,Sindhudurg,1049,571,16,0,
+2020-08-27,Maharashtra,Solapur,18051,12932,735,1,135514.0
+2020-08-27,Maharashtra,Thane,127374,103463,3677,1,470430.0
+2020-08-27,Maharashtra,Wardha,727,376,16,1,14787.0
+2020-08-27,Maharashtra,Washim,1557,1248,25,1,
+2020-08-27,Maharashtra,Yavatmal,2861,1849,69,0,44851.0
+2020-08-27,Meghalaya,East Garo Hills,40,1,0,0,
+2020-08-27,Meghalaya,East Jaintia Hills,32,20,0,0,
+2020-08-27,Meghalaya,East Khasi Hills,1436,585,4,0,
+2020-08-27,Meghalaya,North Garo Hills,17,7,0,0,
+2020-08-27,Meghalaya,Ribhoi,183,112,3,0,
+2020-08-27,Meghalaya,South Garo Hills,17,6,0,0,
+2020-08-27,Meghalaya,South West Garo Hills,14,11,0,0,
+2020-08-27,Meghalaya,South West Khasi Hills,1,1,0,0,
+2020-08-27,Meghalaya,Unknown,15,4,0,0,
+2020-08-27,Meghalaya,West Garo Hills,291,114,1,0,
+2020-08-27,Meghalaya,West Jaintia Hills,27,25,0,0,
+2020-08-27,Meghalaya,West Khasi Hills,56,13,0,0,
+2020-08-27,Manipur,Bishnupur,193,58,1,0,
+2020-08-27,Manipur,CAPF Personnel,1103,562,1,0,
+2020-08-27,Manipur,Chandel,96,4,3,0,
+2020-08-27,Manipur,Churachandpur,367,58,1,0,11280.0
+2020-08-27,Manipur,Imphal East,465,16,3,0,
+2020-08-27,Manipur,Imphal West,1234,52,7,0,
+2020-08-27,Manipur,Jiribam,114,2,0,0,
+2020-08-27,Manipur,Kakching,184,27,0,0,
+2020-08-27,Manipur,Kamjong,159,17,0,0,
+2020-08-27,Manipur,Kangpokpi,326,19,2,0,
+2020-08-27,Manipur,Noney,61,18,0,0,
+2020-08-27,Manipur,Pherzawl,33,15,0,0,
+2020-08-27,Manipur,Senapati,259,21,0,0,
+2020-08-27,Manipur,Tamenglong,246,32,0,0,
+2020-08-27,Manipur,Tengnoupal,20,13,0,0,
+2020-08-27,Manipur,Thoubal,554,23,5,0,
+2020-08-27,Manipur,Ukhrul,282,18,0,0,
+2020-08-27,Manipur,Unknown,29,3002,2,0,
+2020-08-27,Madhya Pradesh,Agar Malwa,179,139,5,0,
+2020-08-27,Madhya Pradesh,Alirajpur,447,283,4,0,
+2020-08-27,Madhya Pradesh,Anuppur,348,151,1,0,9772.0
+2020-08-27,Madhya Pradesh,Ashoknagar,172,138,5,0,7345.0
+2020-08-27,Madhya Pradesh,Balaghat,265,212,1,0,9654.0
+2020-08-27,Madhya Pradesh,Barwani,1079,963,15,0,14291.0
+2020-08-27,Madhya Pradesh,Betul,599,386,11,0,9685.0
+2020-08-27,Madhya Pradesh,Bhind,582,528,4,0,15212.0
+2020-08-27,Madhya Pradesh,Bhopal,9825,8115,267,0,169295.0
+2020-08-27,Madhya Pradesh,Burhanpur,550,497,25,0,13040.0
+2020-08-27,Madhya Pradesh,Chhatarpur,549,455,13,0,17005.0
+2020-08-27,Madhya Pradesh,Chhindwara,424,312,6,0,3752.0
+2020-08-27,Madhya Pradesh,Damoh,584,414,12,0,9677.0
+2020-08-27,Madhya Pradesh,Datia,596,435,6,0,10667.0
+2020-08-27,Madhya Pradesh,Dewas,645,529,15,0,27116.0
+2020-08-27,Madhya Pradesh,Dhar,801,577,15,0,13142.0
+2020-08-27,Madhya Pradesh,Dindori,127,100,0,0,3557.0
+2020-08-27,Madhya Pradesh,Guna,261,146,8,0,3648.0
+2020-08-27,Madhya Pradesh,Gwalior,4606,3438,40,0,85805.0
+2020-08-27,Madhya Pradesh,Harda,408,309,9,0,1355.0
+2020-08-27,Madhya Pradesh,Hoshangabad,510,373,17,0,8810.0
+2020-08-27,Madhya Pradesh,Indore,12031,8490,375,0,192920.0
+2020-08-27,Madhya Pradesh,Jabalpur,3582,2657,71,0,60302.0
+2020-08-27,Madhya Pradesh,Jhabua,570,293,6,0,
+2020-08-27,Madhya Pradesh,Katni,436,334,8,0,10346.0
+2020-08-27,Madhya Pradesh,Khandwa,882,763,21,0,17090.0
+2020-08-27,Madhya Pradesh,Khargone,1410,1171,26,0,19587.0
+2020-08-27,Madhya Pradesh,Mandla,147,90,1,0,
+2020-08-27,Madhya Pradesh,Mandsaur,733,579,12,0,19305.0
+2020-08-27,Madhya Pradesh,Morena,2026,1886,13,0,35043.0
+2020-08-27,Madhya Pradesh,Narsinghpur,348,289,2,0,12322.0
+2020-08-27,Madhya Pradesh,Neemuch,1130,909,13,0,20585.0
+2020-08-27,Madhya Pradesh,Niwari,154,61,0,0,605.0
+2020-08-27,Madhya Pradesh,Panna,231,207,0,0,
+2020-08-27,Madhya Pradesh,Raisen,628,492,13,0,16200.0
+2020-08-27,Madhya Pradesh,Rajgarh,770,515,13,0,8364.0
+2020-08-27,Madhya Pradesh,Ratlam,887,705,19,0,14974.0
+2020-08-27,Madhya Pradesh,Rewa,654,508,13,0,22690.0
+2020-08-27,Madhya Pradesh,Sagar,1081,847,49,0,38041.0
+2020-08-27,Madhya Pradesh,Satna,467,346,14,0,15401.0
+2020-08-27,Madhya Pradesh,Sehore,612,459,19,0,9823.0
+2020-08-27,Madhya Pradesh,Seoni,222,143,5,0,1237.0
+2020-08-27,Madhya Pradesh,Shahdol,439,250,3,0,8000.0
+2020-08-27,Madhya Pradesh,Shajapur,432,358,7,0,12800.0
+2020-08-27,Madhya Pradesh,Sheopur,455,348,3,0,8807.0
+2020-08-27,Madhya Pradesh,Shivpuri,745,471,6,0,16075.0
+2020-08-27,Madhya Pradesh,Sidhi,280,201,2,0,4660.0
+2020-08-27,Madhya Pradesh,Singrauli,335,235,7,0,
+2020-08-27,Madhya Pradesh,Tikamgarh,390,340,10,0,6730.0
+2020-08-27,Madhya Pradesh,Ujjain,1658,1350,79,0,60012.0
+2020-08-27,Madhya Pradesh,Umaria,112,70,2,0,1980.0
+2020-08-27,Madhya Pradesh,Vidisha,777,586,15,0,11770.0
+2020-08-27,Mizoram,Aizawl,563,253,0,0,
+2020-08-27,Mizoram,Champhai,16,13,0,0,
+2020-08-27,Mizoram,Hnahthial,2,0,0,0,
+2020-08-27,Mizoram,Khawzawl,3,3,0,0,
+2020-08-27,Mizoram,Kolasib,169,62,0,0,
+2020-08-27,Mizoram,Lawngtlai,31,21,0,0,
+2020-08-27,Mizoram,Lunglei,118,90,0,0,
+2020-08-27,Mizoram,Mamit,26,21,0,0,
+2020-08-27,Mizoram,Saiha,27,26,0,0,
+2020-08-27,Mizoram,Saitual,4,4,0,0,
+2020-08-27,Mizoram,Serchhip,15,7,0,0,
+2020-08-27,Nagaland,Dimapur,1768,1203,8,5,896.0
+2020-08-27,Nagaland,Kiphire,5,4,0,0,18.0
+2020-08-27,Nagaland,Kohima,1055,665,0,3,485.0
+2020-08-27,Nagaland,Longleng,7,6,0,0,
+2020-08-27,Nagaland,Mokokchung,22,18,0,0,63.0
+2020-08-27,Nagaland,Mon,298,257,0,2,45.0
+2020-08-27,Nagaland,Others,46,46,0,0,
+2020-08-27,Nagaland,Peren,347,344,0,0,11.0
+2020-08-27,Nagaland,Phek,32,32,0,0,28.0
+2020-08-27,Nagaland,Tuensang,59,50,0,0,1.0
+2020-08-27,Nagaland,Wokha,33,27,0,0,7.0
+2020-08-27,Nagaland,Zunheboto,112,83,0,0,
+2020-08-27,Odisha,Angul,745,482,4,0,2830.0
+2020-08-27,Odisha,Balangir,1619,1026,4,0,2237.0
+2020-08-27,Odisha,Balasore,3294,2382,14,0,9843.0
+2020-08-27,Odisha,Bargarh,1645,939,7,0,
+2020-08-27,Odisha,Bhadrak,2418,1705,11,0,44609.0
+2020-08-27,Odisha,Boudh,548,435,0,0,496.0
+2020-08-27,Odisha,Cuttack,7017,4243,32,0,5720.0
+2020-08-27,Odisha,Deogarh,183,146,0,0,682.0
+2020-08-27,Odisha,Dhenkanal,1356,1006,2,0,29953.0
+2020-08-27,Odisha,Gajapati,2764,2458,19,0,715.0
+2020-08-27,Odisha,Ganjam,17113,15462,191,0,19669.0
+2020-08-27,Odisha,Jagatsinghpur,1623,1093,2,0,33141.0
+2020-08-27,Odisha,Jajpur,3481,2246,5,0,53956.0
+2020-08-27,Odisha,Jharsuguda,1033,617,1,0,1663.0
+2020-08-27,Odisha,Kalahandi,1187,852,2,0,1458.0
+2020-08-27,Odisha,Kandhamal,2064,1659,7,0,1516.0
+2020-08-27,Odisha,Kendrapara,1461,912,4,0,106962.0
+2020-08-27,Odisha,Kendujhar,1656,1306,8,0,
+2020-08-27,Odisha,Khordha,13925,8993,67,0,
+2020-08-27,Odisha,Koraput,3074,2172,3,0,1401.0
+2020-08-27,Odisha,Malkangiri,2137,1473,7,0,1841.0
+2020-08-27,Odisha,Mayurbhanj,2683,1530,6,0,3307.0
+2020-08-27,Odisha,Nabarangapur,950,607,3,0,41183.0
+2020-08-27,Odisha,Nayagarh,2637,1675,14,0,1104.0
+2020-08-27,Odisha,Nuapada,359,310,0,0,310.0
+2020-08-27,Odisha,Puri,3086,2118,14,0,56526.0
+2020-08-27,Odisha,Rayagada,3720,2278,21,0,578.0
+2020-08-27,Odisha,Sambalpur,2452,1540,14,0,2007.0
+2020-08-27,Odisha,Subarnapur,568,360,2,0,
+2020-08-27,Odisha,Sundargarh,4188,3298,37,0,
+2020-08-27,Punjab,Amritsar,3612,2808,137,0,75233.0
+2020-08-27,Punjab,Barnala,963,517,18,0,20091.0
+2020-08-27,Punjab,Bathinda,2058,1299,19,0,34970.0
+2020-08-27,Punjab,Faridkot,936,502,10,0,21075.0
+2020-08-27,Punjab,Fatehgarh Sahib,975,697,21,0,25446.0
+2020-08-27,Punjab,Fazilka,738,517,8,0,21206.0
+2020-08-27,Punjab,Ferozepur,1542,541,23,0,27461.0
+2020-08-27,Punjab,Gurdaspur,2013,1306,47,0,65582.0
+2020-08-27,Punjab,Hoshiarpur,1323,920,35,0,51096.0
+2020-08-27,Punjab,Jalandhar,5817,3755,143,0,71662.0
+2020-08-27,Punjab,Kapurthala,1092,614,39,0,31786.0
+2020-08-27,Punjab,Ludhiana,10147,6881,352,0,121270.0
+2020-08-27,Punjab,Mansa,481,289,10,0,24792.0
+2020-08-27,Punjab,Moga,1292,688,16,0,34624.0
+2020-08-27,Punjab,Pathankot,1052,758,22,0,23421.0
+2020-08-27,Punjab,Patiala,5614,3965,139,0,72719.0
+2020-08-27,Punjab,Rupnagar,765,481,11,0,34710.0
+2020-08-27,Punjab,S.A.S. Nagar,3246,1374,70,0,34874.0
+2020-08-27,Punjab,Sangrur,2058,1566,81,0,42353.0
+2020-08-27,Punjab,Shahid Bhagat Singh Nagar,664,497,17,0,24501.0
+2020-08-27,Punjab,Sri Muktsar Sahib,723,502,8,0,19760.0
+2020-08-27,Punjab,Tarn Taran,725,495,30,0,26107.0
+2020-08-27,Puducherry,Karaikal,770,529,12,0,8389.0
+2020-08-27,Puducherry,Mahe,41,28,0,0,2230.0
+2020-08-27,Puducherry,Puducherry,10935,6658,158,0,55456.0
+2020-08-27,Puducherry,Yanam,688,546,20,0,4151.0
+2020-08-27,Rajasthan,Ajmer,3959,3365,67,0,87107.0
+2020-08-27,Rajasthan,Alwar,7237,5915,23,0,87639.0
+2020-08-27,Rajasthan,BSF Camp,85,85,0,0,
+2020-08-27,Rajasthan,Banswara,490,365,4,0,15827.0
+2020-08-27,Rajasthan,Baran,463,307,12,0,22142.0
+2020-08-27,Rajasthan,Barmer,2158,2015,18,0,49884.0
+2020-08-27,Rajasthan,Bharatpur,3585,3230,68,0,65262.0
+2020-08-27,Rajasthan,Bhilwara,2063,1184,14,0,71587.0
+2020-08-27,Rajasthan,Bikaner,4177,3407,70,0,120388.0
+2020-08-27,Rajasthan,Bundi,501,330,4,0,16384.0
+2020-08-27,Rajasthan,Chittorgarh,775,599,6,0,30795.0
+2020-08-27,Rajasthan,Churu,884,764,5,0,46579.0
+2020-08-27,Rajasthan,Dausa,513,441,5,0,25631.0
+2020-08-27,Rajasthan,Dholpur,2179,1799,19,0,66470.0
+2020-08-27,Rajasthan,Dungarpur,914,813,10,0,59849.0
+2020-08-27,Rajasthan,Evacuees,61,61,0,0,
+2020-08-27,Rajasthan,Ganganagar,607,362,7,0,19486.0
+2020-08-27,Rajasthan,Hanumangarh,378,300,2,0,21880.0
+2020-08-27,Rajasthan,Italians,2,2,0,0,
+2020-08-27,Rajasthan,Jaipur,9783,6229,266,0,242294.0
+2020-08-27,Rajasthan,Jaisalmer,336,286,3,0,38105.0
+2020-08-27,Rajasthan,Jalore,1335,1306,11,0,74038.0
+2020-08-27,Rajasthan,Jhalawar,1204,1038,1,0,50626.0
+2020-08-27,Rajasthan,Jhunjhunu,966,917,6,0,41376.0
+2020-08-27,Rajasthan,Jodhpur,11475,9043,93,0,304201.0
+2020-08-27,Rajasthan,Karauli,570,444,7,0,19938.0
+2020-08-27,Rajasthan,Kota,4601,3128,68,0,146009.0
+2020-08-27,Rajasthan,Nagaur,2256,2033,41,0,74000.0
+2020-08-27,Rajasthan,Other State,189,104,39,0,
+2020-08-27,Rajasthan,Pali,3805,3418,42,0,90813.0
+2020-08-27,Rajasthan,Pratapgarh,419,254,5,0,20367.0
+2020-08-27,Rajasthan,Rajsamand,1100,923,13,0,37858.0
+2020-08-27,Rajasthan,Sawai Madhopur,455,370,13,0,30266.0
+2020-08-27,Rajasthan,Sikar,2503,2158,17,0,79511.0
+2020-08-27,Rajasthan,Sirohi,1190,1069,11,0,39932.0
+2020-08-27,Rajasthan,Tonk,570,492,10,0,23710.0
+2020-08-27,Rajasthan,Udaipur,2227,2029,25,0,102862.0
+2020-08-27,Sikkim,East Sikkim,1299,987,3,0,
+2020-08-27,Sikkim,North Sikkim,1,1,0,0,
+2020-08-27,Sikkim,South Sikkim,144,73,0,0,
+2020-08-27,Sikkim,Unknown,56,75,0,0,
+2020-08-27,Sikkim,West Sikkim,42,15,0,0,
+2020-08-27,Telangana,Unknown,114483,86095,788,0,1142480.0
+2020-08-27,Tamil Nadu,Airport Quarantine,1712,1632,1,0,
+2020-08-27,Tamil Nadu,Ariyalur,2452,1932,28,0,18285.0
+2020-08-27,Tamil Nadu,Chengalpattu,24749,21763,396,0,51771.0
+2020-08-27,Tamil Nadu,Chennai,130564,114448,2663,0,900493.0
+2020-08-27,Tamil Nadu,Coimbatore,13398,9799,274,0,102107.0
+2020-08-27,Tamil Nadu,Cuddalore,10076,7060,107,0,36434.0
+2020-08-27,Tamil Nadu,Dharmapuri,1184,1017,13,0,28355.0
+2020-08-27,Tamil Nadu,Dindigul,6124,5260,118,0,27800.0
+2020-08-27,Tamil Nadu,Erode,2620,1426,37,0,66240.0
+2020-08-27,Tamil Nadu,Kallakurichi,5635,4988,64,0,28314.0
+2020-08-27,Tamil Nadu,Kancheepuram,16530,14006,228,0,37505.0
+2020-08-27,Tamil Nadu,Kanyakumari,9094,7418,159,0,79600.0
+2020-08-27,Tamil Nadu,Karur,1418,1026,25,0,17190.0
+2020-08-27,Tamil Nadu,Krishnagiri,1977,1618,29,0,14284.0
+2020-08-27,Tamil Nadu,Madurai,13685,12446,345,0,97279.0
+2020-08-27,Tamil Nadu,Nagapattinam,2283,1567,34,0,20984.0
+2020-08-27,Tamil Nadu,Namakkal,1821,1257,34,0,24758.0
+2020-08-27,Tamil Nadu,Nilgiris,1497,1169,10,0,45839.0
+2020-08-27,Tamil Nadu,Other State,0,0,3,0,
+2020-08-27,Tamil Nadu,Perambalur,1240,1048,17,0,7981.0
+2020-08-27,Tamil Nadu,Pudukkottai,5654,4285,85,0,20835.0
+2020-08-27,Tamil Nadu,Railway Quarantine,428,424,0,0,
+2020-08-27,Tamil Nadu,Ramanathapuram,4599,3992,101,0,23389.0
+2020-08-27,Tamil Nadu,Ranipet,9931,8610,114,0,20118.0
+2020-08-27,Tamil Nadu,Salem,9379,6222,126,0,79660.0
+2020-08-27,Tamil Nadu,Sivaganga,3907,3514,104,0,25824.0
+2020-08-27,Tamil Nadu,Tenkasi,5099,4029,100,0,26338.0
+2020-08-27,Tamil Nadu,Thanjavur,6108,5209,107,0,67445.0
+2020-08-27,Tamil Nadu,Theni,12179,10170,139,0,45839.0
+2020-08-27,Tamil Nadu,Thiruvallur,23627,21654,398,0,67948.0
+2020-08-27,Tamil Nadu,Thiruvarur,3156,2556,41,0,67445.0
+2020-08-27,Tamil Nadu,Thoothukkudi,11008,10082,107,0,49288.0
+2020-08-27,Tamil Nadu,Tiruchirappalli,7072,6033,113,0,92586.0
+2020-08-27,Tamil Nadu,Tirunelveli,9018,7546,166,0,54208.0
+2020-08-27,Tamil Nadu,Tirupathur,2711,2141,56,0,23998.0
+2020-08-27,Tamil Nadu,Tiruppur,2337,1644,59,0,36301.0
+2020-08-27,Tamil Nadu,Tiruvannamalai,9780,8858,151,0,76170.0
+2020-08-27,Tamil Nadu,Vellore,10167,8809,148,0,47936.0
+2020-08-27,Tamil Nadu,Viluppuram,6742,5682,64,0,52064.0
+2020-08-27,Tamil Nadu,Virudhunagar,12281,11590,184,0,28620.0
+2020-08-27,Tripura,Dhalai,933,698,2,1,21751.0
+2020-08-27,Tripura,Gomati,1422,1095,15,1,26720.0
+2020-08-27,Tripura,Khowai,798,589,8,0,10191.0
+2020-08-27,Tripura,North Tripura,934,639,2,6,57179.0
+2020-08-27,Tripura,Sipahijala,1537,1322,10,0,19605.0
+2020-08-27,Tripura,South Tripura,636,428,4,3,26963.0
+2020-08-27,Tripura,Unokoti,474,179,0,0,14145.0
+2020-08-27,Tripura,West Tripura,3190,1747,44,8,79323.0
+2020-08-27,Uttar Pradesh,Agra,2660,2223,106,0,108322.0
+2020-08-27,Uttar Pradesh,Aligarh,3740,2432,29,0,71487.0
+2020-08-27,Uttar Pradesh,Ambedkar Nagar,768,526,18,0,31606.0
+2020-08-27,Uttar Pradesh,Amethi,1136,857,6,0,37976.0
+2020-08-27,Uttar Pradesh,Amroha,1471,1090,17,0,58245.0
+2020-08-27,Uttar Pradesh,Auraiya,1083,819,9,0,26772.0
+2020-08-27,Uttar Pradesh,Ayodhya,2946,2001,40,0,62233.0
+2020-08-27,Uttar Pradesh,Azamgarh,2938,2157,48,0,63365.0
+2020-08-27,Uttar Pradesh,Baghpat,862,747,16,0,79239.0
+2020-08-27,Uttar Pradesh,Bahraich,1916,1384,28,0,54201.0
+2020-08-27,Uttar Pradesh,Ballia,3832,3136,41,0,57446.0
+2020-08-27,Uttar Pradesh,Balrampur,902,595,14,0,49682.0
+2020-08-27,Uttar Pradesh,Banda,688,461,8,0,18150.0
+2020-08-27,Uttar Pradesh,Barabanki,3191,2165,24,0,78850.0
+2020-08-27,Uttar Pradesh,Bareilly,6069,4494,110,0,84880.0
+2020-08-27,Uttar Pradesh,Basti,2227,1798,56,0,39038.0
+2020-08-27,Uttar Pradesh,Bhadohi,1026,812,10,0,26845.0
+2020-08-27,Uttar Pradesh,Bijnor,1518,1126,18,0,56126.0
+2020-08-27,Uttar Pradesh,Budaun,1393,876,11,0,38317.0
+2020-08-27,Uttar Pradesh,Bulandshahr,2125,1684,45,0,52413.0
+2020-08-27,Uttar Pradesh,Chandauli,1834,1405,13,0,39935.0
+2020-08-27,Uttar Pradesh,Chitrakoot,565,375,2,0,18625.0
+2020-08-27,Uttar Pradesh,Deoria,3570,2524,26,0,36959.0
+2020-08-27,Uttar Pradesh,Etah,806,524,11,0,38671.0
+2020-08-27,Uttar Pradesh,Etawah,1861,1196,37,0,48954.0
+2020-08-27,Uttar Pradesh,Farrukhabad,1172,792,21,0,34844.0
+2020-08-27,Uttar Pradesh,Fatehpur,1180,861,19,0,17186.0
+2020-08-27,Uttar Pradesh,Firozabad,1318,988,44,0,57721.0
+2020-08-27,Uttar Pradesh,Gautam Buddha Nagar,7487,6483,45,0,174794.0
+2020-08-27,Uttar Pradesh,Ghaziabad,7806,6516,67,0,170236.0
+2020-08-27,Uttar Pradesh,Ghazipur,2633,2195,23,0,61943.0
+2020-08-27,Uttar Pradesh,Gonda,2334,1735,26,0,21660.0
+2020-08-27,Uttar Pradesh,Gorakhpur,8181,5398,125,0,58169.0
+2020-08-27,Uttar Pradesh,Hamirpur,554,426,13,0,37195.0
+2020-08-27,Uttar Pradesh,Hapur,1636,1474,26,0,16767.0
+2020-08-27,Uttar Pradesh,Hardoi,2350,1748,27,0,73478.0
+2020-08-27,Uttar Pradesh,Hathras,509,389,7,0,52740.0
+2020-08-27,Uttar Pradesh,Jalaun,1176,961,15,0,14781.0
+2020-08-27,Uttar Pradesh,Jaunpur,3505,3008,45,0,78662.0
+2020-08-27,Uttar Pradesh,Jhansi,4070,3165,97,0,106094.0
+2020-08-27,Uttar Pradesh,Kannauj,1599,1333,10,0,34610.0
+2020-08-27,Uttar Pradesh,Kanpur Dehat,961,571,10,0,32872.0
+2020-08-27,Uttar Pradesh,Kanpur Nagar,13637,10043,399,0,150093.0
+2020-08-27,Uttar Pradesh,Kasganj,783,561,1,0,48012.0
+2020-08-27,Uttar Pradesh,Kaushambi,834,638,11,0,37217.0
+2020-08-27,Uttar Pradesh,Kushinagar,2748,1844,18,0,39614.0
+2020-08-27,Uttar Pradesh,Lakhimpur Kheri,2097,1222,24,0,33455.0
+2020-08-27,Uttar Pradesh,Lalitpur,1112,619,14,0,21781.0
+2020-08-27,Uttar Pradesh,Lucknow,24468,17354,323,0,316396.0
+2020-08-27,Uttar Pradesh,Maharajganj,2504,1688,29,0,32339.0
+2020-08-27,Uttar Pradesh,Mahoba,451,355,5,0,38918.0
+2020-08-27,Uttar Pradesh,Mainpuri,1334,1099,25,0,51347.0
+2020-08-27,Uttar Pradesh,Mathura,2078,1446,46,0,57594.0
+2020-08-27,Uttar Pradesh,Mau,1266,949,10,0,45863.0
+2020-08-27,Uttar Pradesh,Meerut,3804,2694,131,0,152612.0
+2020-08-27,Uttar Pradesh,Mirzapur,1546,1254,23,0,56941.0
+2020-08-27,Uttar Pradesh,Moradabad,4486,3114,101,0,89533.0
+2020-08-27,Uttar Pradesh,Muzaffarnagar,1783,1238,27,0,23587.0
+2020-08-27,Uttar Pradesh,Pilibhit,2106,1596,28,0,56339.0
+2020-08-27,Uttar Pradesh,Pratapgarh,1599,1056,25,0,26100.0
+2020-08-27,Uttar Pradesh,Prayagraj,8372,5417,139,0,100200.0
+2020-08-27,Uttar Pradesh,Rae Bareli,1301,945,32,0,51070.0
+2020-08-27,Uttar Pradesh,Rampur,2838,2071,25,0,33536.0
+2020-08-27,Uttar Pradesh,Saharanpur,3313,2026,51,0,65310.0
+2020-08-27,Uttar Pradesh,Sambhal,1468,1223,26,0,77564.0
+2020-08-27,Uttar Pradesh,Sant Kabir Nagar,1881,1585,21,0,51494.0
+2020-08-27,Uttar Pradesh,Shahjahanpur,2791,2136,37,0,52352.0
+2020-08-27,Uttar Pradesh,Shamli,896,654,10,0,35631.0
+2020-08-27,Uttar Pradesh,Shrawasti,621,451,10,0,29950.0
+2020-08-27,Uttar Pradesh,Siddharthnagar,2123,1556,20,0,58351.0
+2020-08-27,Uttar Pradesh,Sitapur,1819,1187,6,0,40230.0
+2020-08-27,Uttar Pradesh,Sonbhadra,1427,1013,11,0,46850.0
+2020-08-27,Uttar Pradesh,Sultanpur,1941,1591,34,0,27136.0
+2020-08-27,Uttar Pradesh,Unnao,1904,1303,36,0,57989.0
+2020-08-27,Uttar Pradesh,Varanasi,7490,5515,156,0,80654.0
+2020-08-27,Uttarakhand,Almora,460,376,2,1,21313.0
+2020-08-27,Uttarakhand,Bageshwar,236,180,1,0,9541.0
+2020-08-27,Uttarakhand,Chamoli,267,188,0,2,14101.0
+2020-08-27,Uttarakhand,Champawat,273,208,2,0,13921.0
+2020-08-27,Uttarakhand,Dehradun,3452,2269,113,30,60359.0
+2020-08-27,Uttarakhand,Haridwar,4173,2945,37,13,56638.0
+2020-08-27,Uttarakhand,Nainital,2458,1705,44,1,28703.0
+2020-08-27,Uttarakhand,Pauri Garhwal,440,304,4,10,21979.0
+2020-08-27,Uttarakhand,Pithoragarh,274,210,2,0,15078.0
+2020-08-27,Uttarakhand,Rudraprayag,196,140,1,0,11649.0
+2020-08-27,Uttarakhand,Tehri Garhwal,981,744,2,0,24635.0
+2020-08-27,Uttarakhand,Udham Singh Nagar,3310,1969,18,1,51593.0
+2020-08-27,Uttarakhand,Uttarkashi,757,537,2,1,19387.0
+2020-08-27,West Bengal,Alipurduar,1633,1114,10,0,
+2020-08-27,West Bengal,Bankura,2277,1636,5,0,
+2020-08-27,West Bengal,Birbhum,1754,1295,12,0,
+2020-08-27,West Bengal,Cooch Behar,2439,1915,6,0,
+2020-08-27,West Bengal,Dakshin Dinajpur,3609,2846,23,0,
+2020-08-27,West Bengal,Darjeeling,4693,3795,69,0,
+2020-08-27,West Bengal,Hooghly,7184,5611,123,0,
+2020-08-27,West Bengal,Howrah,12930,11152,352,0,
+2020-08-27,West Bengal,Jalpaiguri,3173,2462,31,0,
+2020-08-27,West Bengal,Jhargram,218,184,2,0,
+2020-08-27,West Bengal,Kalimpong,444,352,3,0,
+2020-08-27,West Bengal,Kolkata,38388,31839,1238,0,
+2020-08-27,West Bengal,Malda,4695,4087,34,0,
+2020-08-27,West Bengal,Murshidabad,3059,2287,35,0,
+2020-08-27,West Bengal,Nadia,3310,2514,34,0,
+2020-08-27,West Bengal,North 24 Parganas,31790,25668,697,0,
+2020-08-27,West Bengal,Other State,66,63,3,0,
+2020-08-27,West Bengal,Paschim Bardhaman,3341,2415,26,0,
+2020-08-27,West Bengal,Paschim Medinipur,3801,2361,38,0,
+2020-08-27,West Bengal,Purba Bardhaman,2527,2096,17,0,
+2020-08-27,West Bengal,Purba Medinipur,5580,4116,52,0,
+2020-08-27,West Bengal,Purulia,1139,606,1,0,
+2020-08-27,West Bengal,South 24 Parganas,10583,8834,186,0,
+2020-08-27,West Bengal,Uttar Dinajpur,2139,1798,20,0,
