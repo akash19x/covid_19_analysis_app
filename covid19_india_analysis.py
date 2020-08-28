@@ -8,7 +8,7 @@ from utils import get_dates, get_state_data, get_city_data, get_given_city_data,
 
 
 cases_types = ['Active', 'Confirmed', 'Recovered', 'Deceased', 'Tested']
-plot_types = ['plot', 'bar','histogram']
+plot_types = ['plot', 'bar', 'histogram', 'area', 'funnel', 'scatter']
 bootstrap = "https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/solar/bootstrap.min.css"
 app = dash.Dash(__name__, external_stylesheets=[bootstrap])
 server = app.server
@@ -181,6 +181,12 @@ def update_figure(sta1, input2):
                         "x": "Time",
                         "value": "Number of Cases"},
                      template="presentation")
+    if input2 == 'area':
+        fig = px.area(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
+                      title="Covid-19 data of state.",
+                      labels={
+                "x": "Time",
+                "value": "Number of Cases"}, template="presentation")
     if input2 == 'histogram':
         fig = px.histogram(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
                      title="Covid-19 data of state.",
@@ -188,6 +194,18 @@ def update_figure(sta1, input2):
                         "x": "Time",
                         "value": "Number of Cases"},
                      template="presentation")
+    if input2 == 'funnel':
+        fig = px.funnel(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
+                      title="Covid-19 data of state.",
+                      labels={
+                "x": "Time",
+                "value": "Number of Cases"}, template="presentation")
+    if input2 == 'scatter':
+        fig = px.scatter(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
+                      title="Covid-19 data of state.",
+                      labels={
+                "x": "Time",
+                "value": "Number of Cases"}, template="presentation")
     fig.update_layout(
         font_family="Courier New",
         font_color="blue",
@@ -236,6 +254,30 @@ def update2(input3, input4, input5, input21):
                          "value": "Number of Cases"},
                      template="presentation"
                      )
+    if input21 == "area":
+        fig = px.area(dfresult, x=get_dates(state_df), y=[input3, input4],
+                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
+                     labels={
+                         "x": "Time",
+                         "value": "Number of Cases"},
+                     template="presentation"
+                     )
+    if input21 == "funnel":
+        fig = px.funnel(dfresult, x=get_dates(state_df), y=[input3, input4],
+                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
+                     labels={
+                         "x": "Time",
+                         "value": "Number of Cases"},
+                     template="presentation"
+                     )
+    if input21 == "scatter":
+        fig = px.scatter(dfresult, x=get_dates(state_df), y=[input3, input4],
+                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
+                     labels={
+                         "x": "Time",
+                         "value": "Number of Cases"},
+                     template="presentation"
+                     )
 
     fig.update_layout(
         font_family="Courier New",
@@ -275,6 +317,24 @@ def update3(input6, input7, input8, input31):
                           "value": "Number of Cases"}, template="presentation")
     if input31 == 'histogram':
         fig = px.histogram(dfresult, x=get_dates(city_df), y=[input6, input7],
+                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
+                      labels={
+                          "x": "Time",
+                          "value": "Number of Cases"}, template="presentation")
+    if input31 == 'area':
+        fig = px.area(dfresult, x=get_dates(city_df), y=[input6, input7],
+                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
+                      labels={
+                          "x": "Time",
+                          "value": "Number of Cases"}, template="presentation")
+    if input31 == 'funnel':
+        fig = px.funnel(dfresult, x=get_dates(city_df), y=[input6, input7],
+                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
+                      labels={
+                          "x": "Time",
+                          "value": "Number of Cases"}, template="presentation")
+    if input31 == 'scatter':
+        fig = px.scatter(dfresult, x=get_dates(city_df), y=[input6, input7],
                       title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
                       labels={
                           "x": "Time",
