@@ -29,8 +29,7 @@ def get_state_data():
     state_data = requests.get(state_url).content
     state_cleaned_data = pd.read_csv(io.StringIO(state_data.decode('utf-8')), parse_dates=["Date"], index_col="Date",
                                      dayfirst=True)
-    state_cleaned_data["2020-06-20":].to_csv("states.csv")
-    state_df = pd.read_csv("states.csv", index_col='Date')
+    state_df = state_cleaned_data["2020-06-20":]
     state_df['Tested'].fillna(0, inplace=True)
     state_df = state_df.astype(conv_dict)
     state_df['Active'] = state_df['Confirmed'] - state_df['Recovered'] - state_df['Deceased']
@@ -43,8 +42,7 @@ def get_city_data():
     city_data = requests.get(city_url).content
     city_cleaned_data = pd.read_csv(io.StringIO(city_data.decode('utf-8')), parse_dates=["Date"], index_col="Date",
                                     dayfirst=True)
-    city_cleaned_data.loc["2020-06-20":].to_csv("cities.csv")
-    city_df = pd.read_csv("cities.csv", index_col='Date')
+    city_df = city_cleaned_data["2020-06-20":]
     city_df['Tested'].fillna(0, inplace=True)
     city_df.astype(conv_dict)
     city_df['Active'] = city_df['Confirmed'] - city_df['Recovered'] - city_df['Deceased']
