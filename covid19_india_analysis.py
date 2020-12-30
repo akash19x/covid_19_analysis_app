@@ -4,7 +4,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 import plotly.express as px
 from utils import get_dates, get_state_data, get_city_data, get_given_city_data, \
-    get_given_state_data
+    get_given_state_data, get_state_data_latest
 
 
 cases_types = ['Active', 'Confirmed', 'Recovered', 'Deceased', 'Tested']
@@ -18,7 +18,7 @@ colors = {
 }
 city_df = get_city_data()[0]
 state_df = get_state_data()[0]
-
+state_df_latest = get_state_data_latest()
 app.layout = html.Div([
     html.H1(children='COVID-19 Analysis Project', style={'text-align': 'center'}),
     html.Div(children='''
@@ -157,6 +157,25 @@ app.layout = html.Div([
     html.Br(),
     html.Br(),
     dcc.Graph(id='graph3', style={"color": "#FFF"}),
+    html.Br(),
+    html.Br(),
+    html.H4(children='Map Of India on the casis of Category of Covid -19 Cases.', style={'text-align': 'center'}),
+    html.Div(
+        [
+            dcc.Dropdown(
+                id="input9",
+                options=[{
+                    'label': i,
+                    'value': i
+                } for i in cases_types],
+                value='Active'),
+        ],
+        style={'width': '25%',
+               'display': 'inline-block'}),
+
+    html.Br(),
+    html.Br(),
+    dcc.Graph(id='graph4')
 ])
 
 
@@ -349,6 +368,27 @@ def update3(input6, input7, input8, input31):
     )
     return fig
 
+@app.callback(
+    Output('graph4', 'figure'),
+    [Input('input9', 'value')])
+def update_map(input9):
+    color_code = {
+        'Active' : 'Reds',
+        'Confirmed' : 'Blues',
+        'Recovered' : 'Greens',
+        'Deceased' : 'Blues',
+        'Tested' : 'darkmint'
+    }
+    fig = px.choropleth(
+        state_df,
+        geojson="https://raw.githubusercontent.com/akash19x/covid_19_analysis_app/master/indian_states.geojson",
+        featureidkey='properties.ST_NM',
+        locations='State',
+        color=input9,
+        color_continuous_scale=color_code[input9]
+    )
+    fig.update_geos(fitbounds="locations", visible=False)
+    return fig
 
 if __name__ == '__main__':
     app.run_server(debug=True)

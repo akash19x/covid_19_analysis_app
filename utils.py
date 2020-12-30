@@ -23,6 +23,10 @@ def get_given_city_data(city_df, city):
     city_data = city_df[city_df['District'] == city]
     return city_data
 
+def get_state_data_latest():
+    state_df = pd.read_csv("https://api.covid19india.org/csv/latest/state_wise.csv")
+    state_df = state_df[['State', 'Confirmed', 'Recovered', 'Deaths', 'Active']]
+    return state_df
 
 def get_state_data():
     state_url = "https://api.covid19india.org/csv/latest/states.csv"

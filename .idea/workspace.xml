@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="022068d5-9115-4e76-a0c4-bc0333720b9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid19_india_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/covid19_india_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indian_states.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +31,13 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flaskapp2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.covid19_india_analysis">
     <configuration name="abc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -185,52 +193,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="420" y="198" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597653171000">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="420" y="198" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1597653171000" />
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600771470557">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="499" y="154" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1600771470557" />
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1598418983379" />
-    <state x="524" y="296" key="Github.ShareDialog" timestamp="1597649613251">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="524" y="296" key="Github.ShareDialog/67.27.1299.741@67.27.1299.741" timestamp="1597649613251" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1601285127457">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1601285127457" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1601285127456">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1601285127456" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1601285127455">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1601285127455" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1601285127457">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601285127457" />
-    <state x="205" y="31" key="SettingsEditor" timestamp="1601283960633">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1601283960633" />
-    <state x="330" y="67" width="762" height="658" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601277448895">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="330" y="67" width="762" height="658" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1601277448895" />
-    <state x="549" y="190" width="324" height="412" key="svn.repositoryBrowser" timestamp="1598419008522">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="549" y="190" width="324" height="412" key="svn.repositoryBrowser/67.27.1299.741@67.27.1299.741" timestamp="1598419008522" />
-    <state x="365" y="164" width="682" height="465" key="svn4idea.import.options" timestamp="1598419002645">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="365" y="164" width="682" height="465" key="svn4idea.import.options/67.27.1299.741@67.27.1299.741" timestamp="1598419002645" />
   </component>
 </project>
