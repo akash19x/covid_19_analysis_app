@@ -159,7 +159,7 @@ app.layout = html.Div([
     dcc.Graph(id='graph3', style={"color": "#FFF"}),
     html.Br(),
     html.Br(),
-    html.H4(children='Map Of India on the casis of Category of Covid -19 Cases.', style={'text-align': 'center'}),
+    html.H4(children='Map Of India on the basis of category of Covid-19 Cases.', style={'text-align': 'center'}),
     html.Div(
         [
             dcc.Dropdown(
