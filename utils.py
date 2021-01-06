@@ -15,29 +15,28 @@ def get_dates(data):
 
 
 def get_given_state_data(state_df, state):
-    state_data = state_df[state_df['State'] == state]
-    return state_data
+    return state_df[state_df.loc[:, 'State'] == state]
 
 
 def get_given_city_data(city_df, city):
-    city_data = city_df[city_df['District'] == city]
-    return city_data
+    return city_df[city_df.loc[:, 'District'] == city]
+
 
 def get_state_data_latest():
-    state_df = pd.read_csv("https://api.covid19india.org/csv/latest/state_wise.csv")
-    state_df = state_df[['State', 'Confirmed', 'Recovered', 'Deaths', 'Active']]
+    state_df = pd.read_csv("https://api.covid19india.org/csv/latest/state_wise.csv")[['State', 'Confirmed', 'Recovered', 'Deaths', 'Active']]
     return state_df
+
 
 def get_state_data():
     state_url = "https://api.covid19india.org/csv/latest/states.csv"
     state_data = requests.get(state_url).content
     state_cleaned_data = pd.read_csv(io.StringIO(state_data.decode('utf-8')), parse_dates=["Date"], index_col="Date",
                                      dayfirst=True)
-    state_df = state_cleaned_data["2020-06-20":]
-    state_df['Tested'].fillna(0, inplace=True)
+    state_df = state_cleaned_data.loc["2020-06-20":]
+    state_df.loc[:, 'Tested'].fillna(0, inplace=True)
     state_df = state_df.astype(conv_dict)
-    state_df['Active'] = state_df['Confirmed'] - state_df['Recovered'] - state_df['Deceased']
-    all_states = state_df['State'].unique()
+    state_df.loc[:, 'Active'] = state_df.loc[:, 'Confirmed'] - state_df.loc[:, 'Recovered'] - state_df.loc[:, 'Deceased']
+    all_states = state_df.loc[:, 'State'].unique()
     return state_df, all_states
 
 
@@ -46,9 +45,9 @@ def get_city_data():
     city_data = requests.get(city_url).content
     city_cleaned_data = pd.read_csv(io.StringIO(city_data.decode('utf-8')), parse_dates=["Date"], index_col="Date",
                                     dayfirst=True)
-    city_df = city_cleaned_data["2020-06-20":]
-    city_df['Tested'].fillna(0, inplace=True)
+    city_df = city_cleaned_data.loc["2020-06-20":]
+    city_df.loc[:, 'Tested'].fillna(0, inplace=True)
     city_df.astype(conv_dict)
-    city_df['Active'] = city_df['Confirmed'] - city_df['Recovered'] - city_df['Deceased']
-    all_cities = city_df['District'].unique()
+    city_df.loc[:, 'Active'] = city_df.loc[:, 'Confirmed'] - city_df.loc[:, 'Recovered'] - city_df.loc[:, 'Deceased']
+    all_cities = city_df.loc[:, 'District'].unique()
     return city_df, all_cities

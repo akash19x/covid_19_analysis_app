@@ -4,7 +4,6 @@
     <list default="true" id="022068d5-9115-4e76-a0c4-bc0333720b9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/covid19_india_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/covid19_india_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indian_states.geojson" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -5,12 +5,13 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 from utils import get_dates, get_state_data, get_city_data, get_given_city_data, \
     get_given_state_data, get_state_data_latest
-
+from plots import line_plot, area_plot, bar_plot, histogram_plot, funnel_plot, scatter_plot
 
 cases_types = ['Active', 'Confirmed', 'Recovered', 'Deceased', 'Tested']
 plot_types = ['plot', 'bar', 'histogram', 'area', 'funnel', 'scatter']
 bootstrap = "https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/solar/bootstrap.min.css"
 app = dash.Dash(__name__, external_stylesheets=[bootstrap])
+app.title = "COVID-19 Maps"
 server = app.server
 colors = {
     'background': '#111111',
@@ -29,7 +30,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="sta1",
+                id="states_1",
                 options=[{
                     'label': i,
                     'value': i
@@ -42,7 +43,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input2",
+                id="plot_types_1",
                 options=[{
                     'label': i,
                     'value': i
@@ -52,12 +53,12 @@ app.layout = html.Div([
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
-    dcc.Graph(id='graph-with-slider'),
+    dcc.Graph(id='graph1'),
     html.H4(children='A comparison of cases between any two states.', style={'text-align': 'center'}),
     html.Div(
         [
             dcc.Dropdown(
-                id="input3",
+                id="states_2_1",
                 options=[{
                     'label': i,
                     'value': i
@@ -69,7 +70,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input4",
+                id="states_2_2",
                 options=[{
                     'label': i,
                     'value': i
@@ -81,7 +82,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input5",
+                id="case_types_2",
                 options=[{
                     'label': i,
                     'value': i
@@ -93,7 +94,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input21",
+                id="plot_types_2",
                 options=[{
                     'label': i,
                     'value': i
@@ -109,7 +110,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input6",
+                id="cities_3_1",
                 options=[{
                     'label': i,
                     'value': i
@@ -121,7 +122,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input7",
+                id="cities_3_2",
                 options=[{
                     'label': i,
                     'value': i
@@ -133,7 +134,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input8",
+                id="case_types_3",
                 options=[{
                     'label': i,
                     'value': i
@@ -145,7 +146,7 @@ app.layout = html.Div([
     html.Div(
         [
             dcc.Dropdown(
-                id="input31",
+                id="plot_types_3",
                 options=[{
                     'label': i,
                     'value': i
@@ -157,13 +158,11 @@ app.layout = html.Div([
     html.Br(),
     html.Br(),
     dcc.Graph(id='graph3', style={"color": "#FFF"}),
-    html.Br(),
-    html.Br(),
     html.H4(children='Map Of India on the basis of category of Covid-19 Cases.', style={'text-align': 'center'}),
     html.Div(
         [
             dcc.Dropdown(
-                id="input9",
+                id="case_types_4",
                 options=[{
                     'label': i,
                     'value': i
@@ -172,59 +171,45 @@ app.layout = html.Div([
         ],
         style={'width': '25%',
                'display': 'inline-block'}),
-
+    dcc.Graph(id='graph4'),
     html.Br(),
+    html.Div(
+        [
+        html.H4(children='Developed by : Akash Mishra', style={'text-align': 'center'}),
+        dcc.Link('Source Code', href='https://github.com/akash19x/covid_19_analysis_app')
+        ],
+        style={'width': '25%',
+               'display': 'inline-block'}),
     html.Br(),
-    dcc.Graph(id='graph4')
+    html.Br()
 ])
 
 
 @app.callback(
-    Output('graph-with-slider', 'figure'),
-    [Input('sta1', 'value'),
-     Input('input2', 'value')])
-def update_figure(sta1, input2):
+    Output('graph1', 'figure'),
+    [Input('states_1', 'value'),
+     Input('plot_types_1', 'value')])
+def update_state_figures(state, plot_type):
     fig = None
-    state = get_given_state_data(state_df, sta1)
-    if input2 == 'plot':
-        fig = px.line(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
-                      title="Covid-19 data of state.",
-                      labels={
-                "x": "Time",
-                "value": "Number of Cases"}, template="presentation")
-
-    if input2 == 'bar':
-        fig = px.bar(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
-                     title="Covid-19 data of state.",
-                     labels={
-                        "x": "Time",
-                        "value": "Number of Cases"},
-                     template="presentation")
-    if input2 == 'area':
-        fig = px.area(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
-                      title="Covid-19 data of state.",
-                      labels={
-                "x": "Time",
-                "value": "Number of Cases"}, template="presentation")
-    if input2 == 'histogram':
-        fig = px.histogram(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
-                     title="Covid-19 data of state.",
-                     labels={
-                        "x": "Time",
-                        "value": "Number of Cases"},
-                     template="presentation")
-    if input2 == 'funnel':
-        fig = px.funnel(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
-                      title="Covid-19 data of state.",
-                      labels={
-                "x": "Time",
-                "value": "Number of Cases"}, template="presentation")
-    if input2 == 'scatter':
-        fig = px.scatter(state, x=get_dates(state_df), y=['Confirmed', 'Active', 'Recovered', 'Deceased'],
-                      title="Covid-19 data of state.",
-                      labels={
-                "x": "Time",
-                "value": "Number of Cases"}, template="presentation")
+    x = get_dates(state_df)
+    y = ['Confirmed', 'Active', 'Recovered', 'Deceased']
+    title = "Covid-19 data of state."
+    labels = {"x": "Time", "value": "Number of Cases"}
+    template = "presentation"
+    state = get_given_state_data(state_df, state)
+    data = state
+    if plot_type == "plot":
+        fig = line_plot(data, x, y, title, labels, template)
+    if plot_type == "bar":
+        fig = bar_plot(data, x, y, title, labels, template)
+    if plot_type == "histogram":
+        fig = histogram_plot(data, x, y, title, labels, template)
+    if plot_type == "area":
+        fig = area_plot(data, x, y, title, labels, template)
+    if plot_type == "funnel":
+        fig = funnel_plot(data, x, y, title, labels, template)
+    if plot_type == "scatter":
+        fig = scatter_plot(data, x, y, title, labels, template)
     fig.update_layout(
         font_family="Courier New",
         font_color="blue",
@@ -238,65 +223,35 @@ def update_figure(sta1, input2):
 
 @app.callback(
     Output('graph2', 'figure'),
-    [Input('input3', 'value'),
-     Input('input4', 'value'),
-     Input('input5', 'value'),
-     Input('input21','value')])
-def update2(input3, input4, input5, input21):
-    state1 = get_given_state_data(state_df, input3)
-    state2 = get_given_state_data(state_df, input4)
+    [Input('states_2_1', 'value'),
+     Input('states_2_2', 'value'),
+     Input('case_types_2', 'value'),
+     Input('plot_types_2', 'value')])
+def compare_two_states(state_a, state_b, case_type, plot_type):
+    state1 = get_given_state_data(state_df, state_a)
+    state2 = get_given_state_data(state_df, state_b)
     dfresult = state1
-    dfresult[input3] = state1[input5]
-    dfresult[input4] = state2[input5]
+    dfresult[state_a] = state1[case_type]
+    dfresult[state_b] = state2[case_type]
+    data = dfresult
+    x = get_dates(state_df)
+    y = [state_a, state_b]
+    title = "Covid-19 : Cases comparison between %s and %s . " % (state_a, state_b)
+    labels = {"x": "Time", "value": "Number of Cases"}
+    template = "presentation"
     fig = None
-    if input21 == "plot":
-        fig = px.line(dfresult, x=get_dates(state_df), y=[input3, input4],
-                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
-                     labels={
-                         "x": "Time",
-                         "value": "Number of Cases"},
-                     template="presentation"
-                     )
-    if input21 == "bar":
-        fig = px.bar(dfresult, x=get_dates(state_df), y=[input3, input4],
-                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
-                     labels={
-                         "x": "Time",
-                         "value": "Number of Cases"},
-                     template="presentation"
-                     )
-    if input21 == "histogram":
-        fig = px.histogram(dfresult, x=get_dates(state_df), y=[input3, input4],
-                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
-                     labels={
-                         "x": "Time",
-                         "value": "Number of Cases"},
-                     template="presentation"
-                     )
-    if input21 == "area":
-        fig = px.area(dfresult, x=get_dates(state_df), y=[input3, input4],
-                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
-                     labels={
-                         "x": "Time",
-                         "value": "Number of Cases"},
-                     template="presentation"
-                     )
-    if input21 == "funnel":
-        fig = px.funnel(dfresult, x=get_dates(state_df), y=[input3, input4],
-                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
-                     labels={
-                         "x": "Time",
-                         "value": "Number of Cases"},
-                     template="presentation"
-                     )
-    if input21 == "scatter":
-        fig = px.scatter(dfresult, x=get_dates(state_df), y=[input3, input4],
-                     title="Covid-19 : Cases comparison between %s and %s . " % (input3, input4),
-                     labels={
-                         "x": "Time",
-                         "value": "Number of Cases"},
-                     template="presentation"
-                     )
+    if plot_type == "plot":
+        fig = line_plot(data, x, y, title, labels, template)
+    if plot_type == "bar":
+        fig = bar_plot(data, x, y, title, labels, template)
+    if plot_type == "histogram":
+        fig = histogram_plot(data, x, y, title, labels, template)
+    if plot_type == "area":
+        fig = area_plot(data, x, y, title, labels, template)
+    if plot_type == "funnel":
+        fig = funnel_plot(data, x, y, title, labels, template)
+    if plot_type == "scatter":
+        fig = scatter_plot(data, x, y, title, labels, template)
 
     fig.update_layout(
         font_family="Courier New",
@@ -311,53 +266,35 @@ def update2(input3, input4, input5, input21):
 
 @app.callback(
     Output('graph3', 'figure'),
-    [Input('input6', 'value'),
-     Input('input7', 'value'),
-     Input('input8', 'value'),
-     Input('input31', 'value')])
-def update3(input6, input7, input8, input31):
-    city1 = get_given_city_data(city_df, input6)
-    city2 = get_given_city_data(city_df, input7)
+    [Input('cities_3_1', 'value'),
+     Input('cities_3_2', 'value'),
+     Input('case_types_3', 'value'),
+     Input('plot_types_3', 'value')])
+def compare_two_cities(city_a, city_b, case_type, plot_type):
+    city1 = get_given_city_data(city_df, city_a)
+    city2 = get_given_city_data(city_df, city_b)
     dfresult = city1
-    dfresult[input6] = city1[input8]
-    dfresult[input7] = city2[input8]
+    dfresult[city_a] = city1[case_type]
+    dfresult[city_b] = city2[case_type]
+    data = dfresult
+    x = get_dates(city_df)
+    y = [city_a, city_b]
+    title = "Covid-19 : Cases comparison between %s and %s . " % (city_a, city_b)
+    labels = {"x": "Time", "value": "Number of Cases"}
+    template = "presentation"
     fig = None
-    if input31 == 'plot':
-        fig = px.line(dfresult, x=get_dates(city_df), y=[input6, input7],
-                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
-                      labels={
-                          "x": "Time",
-                          "value": "Number of Cases"}, template="presentation")
-    if input31 == 'bar':
-        fig = px.bar(dfresult, x=get_dates(city_df), y=[input6, input7],
-                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
-                      labels={
-                          "x": "Time",
-                          "value": "Number of Cases"}, template="presentation")
-    if input31 == 'histogram':
-        fig = px.histogram(dfresult, x=get_dates(city_df), y=[input6, input7],
-                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
-                      labels={
-                          "x": "Time",
-                          "value": "Number of Cases"}, template="presentation")
-    if input31 == 'area':
-        fig = px.area(dfresult, x=get_dates(city_df), y=[input6, input7],
-                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
-                      labels={
-                          "x": "Time",
-                          "value": "Number of Cases"}, template="presentation")
-    if input31 == 'funnel':
-        fig = px.funnel(dfresult, x=get_dates(city_df), y=[input6, input7],
-                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
-                      labels={
-                          "x": "Time",
-                          "value": "Number of Cases"}, template="presentation")
-    if input31 == 'scatter':
-        fig = px.scatter(dfresult, x=get_dates(city_df), y=[input6, input7],
-                      title="Covid-19 : Cases comparison between %s and %s . " % (input6, input7),
-                      labels={
-                          "x": "Time",
-                          "value": "Number of Cases"}, template="presentation")
+    if plot_type == "plot":
+        fig = line_plot(data, x, y, title, labels, template)
+    if plot_type == "bar":
+        fig = bar_plot(data, x, y, title, labels, template)
+    if plot_type == "histogram":
+        fig = histogram_plot(data, x, y, title, labels, template)
+    if plot_type == "area":
+        fig = area_plot(data, x, y, title, labels, template)
+    if plot_type == "funnel":
+        fig = funnel_plot(data, x, y, title, labels, template)
+    if plot_type == "scatter":
+        fig = scatter_plot(data, x, y, title, labels, template)
     fig.update_layout(
         font_family="Courier New",
         font_color="blue",
@@ -370,8 +307,8 @@ def update3(input6, input7, input8, input31):
 
 @app.callback(
     Output('graph4', 'figure'),
-    [Input('input9', 'value')])
-def update_map(input9):
+    [Input('case_types_4', 'value')])
+def update_map(case_type):
     color_code = {
         'Active' : 'Reds',
         'Confirmed' : 'Blues',
@@ -381,14 +318,14 @@ def update_map(input9):
     }
     fig = px.choropleth(
         state_df,
-        geojson="https://raw.githubusercontent.com/akash19x/covid_19_analysis_app/master/indian_states.geojson",
+        geojson="https://raw.githubusercontent.com/akash19x/CloroPleth-Maps/main/indian_states.geojson",
         featureidkey='properties.ST_NM',
         locations='State',
-        color=input9,
-        color_continuous_scale=color_code[input9]
+        color=case_type,
+        color_continuous_scale=color_code[case_type]
     )
     fig.update_geos(fitbounds="locations", visible=False)
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True,port=8049)
