@@ -24,7 +24,7 @@ app.layout = html.Div([
     html.H1(children='COVID-19 Analysis Project', style={'text-align': 'center'}),
     html.Div(children='''
         This is a COVID-19 analysis project made on Python Dash framework using data analysis libraries like pandas,plotly and APIs.
-        It is made for educational purposes only and we have used https://api.covid19india.org to get the dataset for analysis.
+        It is made for educational purposes only and we have used https://www.covid19india.org to get the dataset for analysis.
     ''', style={'text-align': 'center'}),
     html.Br(),
     html.Div(
