@@ -1,13 +1,8 @@
 FROM python:alpine3.8
 COPY . /app
 WORKDIR /app
-RUN apk add --no-cache --update \
-    python3 python3-dev gcc \
-    gfortran musl-dev g++ \
-    libffi-dev openssl-dev \
-    libxml2 libxml2-dev \
-    libxslt libxslt-dev \
-    libjpeg-turbo-dev zlib-dev
+RUN apk add --no-cache --virtual .build-deps gcc musl-dev python3-dev \
+    && pip install cython
 
 RUN pip install --upgrade pip
 
