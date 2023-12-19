@@ -1,4 +1,4 @@
-FROM python:alpine3.7
+FROM python:alpine3.8
 COPY . /app
 WORKDIR /app
 RUN apk add --no-cache --update \
