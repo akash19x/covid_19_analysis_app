@@ -13,7 +13,7 @@ It includes :
 
 • Technologies used : Python 3, Dash- Plotly, Data Manipulation libraries like pandas and matplotlib and APIs.
 ## 🔗 Project Link
-[akashmishra75.herokuapp.com](http://akashmishra75.herokuapp.com/)
+[https://akashmishra75.pythonanywhere.com/](https://akashmishra75.pythonanywhere.com/)
 
 ## Features
 
